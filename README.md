@@ -8,11 +8,6 @@ Serverless backend for the PortSync marine traffic tracking system, deployed on 
 
 ```
 EventBridge (1 min)  ──▶  Data Simulator Lambda  ──▶  DynamoDB (Live State)
-                                                           │
-                                                     DynamoDB Streams
-                                                           │
-                                                           ▼
-                                                  Heatmap Batching Lambda  ──▶  DynamoDB (Heatmap Aggregates)
 
 React Frontend  ──▶  API Gateway  ──▶  API Handler Lambda  ──▶  DynamoDB (live)
                          │                                  ──▶  S3 Data Lake (historical)
@@ -54,7 +49,6 @@ portsync-backend/
 |----------|-------------|
 | `GET /api/live/vessels` | List all live vessels (supports `bbox`, `vessel_type` filters) |
 | `GET /api/live/vessels/{mmsi}` | Single vessel detail with 10-point track history |
-| `GET /api/live/heatmap` | Grid-based vessel density heatmap |
 | `GET /api/historical/cargo/total` | Monthly cargo throughput |
 | `GET /api/historical/cargo/breakdown` | Cargo by category |
 | `GET /api/historical/container` | Container throughput in TEUs |
