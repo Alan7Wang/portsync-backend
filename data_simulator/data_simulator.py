@@ -104,10 +104,21 @@ ROUTES = [
     {
         'id': 'changi_approach',
         'name': 'Changi Approach',
-        'weight': 0.07,
+        'weight': 0.02,
         'base_heading': 10,
         'waypoints': [
             (1.195, 104.03), (1.230, 104.04), (1.280, 104.04),
+        ],
+        'lane_width_deg': 0.005,
+        'is_anchorage': False,
+    },
+    {
+        'id': 'keppel_approach',
+        'name': 'Keppel Terminal Approach',
+        'weight': 0.05,
+        'base_heading': 0,
+        'waypoints': [
+            (1.195, 103.85), (1.220, 103.85), (1.250, 103.84),
         ],
         'lane_width_deg': 0.005,
         'is_anchorage': False,
