@@ -1,0 +1,5100 @@
+{
+  "_meta": {
+    "source_file": "AIS_2022_03_31.csv",
+    "source_size_mb": 735.4,
+    "total_ais_records": 7167046,
+    "unique_vessels": 15733,
+    "description": "Vessel behavior parameters extracted from NOAA AIS data for CS5224 Smart Ocean Shipping Tracker simulator calibration."
+  },
+  "speed_profiles": {
+    "anchored": {
+      "mean_knots": 0.03,
+      "std_knots": 0.07,
+      "proportion": 0.7387,
+      "sample_count": 5277751
+    },
+    "maneuvering": {
+      "mean_knots": 2.59,
+      "std_knots": 1.45,
+      "proportion": 0.0987,
+      "sample_count": 705155
+    },
+    "cruising": {
+      "mean_knots": 8.73,
+      "std_knots": 2.62,
+      "proportion": 0.1461,
+      "sample_count": 1043470
+    },
+    "fast": {
+      "mean_knots": 19.66,
+      "std_knots": 4.75,
+      "proportion": 0.0165,
+      "sample_count": 118083
+    }
+  },
+  "sog_percentiles": {
+    "p5": 0.0,
+    "p10": 0.0,
+    "p25": 0.0,
+    "p50": 0.0,
+    "p75": 0.6,
+    "p90": 7.7,
+    "p95": 10.9
+  },
+  "cog_distribution": [
+    {
+      "bin_start_deg": 0,
+      "bin_end_deg": 10,
+      "proportion": 0.0538
+    },
+    {
+      "bin_start_deg": 10,
+      "bin_end_deg": 20,
+      "proportion": 0.023
+    },
+    {
+      "bin_start_deg": 20,
+      "bin_end_deg": 30,
+      "proportion": 0.0222
+    },
+    {
+      "bin_start_deg": 30,
+      "bin_end_deg": 40,
+      "proportion": 0.0218
+    },
+    {
+      "bin_start_deg": 40,
+      "bin_end_deg": 50,
+      "proportion": 0.0213
+    },
+    {
+      "bin_start_deg": 50,
+      "bin_end_deg": 60,
+      "proportion": 0.021
+    },
+    {
+      "bin_start_deg": 60,
+      "bin_end_deg": 70,
+      "proportion": 0.0206
+    },
+    {
+      "bin_start_deg": 70,
+      "bin_end_deg": 80,
+      "proportion": 0.0188
+    },
+    {
+      "bin_start_deg": 80,
+      "bin_end_deg": 90,
+      "proportion": 0.0204
+    },
+    {
+      "bin_start_deg": 90,
+      "bin_end_deg": 100,
+      "proportion": 0.0213
+    },
+    {
+      "bin_start_deg": 100,
+      "bin_end_deg": 110,
+      "proportion": 0.0197
+    },
+    {
+      "bin_start_deg": 110,
+      "bin_end_deg": 120,
+      "proportion": 0.0205
+    },
+    {
+      "bin_start_deg": 120,
+      "bin_end_deg": 130,
+      "proportion": 0.0219
+    },
+    {
+      "bin_start_deg": 130,
+      "bin_end_deg": 140,
+      "proportion": 0.0218
+    },
+    {
+      "bin_start_deg": 140,
+      "bin_end_deg": 150,
+      "proportion": 0.0226
+    },
+    {
+      "bin_start_deg": 150,
+      "bin_end_deg": 160,
+      "proportion": 0.024
+    },
+    {
+      "bin_start_deg": 160,
+      "bin_end_deg": 170,
+      "proportion": 0.025
+    },
+    {
+      "bin_start_deg": 170,
+      "bin_end_deg": 180,
+      "proportion": 0.0264
+    },
+    {
+      "bin_start_deg": 180,
+      "bin_end_deg": 190,
+      "proportion": 0.0287
+    },
+    {
+      "bin_start_deg": 190,
+      "bin_end_deg": 200,
+      "proportion": 0.0263
+    },
+    {
+      "bin_start_deg": 200,
+      "bin_end_deg": 210,
+      "proportion": 0.0263
+    },
+    {
+      "bin_start_deg": 210,
+      "bin_end_deg": 220,
+      "proportion": 0.0296
+    },
+    {
+      "bin_start_deg": 220,
+      "bin_end_deg": 230,
+      "proportion": 0.0324
+    },
+    {
+      "bin_start_deg": 230,
+      "bin_end_deg": 240,
+      "proportion": 0.0366
+    },
+    {
+      "bin_start_deg": 240,
+      "bin_end_deg": 250,
+      "proportion": 0.0392
+    },
+    {
+      "bin_start_deg": 250,
+      "bin_end_deg": 260,
+      "proportion": 0.0396
+    },
+    {
+      "bin_start_deg": 260,
+      "bin_end_deg": 270,
+      "proportion": 0.0409
+    },
+    {
+      "bin_start_deg": 270,
+      "bin_end_deg": 280,
+      "proportion": 0.0401
+    },
+    {
+      "bin_start_deg": 280,
+      "bin_end_deg": 290,
+      "proportion": 0.0345
+    },
+    {
+      "bin_start_deg": 290,
+      "bin_end_deg": 300,
+      "proportion": 0.0334
+    },
+    {
+      "bin_start_deg": 300,
+      "bin_end_deg": 310,
+      "proportion": 0.0301
+    },
+    {
+      "bin_start_deg": 310,
+      "bin_end_deg": 320,
+      "proportion": 0.0281
+    },
+    {
+      "bin_start_deg": 320,
+      "bin_end_deg": 330,
+      "proportion": 0.0275
+    },
+    {
+      "bin_start_deg": 330,
+      "bin_end_deg": 340,
+      "proportion": 0.0263
+    },
+    {
+      "bin_start_deg": 340,
+      "bin_end_deg": 350,
+      "proportion": 0.0273
+    },
+    {
+      "bin_start_deg": 350,
+      "bin_end_deg": 360,
+      "proportion": 0.027
+    }
+  ],
+  "heading_change": {
+    "mean_deg": 0.0,
+    "std_deg": 12.716,
+    "median_deg": 0.0,
+    "p5_deg": -6.0,
+    "p95_deg": 6.0,
+    "sample_count": 152968,
+    "vessels_sampled": 5000
+  },
+  "vessel_type_distribution": {
+    "37": 4782,
+    "31": 3361,
+    "36": 1206,
+    "70": 1184,
+    "90": 1080,
+    "60": 1068,
+    "30": 1035,
+    "80": 548,
+    "52": 333,
+    "57": 189,
+    "51": 104,
+    "33": 76,
+    "71": 71,
+    "50": 67,
+    "99": 63,
+    "79": 46,
+    "89": 38,
+    "35": 33,
+    "55": 30,
+    "74": 23
+  },
+  "vessel_pool": [
+    {
+      "mmsi": "671226100",
+      "name": "RELIANCE II",
+      "imo": "IMO9221322",
+      "callsign": "5VHS7",
+      "vessel_type_code": 79,
+      "length": 52.0,
+      "width": 12.0,
+      "draft": 2.5
+    },
+    {
+      "mmsi": "367452810",
+      "name": "JOHN W JOHNSON",
+      "imo": "IMO9602344",
+      "callsign": "WDF4516",
+      "vessel_type_code": 60,
+      "length": 80.0,
+      "width": 19.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "366919770",
+      "name": "LYNN MARIE",
+      "imo": "IMO9253583",
+      "callsign": "WDB6192",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 12.0,
+      "draft": 3.8
+    },
+    {
+      "mmsi": "366918650",
+      "name": "POINT CLEAR",
+      "imo": "IMO8972948",
+      "callsign": "WDB6128",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "311000966",
+      "name": "KYDON",
+      "imo": "IMO8916607",
+      "callsign": "C6EP8",
+      "vessel_type_code": 60,
+      "length": 192.0,
+      "width": 27.0,
+      "draft": 6.4
+    },
+    {
+      "mmsi": "219028420",
+      "name": "TORM CORRIDO",
+      "imo": "IMO9411305",
+      "callsign": "OZNT2",
+      "vessel_type_code": 89,
+      "length": 182.0,
+      "width": 32.0,
+      "draft": 10.8
+    },
+    {
+      "mmsi": "354499000",
+      "name": "MSC ESTHI",
+      "imo": "IMO9304411",
+      "callsign": "3EFU3",
+      "vessel_type_code": 70,
+      "length": 336.0,
+      "width": 45.0,
+      "draft": 15.0
+    },
+    {
+      "mmsi": "367384780",
+      "name": "CAROLYN DOROTHY",
+      "imo": "IMO9552288",
+      "callsign": "WDE6786",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "367560990",
+      "name": "ATLAS",
+      "imo": "IMO9641754",
+      "callsign": "WDG6819",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "367743710",
+      "name": "ISLAND MERCHANT",
+      "imo": "IMO8971592",
+      "callsign": "WDI8942",
+      "vessel_type_code": 31,
+      "length": 19.0
+    },
+    {
+      "mmsi": "367625810",
+      "name": "VETERAN",
+      "imo": "IMO9765720",
+      "callsign": "WDH5227",
+      "vessel_type_code": 31,
+      "length": 31.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "356436000",
+      "name": "EVERGLORY",
+      "imo": "IMO8512889",
+      "callsign": "3EPI9",
+      "vessel_type_code": 70,
+      "length": 225.0,
+      "width": 32.0,
+      "draft": 13.2
+    },
+    {
+      "mmsi": "367438530",
+      "name": "CAPT PEYTON P",
+      "imo": "IMO9593050",
+      "callsign": "WDF3321",
+      "vessel_type_code": 60,
+      "length": 44.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "367482310",
+      "name": "DON OSCAR P",
+      "imo": "IMO7621839",
+      "callsign": "WDF7223",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 9.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367543860",
+      "name": "GEORGETOWN",
+      "imo": "IMO7202413",
+      "callsign": "WDG5154",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "367446290",
+      "name": "MISS QUYNH ANH III",
+      "imo": "IMO8970031",
+      "callsign": "WDF3970",
+      "vessel_type_code": 30,
+      "length": 27.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "366816890",
+      "name": "BUNNY BORDELON",
+      "imo": "IMO9260756",
+      "callsign": "WDA5139",
+      "vessel_type_code": 90,
+      "length": 44.0,
+      "width": 10.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "636019181",
+      "name": "PACIFIC JADE",
+      "imo": "IMO9867803",
+      "callsign": "D5TH8",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 12.3
+    },
+    {
+      "mmsi": "367309420",
+      "name": "PARAGON",
+      "imo": "IMO7802627",
+      "callsign": "WDD9285",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 9.0,
+      "draft": 4.1
+    },
+    {
+      "mmsi": "367432090",
+      "name": "R/V SUNCOASTER",
+      "imo": "IMO367432090",
+      "callsign": "WDF2805",
+      "vessel_type_code": 90,
+      "length": 36.0,
+      "width": 8.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367384460",
+      "name": "MAVERICK",
+      "imo": "IMO8855073",
+      "callsign": "WDE6757",
+      "vessel_type_code": 30,
+      "length": 25.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "366759130",
+      "name": "WSF PUYALLUP",
+      "imo": "IMO9137363",
+      "callsign": "WCY7938",
+      "vessel_type_code": 60,
+      "length": 138.0,
+      "width": 27.0,
+      "draft": 5.3
+    },
+    {
+      "mmsi": "367394940",
+      "name": "ESCAMBIA",
+      "imo": "IMO9190951",
+      "callsign": "WDE7575",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 15.0,
+      "draft": 1.6
+    },
+    {
+      "mmsi": "367721050",
+      "name": "WANDA ISABELLE",
+      "imo": "IMO8635411",
+      "callsign": "WDI6672",
+      "vessel_type_code": 31,
+      "length": 17.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "338570000",
+      "name": "BAYPORT",
+      "imo": "IMO8993784",
+      "callsign": "WCZ4240",
+      "vessel_type_code": 90,
+      "length": 90.0,
+      "width": 16.0
+    },
+    {
+      "mmsi": "564702000",
+      "name": "EPIC CURACAO",
+      "imo": "IMO9698288",
+      "callsign": "9V2515",
+      "vessel_type_code": 80,
+      "length": 95.0,
+      "width": 15.0,
+      "draft": 5.5
+    },
+    {
+      "mmsi": "366991260",
+      "name": "CAPT JOHN E GRAHAM",
+      "imo": "IMO8988428",
+      "callsign": "WDC2329",
+      "vessel_type_code": 90,
+      "length": 41.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "316011408",
+      "name": "COASTAL INSPIRATION",
+      "imo": "IMO9332767",
+      "callsign": "CFN4970",
+      "vessel_type_code": 60,
+      "length": 160.0,
+      "width": 28.0,
+      "draft": 5.8
+    },
+    {
+      "mmsi": "368926303",
+      "name": "USNS WESTWIND",
+      "imo": "IMO9472359",
+      "callsign": "NWES",
+      "vessel_type_code": 99,
+      "length": 76.0,
+      "width": 17.0,
+      "draft": 4.3
+    },
+    {
+      "mmsi": "367379190",
+      "name": "EAGLE",
+      "imo": "IMO8207721",
+      "callsign": "WTD4583",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 11.0,
+      "draft": 3.3
+    },
+    {
+      "mmsi": "316020878",
+      "name": "ROSE MACKENZIE",
+      "imo": "IMO7233254",
+      "callsign": "CFG7415",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 7.0,
+      "draft": 3.7
+    },
+    {
+      "mmsi": "210080000",
+      "name": "VIRGEN DEL CISNE",
+      "imo": "IMO9428372",
+      "callsign": "5BQP5",
+      "vessel_type_code": 89,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 8.0
+    },
+    {
+      "mmsi": "367400840",
+      "name": "DRY TORTUGAS",
+      "imo": "IMO9585089",
+      "callsign": "WDE8043",
+      "vessel_type_code": 90,
+      "length": 49.0,
+      "width": 12.0,
+      "draft": 3.7
+    },
+    {
+      "mmsi": "368222160",
+      "name": "SALLY LAPEYRE",
+      "imo": "IMO1313275",
+      "callsign": "WDM6099",
+      "vessel_type_code": 57,
+      "length": 227.0,
+      "width": 22.0,
+      "draft": 2.9
+    },
+    {
+      "mmsi": "319106300",
+      "name": "LEUDIN I",
+      "imo": "IMO9710127",
+      "callsign": "ZGFM6",
+      "vessel_type_code": 37,
+      "length": 40.0,
+      "width": 8.0,
+      "draft": 2.5
+    },
+    {
+      "mmsi": "368174460",
+      "name": "VAN PORT",
+      "imo": "IMO0000529",
+      "callsign": "WDL8948",
+      "vessel_type_code": 57,
+      "length": 209.0,
+      "width": 22.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "240975000",
+      "name": "KIMOLOS",
+      "imo": "IMO9405540",
+      "callsign": "SVAV7",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 13.3
+    },
+    {
+      "mmsi": "636016978",
+      "name": "MSC TAVVISHI",
+      "imo": "IMO9189366",
+      "callsign": "D5IR7",
+      "vessel_type_code": 99,
+      "length": 278.0,
+      "width": 40.0,
+      "draft": 13.6
+    },
+    {
+      "mmsi": "564411000",
+      "name": "THOR MONADIC",
+      "imo": "IMO9331220",
+      "callsign": "9V8978",
+      "vessel_type_code": 70,
+      "length": 189.0,
+      "width": 32.0,
+      "draft": 12.6
+    },
+    {
+      "mmsi": "316005616",
+      "name": "STORM BANDIT",
+      "imo": "IMO8006309",
+      "callsign": "CZ7389",
+      "vessel_type_code": 31,
+      "length": 20.0,
+      "width": 8.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "368210950",
+      "name": "CHRIS MILLER",
+      "imo": "IMO1307034",
+      "callsign": "WDM4918",
+      "vessel_type_code": 52,
+      "length": 24.0,
+      "width": 12.0,
+      "draft": 2.7
+    },
+    {
+      "mmsi": "257435000",
+      "name": "OSLO BULK 6",
+      "imo": "IMO9589968",
+      "callsign": "LAHC8",
+      "vessel_type_code": 70,
+      "length": 108.0,
+      "width": 18.0,
+      "draft": 4.3
+    },
+    {
+      "mmsi": "366847780",
+      "name": "PACIFIC DAWN",
+      "imo": "IMO7400467",
+      "callsign": "WDA7844",
+      "vessel_type_code": 31,
+      "length": 32.0,
+      "width": 8.0,
+      "draft": 3.6
+    },
+    {
+      "mmsi": "367453020",
+      "name": "DIRK C",
+      "imo": "IMO7509469",
+      "callsign": "WDF4536",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 9.0,
+      "draft": 3.3
+    },
+    {
+      "mmsi": "367665030",
+      "name": "OCEAN GRAND",
+      "imo": "IMO9681821",
+      "callsign": "WDH9141",
+      "vessel_type_code": 70,
+      "length": 170.0,
+      "width": 25.0,
+      "draft": 9.5
+    },
+    {
+      "mmsi": "209513000",
+      "name": "OCEAN PEARL",
+      "imo": "IMO9060247",
+      "callsign": "C4BQ2",
+      "vessel_type_code": 70,
+      "length": 169.0,
+      "width": 27.0,
+      "draft": 9.8
+    },
+    {
+      "mmsi": "338225000",
+      "name": "HARVEY ENERGY",
+      "imo": "IMO9654220",
+      "callsign": "KHEK",
+      "vessel_type_code": 90,
+      "length": 92.0,
+      "width": 19.0,
+      "draft": 6.1
+    },
+    {
+      "mmsi": "319129600",
+      "name": "SCORPIO",
+      "imo": "IMO9389071",
+      "callsign": "ZGHE8",
+      "vessel_type_code": 80,
+      "length": 244.0,
+      "width": 42.0,
+      "draft": 13.7
+    },
+    {
+      "mmsi": "368187930",
+      "name": "ADRIENNE M MOORE",
+      "imo": "IMO101307049",
+      "callsign": "WDM2420",
+      "vessel_type_code": 57,
+      "length": 207.0,
+      "width": 23.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "366995460",
+      "name": "ATLAS",
+      "imo": "IMO8842258",
+      "callsign": "WDC2601",
+      "vessel_type_code": 31,
+      "length": 21.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367007110",
+      "name": "CECILIA B SLATTEN",
+      "imo": "IMO8964757",
+      "callsign": "WDC3386",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 11.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "636019582",
+      "name": "MSC ARICA",
+      "imo": "IMO9619452",
+      "callsign": "D5VE2",
+      "vessel_type_code": 71,
+      "length": 299.0,
+      "width": 48.0,
+      "draft": 12.1
+    },
+    {
+      "mmsi": "636020655",
+      "name": "KAGAWA MARU",
+      "imo": "IMO9885075",
+      "callsign": "5LAB4",
+      "vessel_type_code": 70,
+      "length": 250.0,
+      "width": 43.0,
+      "draft": 7.6
+    },
+    {
+      "mmsi": "356727000",
+      "name": "CENTURY MELODY",
+      "imo": "IMO9580211",
+      "callsign": "3FCS6",
+      "vessel_type_code": 70,
+      "length": 137.0,
+      "width": 23.0,
+      "draft": 8.3
+    },
+    {
+      "mmsi": "636019200",
+      "name": "CHEM GALLIUM",
+      "imo": "IMO9740782",
+      "callsign": "D5TK4",
+      "vessel_type_code": 80,
+      "length": 147.0,
+      "width": 24.0,
+      "draft": 10.0
+    },
+    {
+      "mmsi": "367098050",
+      "name": "GRETCHEN H",
+      "imo": "IMO8964587",
+      "callsign": "WDC9138",
+      "vessel_type_code": 31,
+      "length": 24.0,
+      "width": 9.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "308017000",
+      "name": "CARNIVAL SUNSHINE",
+      "imo": "IMO9070058",
+      "callsign": "C6FN4",
+      "vessel_type_code": 60,
+      "length": 272.0,
+      "width": 35.0,
+      "draft": 8.3
+    },
+    {
+      "mmsi": "316014107",
+      "name": "SST GRIZZLY",
+      "imo": "IMO9756482",
+      "callsign": "CFA2897",
+      "vessel_type_code": 31,
+      "length": 32.0,
+      "width": 13.0,
+      "draft": 5.8
+    },
+    {
+      "mmsi": "366982350",
+      "name": "MS CHRISTINE",
+      "imo": "IMO9117026",
+      "callsign": "WDI6837",
+      "vessel_type_code": 60,
+      "length": 46.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "367450580",
+      "name": "GRUMPY J",
+      "imo": "IMO7049433",
+      "callsign": "WDF4332",
+      "vessel_type_code": 30,
+      "length": 21.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "248432000",
+      "name": "CMA CGM NERVAL",
+      "imo": "IMO9406623",
+      "callsign": "9HA2361",
+      "vessel_type_code": 70,
+      "length": 299.0,
+      "width": 40.0,
+      "draft": 14.5
+    },
+    {
+      "mmsi": "255806154",
+      "name": "NORDTULIP",
+      "imo": "IMO9521447",
+      "callsign": "CQAE8",
+      "vessel_type_code": 89,
+      "length": 229.0,
+      "width": 42.0,
+      "draft": 8.2
+    },
+    {
+      "mmsi": "368584000",
+      "name": "HARVEY SPIRIT",
+      "imo": "IMO9388106",
+      "callsign": "WDD4830",
+      "vessel_type_code": 90,
+      "length": 85.0,
+      "width": 18.0,
+      "draft": 5.0
+    },
+    {
+      "mmsi": "368078510",
+      "name": "MCCULLOCH",
+      "imo": "IMO1252854",
+      "callsign": "WDK6827",
+      "vessel_type_code": 57,
+      "length": 207.0,
+      "width": 16.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "368174450",
+      "name": "TREY DELOACH",
+      "imo": "IMO7048154",
+      "callsign": "WDL8947",
+      "vessel_type_code": 57,
+      "length": 82.0,
+      "width": 12.0,
+      "draft": 2.7
+    },
+    {
+      "mmsi": "248516000",
+      "name": "CASTILLO DE MERIDA",
+      "imo": "IMO9742807",
+      "callsign": "9HA4686",
+      "vessel_type_code": 80,
+      "length": 297.0,
+      "width": 49.0,
+      "draft": 9.5
+    },
+    {
+      "mmsi": "368251000",
+      "name": "SEA TRADER",
+      "imo": "IMO7517698",
+      "callsign": "WDE7566",
+      "vessel_type_code": 30,
+      "length": 84.0,
+      "width": 18.0,
+      "draft": 4.7
+    },
+    {
+      "mmsi": "477004700",
+      "name": "COSCO VENICE",
+      "imo": "IMO9484405",
+      "callsign": "VRME4",
+      "vessel_type_code": 70,
+      "length": 261.0,
+      "width": 32.0,
+      "draft": 11.0
+    },
+    {
+      "mmsi": "367717930",
+      "name": "LUCKY FOREVER",
+      "imo": "IMO8984135",
+      "callsign": "WDI6363",
+      "vessel_type_code": 30,
+      "length": 25.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "563093900",
+      "name": "MTM HUDSON",
+      "imo": "IMO9278064",
+      "callsign": "9V6540",
+      "vessel_type_code": 80,
+      "length": 178.0,
+      "width": 32.0,
+      "draft": 6.5
+    },
+    {
+      "mmsi": "368481000",
+      "name": "SP AMBER",
+      "imo": "IMO9423138",
+      "callsign": "WDE2808",
+      "vessel_type_code": 31,
+      "length": 33.0,
+      "width": 12.0,
+      "draft": 5.1
+    },
+    {
+      "mmsi": "368113360",
+      "name": "LEE W",
+      "imo": "IMO1297828",
+      "callsign": "WDL2576",
+      "vessel_type_code": 57,
+      "length": 224.0,
+      "width": 17.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "356222000",
+      "name": "SHIMANAMI QUEEN",
+      "imo": "IMO9589786",
+      "callsign": "3FTV",
+      "vessel_type_code": 70,
+      "length": 199.0,
+      "width": 32.0,
+      "draft": 13.0
+    },
+    {
+      "mmsi": "368119110",
+      "name": "C.D. WHITE",
+      "imo": "IMO9899181",
+      "callsign": "WDL3184",
+      "vessel_type_code": 52,
+      "length": 28.0,
+      "width": 12.0,
+      "draft": 17.0
+    },
+    {
+      "mmsi": "367381000",
+      "name": "OVERSEAS NEW YORK",
+      "imo": "IMO9353541",
+      "callsign": "WGEH",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 12.2
+    },
+    {
+      "mmsi": "366773070",
+      "name": "WSF CATHLAMET",
+      "imo": "IMO7808138",
+      "callsign": "WYR7641",
+      "vessel_type_code": 60,
+      "length": 100.0,
+      "width": 23.0,
+      "draft": 4.7
+    },
+    {
+      "mmsi": "311923000",
+      "name": "APOLLON",
+      "imo": "IMO9289532",
+      "callsign": "C6UI4",
+      "vessel_type_code": 80,
+      "length": 186.0,
+      "width": 32.0,
+      "draft": 13.0
+    },
+    {
+      "mmsi": "367336190",
+      "name": "LAURA K MORAN",
+      "imo": "IMO9415765",
+      "callsign": "WDE3239",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 9.0,
+      "draft": 3.4
+    },
+    {
+      "mmsi": "316009219",
+      "name": "ISLAND SCOUT",
+      "imo": "IMO8967450",
+      "callsign": "CFG7527",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 7.0,
+      "draft": 3.4
+    },
+    {
+      "mmsi": "215137000",
+      "name": "CMA CGM J. MADISON",
+      "imo": "IMO9780897",
+      "callsign": "9HA4975",
+      "vessel_type_code": 71,
+      "length": 366.0,
+      "width": 48.0,
+      "draft": 11.6
+    },
+    {
+      "mmsi": "367472000",
+      "name": "GENE DUNLAP",
+      "imo": "IMO7227358",
+      "callsign": "WAS2433",
+      "vessel_type_code": 31,
+      "length": 35.0,
+      "width": 9.0,
+      "draft": 4.2
+    },
+    {
+      "mmsi": "564187000",
+      "name": "FSL SINGAPORE",
+      "imo": "IMO9311725",
+      "callsign": "9VVN2",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 12.5
+    },
+    {
+      "mmsi": "367588290",
+      "name": "MADISON STONE",
+      "imo": "IMO8993801",
+      "callsign": "WDG9488",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "367396520",
+      "name": "CROSBY RAM",
+      "imo": "IMO9558115",
+      "callsign": "WDH3316",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 9.0,
+      "draft": 3.6
+    },
+    {
+      "mmsi": "367102610",
+      "name": "ALICE PARKER",
+      "imo": "IMO8850944",
+      "callsign": "WCY2903",
+      "vessel_type_code": 31,
+      "length": 32.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "319143700",
+      "name": "ODYSSEA",
+      "imo": "IMO1011264",
+      "callsign": "ZGHV",
+      "vessel_type_code": 37,
+      "length": 47.0,
+      "width": 8.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367581220",
+      "name": "AHBRA FRANCO",
+      "imo": "IMO9694323",
+      "callsign": "WDG8801",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "257509000",
+      "name": "NICE",
+      "imo": "IMO9247819",
+      "callsign": "LAJH8",
+      "vessel_type_code": 89,
+      "length": 205.0,
+      "width": 32.0,
+      "draft": 11.1
+    },
+    {
+      "mmsi": "316011504",
+      "name": "SEASPAN PUSHER",
+      "imo": "IMO8744688",
+      "callsign": "CFG582",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 8.0,
+      "draft": 5.1
+    },
+    {
+      "mmsi": "367317270",
+      "name": "JOSEPHINE ANNE",
+      "imo": "IMO9455947",
+      "callsign": "WDD9858",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 10.0,
+      "draft": 3.7
+    },
+    {
+      "mmsi": "368047580",
+      "name": "JONES",
+      "imo": "IMO101211510",
+      "callsign": "WDK3678",
+      "vessel_type_code": 57,
+      "length": 115.0,
+      "width": 17.0,
+      "draft": 2.3
+    },
+    {
+      "mmsi": "339241000",
+      "name": "RELENTLESS",
+      "imo": "IMO1007859",
+      "callsign": "6YV13",
+      "vessel_type_code": 37,
+      "length": 32.0,
+      "width": 7.0,
+      "draft": 2.7
+    },
+    {
+      "mmsi": "636017992",
+      "name": "NAUTICAL AVENTURIN",
+      "imo": "IMO9551698",
+      "callsign": "D5NR9",
+      "vessel_type_code": 70,
+      "length": 189.0,
+      "width": 32.0,
+      "draft": 12.8
+    },
+    {
+      "mmsi": "367109720",
+      "name": "ALMA S",
+      "imo": "IMO9349136",
+      "callsign": "WDD2002",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 11.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "367717120",
+      "name": "MASTER DAULTON",
+      "imo": "IMO8851675",
+      "callsign": "WDI6286",
+      "vessel_type_code": 30,
+      "length": 20.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "636014804",
+      "name": "WORLD HARMONY",
+      "imo": "IMO9382970",
+      "callsign": "A8WQ2",
+      "vessel_type_code": 80,
+      "length": 227.0,
+      "width": 32.0,
+      "draft": 14.3
+    },
+    {
+      "mmsi": "367490030",
+      "name": "CAPT ERIC III",
+      "imo": "IMO8940957",
+      "callsign": "WDF7970",
+      "vessel_type_code": 30,
+      "length": 24.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "215154000",
+      "name": "CMA CGM CORTE REAL",
+      "imo": "IMO9454400",
+      "callsign": "9HA4987",
+      "vessel_type_code": 71,
+      "length": 366.0,
+      "width": 52.0,
+      "draft": 13.9
+    },
+    {
+      "mmsi": "366862820",
+      "name": "CAPT ROGER D ADAMS",
+      "imo": "IMO8975782",
+      "callsign": "WDA9222",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "218474000",
+      "name": "ESSEN EXPRESS",
+      "imo": "IMO9501370",
+      "callsign": "DCQP2",
+      "vessel_type_code": 70,
+      "length": 366.0,
+      "width": 48.0,
+      "draft": 15.5
+    },
+    {
+      "mmsi": "367053940",
+      "name": "CAPT BILLY J VERDIN",
+      "imo": "IMO9370056",
+      "callsign": "WDC6278",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "255806034",
+      "name": "NORTHERN JASPER",
+      "imo": "IMO9466960",
+      "callsign": "CQIP9",
+      "vessel_type_code": 70,
+      "length": 333.0,
+      "width": 43.0,
+      "draft": 14.5
+    },
+    {
+      "mmsi": "367532910",
+      "name": "DAVID M O'LOUGHLIN",
+      "imo": "IMO8846187",
+      "callsign": "WDG4094",
+      "vessel_type_code": 31,
+      "length": 53.0,
+      "width": 13.0
+    },
+    {
+      "mmsi": "368014720",
+      "name": "MISS CHARLOTTE",
+      "imo": "IMO1061878",
+      "callsign": "WDJ8262",
+      "vessel_type_code": 69,
+      "length": 36.0,
+      "width": 8.0,
+      "draft": 2.2
+    },
+    {
+      "mmsi": "316019447",
+      "name": "VIKING CAVALIER",
+      "imo": "IMO7803114",
+      "callsign": "CFG7420",
+      "vessel_type_code": 30,
+      "length": 23.0,
+      "width": 7.0,
+      "draft": 3.4
+    },
+    {
+      "mmsi": "367648150",
+      "name": "HOLLYWOOD",
+      "imo": "IMO8428674",
+      "callsign": "WDH7440",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 10.0,
+      "draft": 4.4
+    },
+    {
+      "mmsi": "366867460",
+      "name": "GULF VICTORY",
+      "imo": "IMO8975811",
+      "callsign": "WDA9647",
+      "vessel_type_code": 60,
+      "length": 41.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "366993420",
+      "name": "H B 1",
+      "imo": "IMO8992510",
+      "callsign": "WDC2454",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "367507790",
+      "name": "HARVEY SUPPORTER",
+      "imo": "IMO9581227",
+      "callsign": "WDF9689",
+      "vessel_type_code": 90,
+      "length": 89.0,
+      "width": 19.0,
+      "draft": 5.9
+    },
+    {
+      "mmsi": "316114000",
+      "name": "CCGS JOHN P TULLY",
+      "imo": "IMO8320420",
+      "callsign": "CG2958",
+      "vessel_type_code": 90,
+      "length": 68.0,
+      "width": 14.0,
+      "draft": 4.5
+    },
+    {
+      "mmsi": "372089000",
+      "name": "JK TAI SHAN",
+      "imo": "IMO8513560",
+      "callsign": "3FSN3",
+      "vessel_type_code": 70,
+      "length": 190.0,
+      "width": 32.0,
+      "draft": 8.9
+    },
+    {
+      "mmsi": "374922000",
+      "name": "BERGE HALLASAN",
+      "imo": "IMO9755749",
+      "callsign": "3FNV2",
+      "vessel_type_code": 70,
+      "length": 183.0
+    },
+    {
+      "mmsi": "366772760",
+      "name": "WSF TACOMA",
+      "imo": "IMO9133977",
+      "callsign": "WCX9244",
+      "vessel_type_code": 60,
+      "length": 138.0,
+      "width": 27.0,
+      "draft": 5.3
+    },
+    {
+      "mmsi": "366997830",
+      "name": "LAUREN ELIZABETH",
+      "imo": "IMO8635796",
+      "callsign": "WDC2795",
+      "vessel_type_code": 31,
+      "length": 18.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "368555000",
+      "name": "ARCTIC STORM",
+      "imo": "IMO8720113",
+      "callsign": "WTQ5896",
+      "vessel_type_code": 30,
+      "length": 101.0,
+      "width": 14.0,
+      "draft": 6.4
+    },
+    {
+      "mmsi": "636019995",
+      "name": "SOLAR KAREN",
+      "imo": "IMO9907823",
+      "callsign": "D5XD8",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 10.6
+    },
+    {
+      "mmsi": "369285000",
+      "name": "NORTH STAR",
+      "imo": "IMO9232280",
+      "callsign": "KIYI",
+      "vessel_type_code": 70,
+      "length": 255.0,
+      "width": 35.0,
+      "draft": 9.0
+    },
+    {
+      "mmsi": "538008693",
+      "name": "ALEXANDROS",
+      "imo": "IMO9865764",
+      "callsign": "V7A2663",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 8.3
+    },
+    {
+      "mmsi": "368138170",
+      "name": "JASON GOLDING",
+      "imo": "IMO1302229",
+      "callsign": "WDL5128",
+      "vessel_type_code": 57,
+      "length": 211.0,
+      "width": 16.0,
+      "draft": 3.1
+    },
+    {
+      "mmsi": "671087100",
+      "name": "WATER SPIRIT 2",
+      "imo": "IMO9212424",
+      "callsign": "5VGA7",
+      "vessel_type_code": 70,
+      "length": 70.0,
+      "width": 18.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "369155000",
+      "name": "HEATH WOOD",
+      "imo": "IMO9813216",
+      "callsign": "WDI9776",
+      "vessel_type_code": 31,
+      "length": 35.0,
+      "width": 11.0
+    },
+    {
+      "mmsi": "368351000",
+      "name": "IVER FOSS",
+      "imo": "IMO7638478",
+      "callsign": "WYE6442",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 9.0,
+      "draft": 3.9
+    },
+    {
+      "mmsi": "366967350",
+      "name": "CAPE ANN",
+      "imo": "IMO7429097",
+      "callsign": "WDJ3663",
+      "vessel_type_code": 31,
+      "length": 32.0,
+      "width": 9.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "368071270",
+      "name": "USS LAFAYETTE",
+      "imo": "IMO8479837",
+      "callsign": "WDK6108",
+      "vessel_type_code": 31,
+      "length": 20.0,
+      "width": 10.0,
+      "draft": 3.4
+    },
+    {
+      "mmsi": "636019789",
+      "name": "CL DENGSHA HE",
+      "imo": "IMO9890642",
+      "callsign": "D5WE2",
+      "vessel_type_code": 0,
+      "length": 199.0,
+      "width": 32.0,
+      "draft": 12.6
+    },
+    {
+      "mmsi": "367336380",
+      "name": "SKIPJACK",
+      "imo": "IMO9503847",
+      "callsign": "WDG9752",
+      "vessel_type_code": 31,
+      "length": 35.0,
+      "width": 11.0,
+      "draft": 4.7
+    },
+    {
+      "mmsi": "316011550",
+      "name": "LAURENTIA DESGAGNES",
+      "imo": "IMO9334703",
+      "callsign": "XJBQ",
+      "vessel_type_code": 80,
+      "length": 228.0,
+      "width": 32.0,
+      "draft": 14.3
+    },
+    {
+      "mmsi": "316001268",
+      "name": "SPIRIT OF B C",
+      "imo": "IMO9015668",
+      "callsign": "VOSM",
+      "vessel_type_code": 60,
+      "length": 167.0,
+      "width": 32.0,
+      "draft": 5.0
+    },
+    {
+      "mmsi": "367712860",
+      "name": "CAROLYN H",
+      "imo": "IMO8851053",
+      "callsign": "WDI5873",
+      "vessel_type_code": 31,
+      "length": 20.0,
+      "width": 6.0,
+      "draft": 1.0
+    },
+    {
+      "mmsi": "338293000",
+      "name": "OCEAN EVOLUTION",
+      "imo": "IMO9733167",
+      "callsign": "WDJ5527",
+      "vessel_type_code": 70,
+      "length": 108.0,
+      "width": 22.0,
+      "draft": 6.9
+    },
+    {
+      "mmsi": "538070791",
+      "name": "SOFIA 3",
+      "imo": "IMO9507283",
+      "callsign": "V7WO2",
+      "vessel_type_code": 37,
+      "length": 42.0,
+      "width": 8.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367305420",
+      "name": "DOROTHY MORAN",
+      "imo": "IMO7716995",
+      "callsign": "WXU4654",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 9.0,
+      "draft": 3.9
+    },
+    {
+      "mmsi": "367675880",
+      "name": "CAPT. ELLIOT CROCHET",
+      "imo": "IMO1259540",
+      "callsign": "WDJ4739",
+      "vessel_type_code": 52,
+      "length": 23.0,
+      "width": 11.0,
+      "draft": 3.1
+    },
+    {
+      "mmsi": "367336580",
+      "name": "SP PEARL",
+      "imo": "IMO9423164",
+      "callsign": "WDE3266",
+      "vessel_type_code": 31,
+      "length": 33.0,
+      "width": 12.0,
+      "draft": 5.1
+    },
+    {
+      "mmsi": "311000807",
+      "name": "SCARLET LADY",
+      "imo": "IMO9804801",
+      "callsign": "C6DX2",
+      "vessel_type_code": 60,
+      "length": 277.0,
+      "width": 38.0,
+      "draft": 8.1
+    },
+    {
+      "mmsi": "367783120",
+      "name": "GO PATRIOT",
+      "imo": "IMO8987852",
+      "callsign": "WDJ4988",
+      "vessel_type_code": 90,
+      "length": 39.0,
+      "width": 10.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367493000",
+      "name": "DOUGLAS B.MACKIE",
+      "imo": "IMO9807073",
+      "callsign": "WDBI",
+      "vessel_type_code": 90,
+      "length": 148.0,
+      "width": 28.0,
+      "draft": 8.5
+    },
+    {
+      "mmsi": "366874920",
+      "name": "MARTIN CHALLENGER",
+      "imo": "IMO8644436",
+      "callsign": "WDB2346",
+      "vessel_type_code": 31,
+      "length": 21.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "636017683",
+      "name": "PERITO MORENO",
+      "imo": "IMO9430868",
+      "callsign": "D5MF6",
+      "vessel_type_code": 79,
+      "length": 175.0,
+      "width": 27.0,
+      "draft": 9.8
+    },
+    {
+      "mmsi": "367532880",
+      "name": "EVA WALKER",
+      "imo": "IMO8842313",
+      "callsign": "WDG4092",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "367437430",
+      "name": "COLUMBIA",
+      "imo": "IMO7428263",
+      "callsign": "WDF3225",
+      "vessel_type_code": 90,
+      "length": 94.0,
+      "width": 15.0,
+      "draft": 5.0
+    },
+    {
+      "mmsi": "367433620",
+      "name": "LLOYD DUNNING",
+      "imo": "IMO7207724",
+      "callsign": "WDF2930",
+      "vessel_type_code": 31,
+      "length": 24.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "373024000",
+      "name": "DIAMOND POWER",
+      "imo": "IMO9566590",
+      "callsign": "3FCI",
+      "vessel_type_code": 70,
+      "length": 254.0,
+      "width": 43.0,
+      "draft": 13.6
+    },
+    {
+      "mmsi": "367603000",
+      "name": "CHELSEA K",
+      "imo": "IMO9031181",
+      "callsign": "WDD5646",
+      "vessel_type_code": 30,
+      "length": 45.0,
+      "width": 11.0,
+      "draft": 6.9
+    },
+    {
+      "mmsi": "567468000",
+      "name": "FREDENSBORG",
+      "imo": "IMO9465394",
+      "callsign": "HSB4733",
+      "vessel_type_code": 70,
+      "length": 138.0,
+      "width": 21.0,
+      "draft": 8.0
+    },
+    {
+      "mmsi": "372487000",
+      "name": "QIAN HAI",
+      "imo": "IMO8604979",
+      "callsign": "3EOS3",
+      "vessel_type_code": 70,
+      "length": 159.0,
+      "width": 26.0,
+      "draft": 9.8
+    },
+    {
+      "mmsi": "366772980",
+      "name": "WSF KITSAP",
+      "imo": "IMO7808126",
+      "callsign": "WYR3421",
+      "vessel_type_code": 60,
+      "length": 100.0,
+      "width": 23.0,
+      "draft": 4.8
+    },
+    {
+      "mmsi": "338615000",
+      "name": "C-RAMBLER",
+      "imo": "IMO9220251",
+      "callsign": "WCZ5253",
+      "vessel_type_code": 90,
+      "length": 73.0,
+      "width": 17.0,
+      "draft": 5.3
+    },
+    {
+      "mmsi": "368043470",
+      "name": "CC GREGORY",
+      "imo": "IMO9824100",
+      "callsign": "WDK3260",
+      "vessel_type_code": 52,
+      "length": 31.0,
+      "width": 13.0,
+      "draft": 5.9
+    },
+    {
+      "mmsi": "367114050",
+      "name": "GEORGE W BANTA",
+      "imo": "IMO5129095",
+      "callsign": "WDD2343",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "636014200",
+      "name": "CMA CGM JASPER",
+      "imo": "IMO9397614",
+      "callsign": "A8SD6",
+      "vessel_type_code": 70,
+      "length": 259.0,
+      "width": 32.0,
+      "draft": 12.6
+    },
+    {
+      "mmsi": "215219000",
+      "name": "CMA CGM VON HUMBOLDT",
+      "imo": "IMO9454448",
+      "callsign": "9HA5017",
+      "vessel_type_code": 71,
+      "length": 396.0,
+      "width": 54.0,
+      "draft": 12.0
+    },
+    {
+      "mmsi": "367174670",
+      "name": "LIBERTY",
+      "imo": "IMO9482598",
+      "callsign": "WDD6569",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 9.0,
+      "draft": 3.4
+    },
+    {
+      "mmsi": "357444000",
+      "name": "MSC MEDITERRANEAN",
+      "imo": "IMO9102710",
+      "callsign": "H8JI",
+      "vessel_type_code": 70,
+      "length": 202.0,
+      "width": 30.0,
+      "draft": 11.9
+    },
+    {
+      "mmsi": "367492110",
+      "name": "ODYSSEA TITAN",
+      "imo": "IMO9399064",
+      "callsign": "WDF8168",
+      "vessel_type_code": 90,
+      "length": 68.0,
+      "width": 14.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "367093520",
+      "name": "C-TRACTOR 12",
+      "imo": "IMO9132181",
+      "callsign": "WCW5016",
+      "vessel_type_code": 31,
+      "length": 31.0,
+      "width": 11.0,
+      "draft": 3.3
+    },
+    {
+      "mmsi": "367137180",
+      "name": "ALLIE B",
+      "imo": "IMO7626279",
+      "callsign": "WDD3857",
+      "vessel_type_code": 31,
+      "length": 35.0,
+      "width": 9.0,
+      "draft": 4.3
+    },
+    {
+      "mmsi": "310764000",
+      "name": "KOBE EXPRESS",
+      "imo": "IMO9143544",
+      "callsign": "ZCEV2",
+      "vessel_type_code": 70,
+      "length": 293.0,
+      "width": 32.0,
+      "draft": 13.6
+    },
+    {
+      "mmsi": "366998040",
+      "name": "ST JOSEPH",
+      "imo": "IMO8983131",
+      "callsign": "WDC2814",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "366425240",
+      "name": "JAMIE MARIE",
+      "imo": "IMO8807296",
+      "callsign": "WDE7178",
+      "vessel_type_code": 30,
+      "length": 23.0,
+      "width": 7.0,
+      "draft": 3.2
+    },
+    {
+      "mmsi": "368136890",
+      "name": "LUBBOCK",
+      "imo": "IMO1260379",
+      "callsign": "WDL4996",
+      "vessel_type_code": 52,
+      "length": 25.0,
+      "width": 12.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "366914430",
+      "name": "ASD KAIMANA HILA",
+      "imo": "IMO8993112",
+      "callsign": "WDB5869",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "338760000",
+      "name": "ISLA BELLA",
+      "imo": "IMO9680841",
+      "callsign": "WTOI",
+      "vessel_type_code": 70,
+      "length": 233.0,
+      "width": 32.0,
+      "draft": 10.4
+    },
+    {
+      "mmsi": "303668000",
+      "name": "GULF RELIANCE",
+      "imo": "IMO9398474",
+      "callsign": "WDD2703",
+      "vessel_type_code": 31,
+      "length": 41.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "366939750",
+      "name": "VALENTINE MORAN",
+      "imo": "IMO7729485",
+      "callsign": "WDH8875",
+      "vessel_type_code": 31,
+      "length": 31.0,
+      "width": 9.0,
+      "draft": 3.9
+    },
+    {
+      "mmsi": "367152730",
+      "name": "PRESAGER",
+      "imo": "IMO8851376",
+      "callsign": "WDD5034",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "367593340",
+      "name": "SEACOR HAWK",
+      "imo": "IMO8769004",
+      "callsign": "WDG9997",
+      "vessel_type_code": 90,
+      "length": 41.0,
+      "width": 28.0
+    },
+    {
+      "mmsi": "338595000",
+      "name": "ODYSSEA COUNT",
+      "imo": "IMO9264647",
+      "callsign": "WDG8778",
+      "vessel_type_code": 90,
+      "length": 63.0,
+      "width": 16.0,
+      "draft": 5.1
+    },
+    {
+      "mmsi": "366954420",
+      "name": "PROVINCETOWN III",
+      "imo": "IMO9329394",
+      "callsign": "WDB8185",
+      "vessel_type_code": 60,
+      "length": 30.0,
+      "width": 9.0,
+      "draft": 1.9
+    },
+    {
+      "mmsi": "367518570",
+      "name": "HARVEY INTERVENTION",
+      "imo": "IMO9581277",
+      "callsign": "WDG2721",
+      "vessel_type_code": 90,
+      "length": 89.0,
+      "width": 19.0,
+      "draft": 5.1
+    },
+    {
+      "mmsi": "366298000",
+      "name": "CLIPPER SURPRISE",
+      "imo": "IMO8856754",
+      "callsign": "WTH4410",
+      "vessel_type_code": 30,
+      "length": 34.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "477300700",
+      "name": "OCEANA",
+      "imo": "IMO9667095",
+      "callsign": "VRNE7",
+      "vessel_type_code": 70,
+      "length": 229.0,
+      "width": 32.0,
+      "draft": 14.4
+    },
+    {
+      "mmsi": "367642530",
+      "name": "BO BRUSCO",
+      "imo": "IMO9772917",
+      "callsign": "WDH6880",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "316001266",
+      "name": "QUINSAM",
+      "imo": "IMO8111386",
+      "callsign": "VY6800",
+      "vessel_type_code": 60,
+      "length": 86.0,
+      "width": 21.0,
+      "draft": 1.8
+    },
+    {
+      "mmsi": "367774490",
+      "name": "NICOLE FOSS",
+      "imo": "IMO9748588",
+      "callsign": "WDJ4108",
+      "vessel_type_code": 31,
+      "length": 39.0
+    },
+    {
+      "mmsi": "366987890",
+      "name": "CAPT RUDY",
+      "imo": "IMO9337420",
+      "callsign": "WDC2099",
+      "vessel_type_code": 90,
+      "length": 49.0,
+      "width": 10.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367672390",
+      "name": "MUIR MILACH",
+      "imo": "IMO7823425",
+      "callsign": "WDH9870",
+      "vessel_type_code": 30,
+      "length": 26.0,
+      "width": 7.0,
+      "draft": 2.7
+    },
+    {
+      "mmsi": "338855000",
+      "name": "PACIFIC TITAN",
+      "imo": "IMO8962498",
+      "callsign": "WCZ6844",
+      "vessel_type_code": 31,
+      "length": 33.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "477620100",
+      "name": "OCEAN ENTERPRISE",
+      "imo": "IMO9712175",
+      "callsign": "VROW7",
+      "vessel_type_code": 70,
+      "length": 199.0
+    },
+    {
+      "mmsi": "1056261",
+      "name": "CHAMPAGNE CHER",
+      "imo": "IMO1056261",
+      "callsign": "WDC6418",
+      "vessel_type_code": 10,
+      "length": 35.0,
+      "width": 8.0,
+      "draft": 2.5
+    },
+    {
+      "mmsi": "366887300",
+      "name": "GUARD",
+      "imo": "IMO9139830",
+      "callsign": "WCY2823",
+      "vessel_type_code": 52,
+      "length": 39.0,
+      "width": 11.0,
+      "draft": 5.4
+    },
+    {
+      "mmsi": "366776910",
+      "name": "P T",
+      "imo": "IMO8036251",
+      "callsign": "WCZ6536",
+      "vessel_type_code": 30,
+      "length": 20.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "319250000",
+      "name": "GAZELLE",
+      "imo": "IMO1008724",
+      "callsign": "ZCPU4",
+      "vessel_type_code": 37,
+      "length": 40.0,
+      "width": 8.0,
+      "draft": 2.0
+    },
+    {
+      "mmsi": "367151310",
+      "name": "AMERICAN CONTENDER",
+      "imo": "IMO8842284",
+      "callsign": "WBO8595",
+      "vessel_type_code": 31,
+      "length": 34.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "367002630",
+      "name": "TIGER POINT",
+      "imo": "IMO7309467",
+      "callsign": "WX9273",
+      "vessel_type_code": 30,
+      "length": 49.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "367445470",
+      "name": "CAPE GREIG",
+      "imo": "IMO8856613",
+      "callsign": "WDF3906",
+      "vessel_type_code": 30,
+      "length": 54.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "366982000",
+      "name": "WHEELER",
+      "imo": "IMO7923184",
+      "callsign": "AEQZ",
+      "vessel_type_code": 90,
+      "length": 124.0,
+      "width": 23.0,
+      "draft": 9.0
+    },
+    {
+      "mmsi": "367400740",
+      "name": "CATHLEEN E MORAN",
+      "imo": "IMO6608684",
+      "callsign": "WDE8034",
+      "vessel_type_code": 31,
+      "length": 31.0,
+      "width": 8.0,
+      "draft": 4.7
+    },
+    {
+      "mmsi": "367764250",
+      "name": "P J BRIX",
+      "imo": "IMO8972950",
+      "callsign": "WDJ3049",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "366946000",
+      "name": "PACIFIC GLACIER",
+      "imo": "IMO7391276",
+      "callsign": "WRYH",
+      "vessel_type_code": 30,
+      "length": 84.0,
+      "width": 13.0,
+      "draft": 4.9
+    },
+    {
+      "mmsi": "304010618",
+      "name": "CARIBE MARINER",
+      "imo": "IMO9110547",
+      "callsign": "V2PM2",
+      "vessel_type_code": 70,
+      "length": 99.0,
+      "width": 16.0,
+      "draft": 4.9
+    },
+    {
+      "mmsi": "368201210",
+      "name": "GW DUNN",
+      "imo": "IMO9565581",
+      "callsign": "WDM3867",
+      "vessel_type_code": 52,
+      "length": 18.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "636018107",
+      "name": "KASSOS",
+      "imo": "IMO9382164",
+      "callsign": "D5OE9",
+      "vessel_type_code": 80,
+      "length": 102.0,
+      "width": 17.0,
+      "draft": 6.6
+    },
+    {
+      "mmsi": "538009345",
+      "name": "YASA VEGA",
+      "imo": "IMO9888352",
+      "callsign": "V7A4620",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 12.1
+    },
+    {
+      "mmsi": "368018310",
+      "name": "TRISTEN",
+      "imo": "IMO0000001",
+      "callsign": "WDJ8628",
+      "vessel_type_code": 32,
+      "length": 21.0,
+      "width": 8.0,
+      "draft": 3.1
+    },
+    {
+      "mmsi": "319211600",
+      "name": "ONE ARCADIA",
+      "imo": "IMO9468310",
+      "callsign": "ZGOK7",
+      "vessel_type_code": 71,
+      "length": 332.0,
+      "width": 46.0,
+      "draft": 13.4
+    },
+    {
+      "mmsi": "368237000",
+      "name": "CAYO LARGO",
+      "imo": "IMO9535113",
+      "callsign": "WDE5350",
+      "vessel_type_code": 60,
+      "length": 50.0,
+      "width": 14.0,
+      "draft": 2.1
+    },
+    {
+      "mmsi": "368167820",
+      "name": "BAFFIN BAY",
+      "imo": "IMO101229469",
+      "callsign": "WDL8253",
+      "vessel_type_code": 57,
+      "length": 115.0,
+      "width": 34.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "366826940",
+      "name": "THOMAS E ROLLINS",
+      "imo": "IMO8635693",
+      "callsign": "WDA6028",
+      "vessel_type_code": 31,
+      "length": 24.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "367183020",
+      "name": "BUCCANEER",
+      "imo": "IMO9397406",
+      "callsign": "WDD7185",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 10.0,
+      "draft": 3.7
+    },
+    {
+      "mmsi": "431605000",
+      "name": "VICTORIOUS ACE",
+      "imo": "IMO9610406",
+      "callsign": "7KKN",
+      "vessel_type_code": 70,
+      "length": 200.0,
+      "width": 32.0,
+      "draft": 8.5
+    },
+    {
+      "mmsi": "369629000",
+      "name": "MAJESTIC",
+      "imo": "IMO8986016",
+      "callsign": "WDI7186",
+      "vessel_type_code": 60,
+      "length": 45.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "366998050",
+      "name": "SAINTE MARIE",
+      "imo": "IMO8983143",
+      "callsign": "WDC2815",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "636014814",
+      "name": "BLUEFIN",
+      "imo": "IMO9551868",
+      "callsign": "A8WR8",
+      "vessel_type_code": 80,
+      "length": 145.0,
+      "width": 23.0,
+      "draft": 9.0
+    },
+    {
+      "mmsi": "367437640",
+      "name": "BREAK OF DAWN",
+      "imo": "IMO8523151",
+      "callsign": "WDF3243",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 8.0,
+      "draft": 2.6
+    },
+    {
+      "mmsi": "367563360",
+      "name": "DUTCH GIRL",
+      "imo": "IMO8660088",
+      "callsign": "WDG7047",
+      "vessel_type_code": 60,
+      "length": 37.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "367349430",
+      "name": "PACIFIC FALCON",
+      "imo": "IMO7200128",
+      "callsign": "WDE4151",
+      "vessel_type_code": 31,
+      "length": 36.0,
+      "width": 9.0,
+      "draft": 3.9
+    },
+    {
+      "mmsi": "258005000",
+      "name": "STAR LYSEFJORD",
+      "imo": "IMO9616840",
+      "callsign": "LAQQ7",
+      "vessel_type_code": 70,
+      "length": 204.0,
+      "width": 32.0,
+      "draft": 12.6
+    },
+    {
+      "mmsi": "319920000",
+      "name": "LEGACY",
+      "imo": "IMO9583586",
+      "callsign": "ZGBY7",
+      "vessel_type_code": 37,
+      "length": 49.0,
+      "width": 9.0,
+      "draft": 2.4
+    },
+    {
+      "mmsi": "316002956",
+      "name": "OCEAN MARAUDER",
+      "imo": "IMO7803152",
+      "callsign": "CZ9687",
+      "vessel_type_code": 30,
+      "length": 28.0,
+      "width": 7.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "367643760",
+      "name": "HOS WOODLAND",
+      "imo": "IMO9742716",
+      "callsign": "WDH7001",
+      "vessel_type_code": 90,
+      "length": 92.0,
+      "width": 23.0
+    },
+    {
+      "mmsi": "367606860",
+      "name": "HAYLEY MORAN",
+      "imo": "IMO9717321",
+      "callsign": "WDH3383",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 12.0,
+      "draft": 3.2
+    },
+    {
+      "mmsi": "370328000",
+      "name": "JIPRO NEFTIS",
+      "imo": "IMO9459292",
+      "callsign": "3EWC8",
+      "vessel_type_code": 82,
+      "length": 175.0,
+      "width": 28.0,
+      "draft": 7.1
+    },
+    {
+      "mmsi": "303925000",
+      "name": "PATHFINDER",
+      "imo": "IMO9075199",
+      "callsign": "NGKK",
+      "vessel_type_code": 90,
+      "length": 100.0,
+      "width": 17.0,
+      "draft": 5.8
+    },
+    {
+      "mmsi": "367638480",
+      "name": "OCEAN HUNTER",
+      "imo": "IMO8705852",
+      "callsign": "WDH6487",
+      "vessel_type_code": 30,
+      "length": 25.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "357175000",
+      "name": "NYK REMUS",
+      "imo": "IMO9416965",
+      "callsign": "3FPB5",
+      "vessel_type_code": 70,
+      "length": 294.0,
+      "width": 32.0,
+      "draft": 13.5
+    },
+    {
+      "mmsi": "367478770",
+      "name": "HERCULES",
+      "imo": "IMO9627370",
+      "callsign": "WDF6880",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 12.0,
+      "draft": 3.8
+    },
+    {
+      "mmsi": "353244000",
+      "name": "NAVE BELLATRIX",
+      "imo": "IMO9459084",
+      "callsign": "3FEC7",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 13.1
+    },
+    {
+      "mmsi": "369580000",
+      "name": "SOUND RELIANCE",
+      "imo": "IMO9277369",
+      "callsign": "WXAE",
+      "vessel_type_code": 31,
+      "length": 38.0,
+      "width": 12.0,
+      "draft": 5.8
+    },
+    {
+      "mmsi": "367727410",
+      "name": "AMY B",
+      "imo": "IMO7216074",
+      "callsign": "WDI7307",
+      "vessel_type_code": 31,
+      "length": 20.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367676420",
+      "name": "STEVE C",
+      "imo": "IMO7307031",
+      "callsign": "WDI2267",
+      "vessel_type_code": 30,
+      "length": 22.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "563094300",
+      "name": "BW KIZOKU",
+      "imo": "IMO9810032",
+      "callsign": "9V5837",
+      "vessel_type_code": 80,
+      "length": 230.0,
+      "width": 37.0,
+      "draft": 8.4
+    },
+    {
+      "mmsi": "367709050",
+      "name": "SEA STORM",
+      "imo": "IMO8103042",
+      "callsign": "WDI5485",
+      "vessel_type_code": 30,
+      "length": 37.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "366943490",
+      "name": "SUWANNEE RIVER",
+      "imo": "IMO9207912",
+      "callsign": "WCZ7163",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 15.0,
+      "draft": 4.8
+    },
+    {
+      "mmsi": "369970440",
+      "name": "PATHFINDER",
+      "imo": "IMO8891077",
+      "callsign": "AEBQ",
+      "vessel_type_code": 90,
+      "length": 21.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "538007903",
+      "name": "MANAH",
+      "imo": "IMO9365764",
+      "callsign": "V7QR4",
+      "vessel_type_code": 0,
+      "length": 333.0,
+      "width": 60.0,
+      "draft": 20.0
+    },
+    {
+      "mmsi": "367456870",
+      "name": "LIBERTY",
+      "imo": "IMO8981432",
+      "callsign": "WDF4885",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "368142760",
+      "name": "BRISCOE",
+      "imo": "IMO126138300",
+      "callsign": "WDL5619",
+      "vessel_type_code": 57,
+      "length": 116.0,
+      "width": 33.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "565747000",
+      "name": "MAERSK ALFIRK",
+      "imo": "IMO9342516",
+      "callsign": "9VBN2",
+      "vessel_type_code": 70,
+      "length": 337.0,
+      "width": 45.0,
+      "draft": 15.0
+    },
+    {
+      "mmsi": "367513220",
+      "name": "VANCOUVER",
+      "imo": "IMO9060106",
+      "callsign": "WDG2203",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 8.0,
+      "draft": 3.2
+    },
+    {
+      "mmsi": "366773150",
+      "name": "ELIZABETH ANN",
+      "imo": "IMO8851209",
+      "callsign": "WCZ5348",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "366751770",
+      "name": "BILLIE H",
+      "imo": "IMO8964719",
+      "callsign": "WCY4992",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 8.0,
+      "draft": 4.7
+    },
+    {
+      "mmsi": "367560980",
+      "name": "AURA",
+      "imo": "IMO9641742",
+      "callsign": "WDJ4216",
+      "vessel_type_code": 31,
+      "length": 26.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "366792940",
+      "name": "JESS NEWTON",
+      "imo": "IMO8962448",
+      "callsign": "WDA2941",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 11.0,
+      "draft": 4.5
+    },
+    {
+      "mmsi": "367424960",
+      "name": "DOMINIC S",
+      "imo": "IMO8783971",
+      "callsign": "WDF2107",
+      "vessel_type_code": 90,
+      "length": 37.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367002530",
+      "name": "PATRICIA LEE",
+      "imo": "IMO8969355",
+      "callsign": "WDC3092",
+      "vessel_type_code": 30,
+      "length": 26.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "356818000",
+      "name": "GULF SUNRISE",
+      "imo": "IMO9788887",
+      "callsign": "HPIU",
+      "vessel_type_code": 80,
+      "length": 336.0,
+      "width": 60.0,
+      "draft": 20.5
+    },
+    {
+      "mmsi": "367369550",
+      "name": "ANN MORAN",
+      "imo": "IMO7716983",
+      "callsign": "WUW9636",
+      "vessel_type_code": 31,
+      "length": 32.0,
+      "width": 9.0,
+      "draft": 3.9
+    },
+    {
+      "mmsi": "367466650",
+      "name": "QUANTICO CREEK",
+      "imo": "IMO9569463",
+      "callsign": "WDF5735",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 9.0,
+      "draft": 3.6
+    },
+    {
+      "mmsi": "319218400",
+      "name": "EMOCEAN",
+      "imo": "IMO9878840",
+      "callsign": "ZGOU6",
+      "vessel_type_code": 90,
+      "length": 38.0,
+      "width": 8.0,
+      "draft": 2.5
+    },
+    {
+      "mmsi": "319016600",
+      "name": "BELLA VITA",
+      "imo": "IMO1009649",
+      "callsign": "ZGAG5",
+      "vessel_type_code": 37,
+      "length": 44.0,
+      "width": 9.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "366518000",
+      "name": "ODYSSEA PHOENIX",
+      "imo": "IMO9668154",
+      "callsign": "WOYY",
+      "vessel_type_code": 70,
+      "length": 93.0,
+      "width": 19.0,
+      "draft": 6.5
+    },
+    {
+      "mmsi": "563063800",
+      "name": "STI MILLENNIA",
+      "imo": "IMO9829497",
+      "callsign": "9V8890",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 8.2
+    },
+    {
+      "mmsi": "367430760",
+      "name": "MISS EMILY",
+      "imo": "IMO8987383",
+      "callsign": "WDF2689",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 8.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367605210",
+      "name": "GYRFALCON",
+      "imo": "IMO7732406",
+      "callsign": "WDH3191",
+      "vessel_type_code": 37,
+      "length": 26.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "368127980",
+      "name": "EILEEN MCALLISTER",
+      "imo": "IMO9903592",
+      "callsign": "WDL4089",
+      "vessel_type_code": 52,
+      "length": 28.0,
+      "width": 10.0,
+      "draft": 5.3
+    },
+    {
+      "mmsi": "366921420",
+      "name": "HUGH S MONSTED",
+      "imo": "IMO8992132",
+      "callsign": "WDB6286",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "671317100",
+      "name": "GREEN NICOYA",
+      "imo": "IMO9130884",
+      "callsign": "5VIH6",
+      "vessel_type_code": 99,
+      "length": 27.0,
+      "width": 8.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367680660",
+      "name": "RAVEN",
+      "imo": "IMO8856285",
+      "callsign": "WDI2683",
+      "vessel_type_code": 30,
+      "length": 23.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "538005406",
+      "name": "STI FINCHLEY",
+      "imo": "IMO9696565",
+      "callsign": "V7DN8",
+      "vessel_type_code": 80,
+      "length": 184.0,
+      "width": 27.0,
+      "draft": 11.9
+    },
+    {
+      "mmsi": "368147620",
+      "name": "UNBRIDLED",
+      "imo": "IMO121954100",
+      "callsign": "WDL6123",
+      "vessel_type_code": 90,
+      "length": 18.0,
+      "width": 11.0
+    },
+    {
+      "mmsi": "366972000",
+      "name": "ESSAYONS",
+      "imo": "IMO7923495",
+      "callsign": "AENO",
+      "vessel_type_code": 90,
+      "length": 106.0,
+      "width": 20.0,
+      "draft": 8.7
+    },
+    {
+      "mmsi": "366997930",
+      "name": "RAY ECKSTEIN",
+      "imo": "IMO8635863",
+      "callsign": "WDC2804",
+      "vessel_type_code": 31,
+      "length": 20.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367621000",
+      "name": "REBEKAH",
+      "imo": "IMO7932331",
+      "callsign": "WDI7588",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "338482000",
+      "name": "HARVEY HERMES",
+      "imo": "IMO9787314",
+      "callsign": "KHGP",
+      "vessel_type_code": 90,
+      "length": 85.0,
+      "width": 18.0,
+      "draft": 5.5
+    },
+    {
+      "mmsi": "311003200",
+      "name": "CSCC ASIA",
+      "imo": "IMO9391581",
+      "callsign": "C6WY8",
+      "vessel_type_code": 70,
+      "length": 199.0,
+      "width": 32.0,
+      "draft": 10.0
+    },
+    {
+      "mmsi": "538006696",
+      "name": "IONIC ANASSA",
+      "imo": "IMO9779795",
+      "callsign": "V7QI6",
+      "vessel_type_code": 80,
+      "length": 249.0
+    },
+    {
+      "mmsi": "311001005",
+      "name": "DOLE MAYA",
+      "imo": "IMO9877729",
+      "callsign": "C6EU6",
+      "vessel_type_code": 90,
+      "length": 195.0,
+      "width": 32.0,
+      "draft": 9.2
+    },
+    {
+      "mmsi": "367529420",
+      "name": "ISLAND VENTURE",
+      "imo": "IMO7730525",
+      "callsign": "WDG3765",
+      "vessel_type_code": 31,
+      "length": 31.0,
+      "width": 10.0,
+      "draft": 3.7
+    },
+    {
+      "mmsi": "367637350",
+      "name": "GRACIE LEE",
+      "imo": "IMO8992601",
+      "callsign": "WDH6380",
+      "vessel_type_code": 31,
+      "length": 21.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "338725000",
+      "name": "CAPE HATTERAS",
+      "imo": "IMO9877597",
+      "callsign": "WDK7639",
+      "vessel_type_code": 57,
+      "length": 125.0,
+      "width": 23.0,
+      "draft": 6.1
+    },
+    {
+      "mmsi": "563758000",
+      "name": "NYK RUMINA",
+      "imo": "IMO9416991",
+      "callsign": "9V7645",
+      "vessel_type_code": 70,
+      "length": 294.0,
+      "width": 32.0,
+      "draft": 13.5
+    },
+    {
+      "mmsi": "271049229",
+      "name": "LEA ATK",
+      "imo": "IMO9566708",
+      "callsign": "TCA6527",
+      "vessel_type_code": 89,
+      "length": 110.0,
+      "width": 17.0,
+      "draft": 5.7
+    },
+    {
+      "mmsi": "367319330",
+      "name": "MATTHEW T",
+      "imo": "IMO8851352",
+      "callsign": "WDE2022",
+      "vessel_type_code": 31,
+      "length": 17.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "367017440",
+      "name": "PIPER INNESS",
+      "imo": "IMO8964109",
+      "callsign": "WDC3984",
+      "vessel_type_code": 90,
+      "length": 42.0,
+      "width": 8.0,
+      "draft": 2.1
+    },
+    {
+      "mmsi": "310627000",
+      "name": "QUEEN MARY 2",
+      "imo": "IMO9241061",
+      "callsign": "ZCEF6",
+      "vessel_type_code": 60,
+      "length": 345.0,
+      "width": 48.0,
+      "draft": 10.3
+    },
+    {
+      "mmsi": "366933730",
+      "name": "MARTHA OLIVER",
+      "imo": "IMO8635617",
+      "callsign": "WCU2641",
+      "vessel_type_code": 31,
+      "length": 19.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367503940",
+      "name": "COLOMA L WARNER",
+      "imo": "IMO7337892",
+      "callsign": "WDF9319",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 7.0,
+      "draft": 2.3
+    },
+    {
+      "mmsi": "366764740",
+      "name": "CHIEF",
+      "imo": "IMO9188582",
+      "callsign": "WCZ2047",
+      "vessel_type_code": 31,
+      "length": 31.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "338221000",
+      "name": "OVERSEAS BOSTON",
+      "imo": "IMO9353565",
+      "callsign": "WJBU",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 12.2
+    },
+    {
+      "mmsi": "367008920",
+      "name": "CAPT TRAVIS",
+      "imo": "IMO8423923",
+      "callsign": "WDC3494",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "255805665",
+      "name": "NORTHERN JUPITER",
+      "imo": "IMO9466984",
+      "callsign": "CQGP",
+      "vessel_type_code": 70,
+      "length": 332.0,
+      "width": 43.0,
+      "draft": 14.5
+    },
+    {
+      "mmsi": "636017540",
+      "name": "SIEM CONFUCIUS",
+      "imo": "IMO9841017",
+      "callsign": "D5LL5",
+      "vessel_type_code": 70,
+      "length": 200.0,
+      "width": 38.0,
+      "draft": 9.2
+    },
+    {
+      "mmsi": "368173380",
+      "name": "MISS AUDREY",
+      "imo": "IMO1232891",
+      "callsign": "WDL8837",
+      "vessel_type_code": 52,
+      "length": 4.0,
+      "width": 11.0,
+      "draft": 2.0
+    },
+    {
+      "mmsi": "367123560",
+      "name": "KYLIE D",
+      "imo": "IMO8658102",
+      "callsign": "WDJ2577",
+      "vessel_type_code": 90,
+      "length": 36.0,
+      "width": 9.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "354519000",
+      "name": "CMB BRUEGEL",
+      "imo": "IMO9894765",
+      "callsign": "HOQA",
+      "vessel_type_code": 70,
+      "length": 199.0,
+      "width": 32.0,
+      "draft": 13.5
+    },
+    {
+      "mmsi": "367642490",
+      "name": "MISS WHITNEY",
+      "imo": "IMO8992936",
+      "callsign": "WDH6876",
+      "vessel_type_code": 31,
+      "length": 17.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "538009288",
+      "name": "NORD MIRAI",
+      "imo": "IMO9890939",
+      "callsign": "V7A4550",
+      "vessel_type_code": 80,
+      "length": 185.0,
+      "width": 32.0,
+      "draft": 8.9
+    },
+    {
+      "mmsi": "367170860",
+      "name": "WRANGLER",
+      "imo": "IMO7520683",
+      "callsign": "WDD6285",
+      "vessel_type_code": 30,
+      "length": 21.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "366979360",
+      "name": "ARTHUR FOSS",
+      "imo": "IMO8219011",
+      "callsign": "WRB5693",
+      "vessel_type_code": 31,
+      "length": 32.0,
+      "width": 11.0,
+      "draft": 3.6
+    },
+    {
+      "mmsi": "366811580",
+      "name": "MISS CATE",
+      "imo": "IMO8503448",
+      "callsign": "WDF9186",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 9.0,
+      "draft": 3.3
+    },
+    {
+      "mmsi": "367430790",
+      "name": "MISS CALLIE CATE",
+      "imo": "IMO9383807",
+      "callsign": "WDF2692",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "366929710",
+      "name": "COHO",
+      "imo": "IMO5076949",
+      "callsign": "WM4599",
+      "vessel_type_code": 60,
+      "length": 104.0,
+      "width": 22.0,
+      "draft": 3.8
+    },
+    {
+      "mmsi": "368064180",
+      "name": "WACHAPREAGUE",
+      "imo": "IMO9816919",
+      "callsign": "WDK5363",
+      "vessel_type_code": 31,
+      "length": 152.0,
+      "width": 23.0,
+      "draft": 7.2
+    },
+    {
+      "mmsi": "367705270",
+      "name": "CASEY H",
+      "imo": "IMO8872289",
+      "callsign": "WDI5111",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "316001223",
+      "name": "ISLAND MONARCH",
+      "imo": "IMO6608414",
+      "callsign": "CFL4938",
+      "vessel_type_code": 31,
+      "length": 41.0,
+      "width": 9.0,
+      "draft": 4.8
+    },
+    {
+      "mmsi": "368049750",
+      "name": "TRACY FEDKOE",
+      "imo": "IMO889147900",
+      "callsign": "WDJ8118",
+      "vessel_type_code": 57,
+      "length": 21.0,
+      "width": 9.0,
+      "draft": 2.8
+    },
+    {
+      "mmsi": "366997750",
+      "name": "FATHER SEELOS",
+      "imo": "IMO8991011",
+      "callsign": "WDC2789",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 10.0,
+      "draft": 2.3
+    },
+    {
+      "mmsi": "367027570",
+      "name": "CHINOOK",
+      "imo": "IMO7129817",
+      "callsign": "WCY2791",
+      "vessel_type_code": 31,
+      "length": 40.0,
+      "width": 10.0,
+      "draft": 4.8
+    },
+    {
+      "mmsi": "367649090",
+      "name": "JUDY PRINCE",
+      "imo": "IMO7619915",
+      "callsign": "WDH7530",
+      "vessel_type_code": 31,
+      "length": 24.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "366842960",
+      "name": "BETH WILSON",
+      "imo": "IMO8975768",
+      "callsign": "WDA7404",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "636016975",
+      "name": "SEABOARD PATRIOT",
+      "imo": "IMO9395551",
+      "callsign": "D5IR5",
+      "vessel_type_code": 70,
+      "length": 139.0,
+      "width": 22.0,
+      "draft": 7.4
+    },
+    {
+      "mmsi": "338066000",
+      "name": "AURORA",
+      "imo": "IMO9920966",
+      "callsign": "WDL8377",
+      "vessel_type_code": 52,
+      "length": 40.0,
+      "width": 14.0,
+      "draft": 3.4
+    },
+    {
+      "mmsi": "636021153",
+      "name": "MSC REET II",
+      "imo": "IMO9236224",
+      "callsign": "D5NO2",
+      "vessel_type_code": 72,
+      "length": 175.0,
+      "width": 27.0,
+      "draft": 10.2
+    },
+    {
+      "mmsi": "262006000",
+      "name": "DVADESETPRVI MAJ",
+      "imo": "IMO9582427",
+      "callsign": "4OCG",
+      "vessel_type_code": 70,
+      "length": 179.0,
+      "width": 28.0,
+      "draft": 10.8
+    },
+    {
+      "mmsi": "367453000",
+      "name": "ATCHAFALAYA",
+      "imo": "IMO7914248",
+      "callsign": "WDF6708",
+      "vessel_type_code": 90,
+      "length": 60.0,
+      "width": 12.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "477733900",
+      "name": "ALPINE MELINA",
+      "imo": "IMO9387944",
+      "callsign": "VRGM5",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 13.2
+    },
+    {
+      "mmsi": "316039018",
+      "name": "SST ORCA",
+      "imo": "IMO9756494",
+      "callsign": "CFA2896",
+      "vessel_type_code": 52,
+      "length": 32.0,
+      "width": 13.0,
+      "draft": 5.8
+    },
+    {
+      "mmsi": "538006665",
+      "name": "CAPE FRIENDSHIP",
+      "imo": "IMO9327736",
+      "callsign": "V7PU8",
+      "vessel_type_code": 70,
+      "length": 289.0,
+      "width": 47.0,
+      "draft": 18.0
+    },
+    {
+      "mmsi": "368926638",
+      "name": "YT810",
+      "imo": "IMO9912323",
+      "callsign": "YT810",
+      "vessel_type_code": 52,
+      "length": 30.0,
+      "width": 10.0,
+      "draft": 5.5
+    },
+    {
+      "mmsi": "338879000",
+      "name": "CONSTITUTION",
+      "imo": "IMO9710206",
+      "callsign": "KCOJ",
+      "vessel_type_code": 80,
+      "length": 186.0
+    },
+    {
+      "mmsi": "354053000",
+      "name": "A KINKA",
+      "imo": "IMO9433054",
+      "callsign": "3FLP7",
+      "vessel_type_code": 79,
+      "length": 175.0,
+      "width": 27.0,
+      "draft": 9.4
+    },
+    {
+      "mmsi": "303584000",
+      "name": "MAUNALEI",
+      "imo": "IMO9273686",
+      "callsign": "KFMV",
+      "vessel_type_code": 70,
+      "length": 207.0,
+      "width": 32.0,
+      "draft": 11.4
+    },
+    {
+      "mmsi": "367108910",
+      "name": "MARSH ISLAND",
+      "imo": "IMO7207839",
+      "callsign": "WYZ3964",
+      "vessel_type_code": 30,
+      "length": 49.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "338185000",
+      "name": "BLUE ATTU",
+      "imo": "IMO8124230",
+      "callsign": "WDA3556",
+      "vessel_type_code": 30,
+      "length": 28.0,
+      "width": 9.0,
+      "draft": 3.9
+    },
+    {
+      "mmsi": "368515000",
+      "name": "ACHIEVEMENT",
+      "imo": "IMO9542568",
+      "callsign": "WDF2728",
+      "vessel_type_code": 31,
+      "length": 41.0,
+      "width": 12.0,
+      "draft": 5.9
+    },
+    {
+      "mmsi": "368139720",
+      "name": "SIGNET VOLUNTEER",
+      "imo": "IMO1001301448",
+      "callsign": "WDL5289",
+      "vessel_type_code": 52,
+      "length": 99.0,
+      "width": 14.0,
+      "draft": 0.6
+    },
+    {
+      "mmsi": "316001731",
+      "name": "ALISON NICOLE I",
+      "imo": "IMO7406681",
+      "callsign": "CFC6672",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 7.0,
+      "draft": 2.9
+    },
+    {
+      "mmsi": "636014798",
+      "name": "GENCO MARE",
+      "imo": "IMO9450765",
+      "callsign": "A8WP4",
+      "vessel_type_code": 70,
+      "length": 180.0,
+      "width": 30.0,
+      "draft": 9.9
+    },
+    {
+      "mmsi": "316014054",
+      "name": "NORTHERN EXPEDITION",
+      "imo": "IMO9408413",
+      "callsign": "CFN5364",
+      "vessel_type_code": 60,
+      "length": 150.0,
+      "width": 23.0,
+      "draft": 5.2
+    },
+    {
+      "mmsi": "367104070",
+      "name": "PATRICK",
+      "imo": "IMO8982541",
+      "callsign": "WDC9572",
+      "vessel_type_code": 60,
+      "length": 31.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "219005000",
+      "name": "NAVIGARE PACTOR",
+      "imo": "IMO9583653",
+      "callsign": "OXVG2",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 13.2
+    },
+    {
+      "mmsi": "367423730",
+      "name": "CATHERINE C MORAN",
+      "imo": "IMO9415791",
+      "callsign": "WDE9999",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 11.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "566539000",
+      "name": "EAGLE SAN DIEGO",
+      "imo": "IMO9594834",
+      "callsign": "9V9335",
+      "vessel_type_code": 80,
+      "length": 274.0,
+      "width": 49.0,
+      "draft": 17.2
+    },
+    {
+      "mmsi": "319076300",
+      "name": "LADY MICHELLE",
+      "imo": "IMO1007495",
+      "callsign": "ZGE09",
+      "vessel_type_code": 37,
+      "length": 55.0,
+      "width": 10.0,
+      "draft": 3.1
+    },
+    {
+      "mmsi": "366963860",
+      "name": "OKALOOSA",
+      "imo": "IMO8992596",
+      "callsign": "WDB8768",
+      "vessel_type_code": 31,
+      "length": 20.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367630990",
+      "name": "SOLOMON",
+      "imo": "IMO9724233",
+      "callsign": "WDH5742",
+      "vessel_type_code": 90,
+      "length": 59.0,
+      "width": 12.0,
+      "draft": 3.6
+    },
+    {
+      "mmsi": "367082860",
+      "name": "BULLDOG",
+      "imo": "IMO9365324",
+      "callsign": "WDC8178",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 11.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "366998110",
+      "name": "STEVE RICHOUX",
+      "imo": "IMO8992613",
+      "callsign": "WDC2820",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "477244300",
+      "name": "IWAGI ISLAND",
+      "imo": "IMO9846251",
+      "callsign": "VRSG9",
+      "vessel_type_code": 70,
+      "length": 180.0,
+      "width": 30.0,
+      "draft": 8.0
+    },
+    {
+      "mmsi": "366046000",
+      "name": "NORTHERN JAEGER",
+      "imo": "IMO7334826",
+      "callsign": "WNBG",
+      "vessel_type_code": 30,
+      "length": 102.0,
+      "width": 15.0,
+      "draft": 7.5
+    },
+    {
+      "mmsi": "316024578",
+      "name": "CCGH MOYTEL",
+      "imo": "IMO4908420",
+      "callsign": "CFN6498",
+      "vessel_type_code": 90,
+      "length": 28.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "366993010",
+      "name": "WESTRAC",
+      "imo": "IMO8812849",
+      "callsign": "WTH4325",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 8.0,
+      "draft": 4.3
+    },
+    {
+      "mmsi": "538009390",
+      "name": "GH FOEHN",
+      "imo": "IMO9377559",
+      "callsign": "V7A4674",
+      "vessel_type_code": 70,
+      "length": 216.0,
+      "width": 30.0,
+      "draft": 8.8
+    },
+    {
+      "mmsi": "368051000",
+      "name": "FAST MAMMOTH",
+      "imo": "IMO9599444",
+      "callsign": "WDF9442",
+      "vessel_type_code": 60,
+      "length": 53.0,
+      "width": 9.0,
+      "draft": 2.3
+    },
+    {
+      "mmsi": "215798000",
+      "name": "RIVERSIDE",
+      "imo": "IMO9412464",
+      "callsign": "9HA5289",
+      "vessel_type_code": 80,
+      "length": 250.0,
+      "width": 44.0,
+      "draft": 13.0
+    },
+    {
+      "mmsi": "367108030",
+      "name": "EDWARD J MORAN",
+      "imo": "IMO9365336",
+      "callsign": "WDC9891",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 11.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "316001238",
+      "name": "MAYNE QUEEN",
+      "imo": "IMO6522567",
+      "callsign": "VGRR",
+      "vessel_type_code": 60,
+      "length": 84.0,
+      "width": 18.0,
+      "draft": 2.4
+    },
+    {
+      "mmsi": "316005998",
+      "name": "OSPREY NO 1",
+      "imo": "IMO9158173",
+      "callsign": "CFG7757",
+      "vessel_type_code": 30,
+      "length": 57.0,
+      "width": 13.0,
+      "draft": 5.7
+    },
+    {
+      "mmsi": "367666850",
+      "name": "SARAH ANDRIE",
+      "imo": "IMO7114032",
+      "callsign": "WDH9321",
+      "vessel_type_code": 31,
+      "length": 32.0,
+      "width": 9.0,
+      "draft": 3.9
+    },
+    {
+      "mmsi": "316039153",
+      "name": "ISLAND REGENT",
+      "imo": "IMO9803091",
+      "callsign": "CFA2943",
+      "vessel_type_code": 52,
+      "length": 24.0,
+      "width": 11.0,
+      "draft": 4.1
+    },
+    {
+      "mmsi": "367020820",
+      "name": "AMERICAN CHAMPION",
+      "imo": "IMO7434016",
+      "callsign": "WBE2612",
+      "vessel_type_code": 31,
+      "length": 36.0,
+      "width": 8.0,
+      "draft": 3.9
+    },
+    {
+      "mmsi": "367422000",
+      "name": "DELAWARE EXPRESS",
+      "imo": "IMO9349514",
+      "callsign": "WDM2180",
+      "vessel_type_code": 70,
+      "length": 306.0,
+      "width": 40.0,
+      "draft": 11.1
+    },
+    {
+      "mmsi": "367348960",
+      "name": "CAPE KALA KANE",
+      "imo": "IMO9010620",
+      "callsign": "WDE9703",
+      "vessel_type_code": 90,
+      "length": 67.0,
+      "width": 12.0,
+      "draft": 4.7
+    },
+    {
+      "mmsi": "367714220",
+      "name": "THANH LAM",
+      "imo": "IMO8958447",
+      "callsign": "WDI6005",
+      "vessel_type_code": 30,
+      "length": 25.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "303304000",
+      "name": "OCEAN MARINER",
+      "imo": "IMO8516433",
+      "callsign": "WCF3990",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "636016649",
+      "name": "SAN ANDRES",
+      "imo": "IMO9347255",
+      "callsign": "A8OK7",
+      "vessel_type_code": 70,
+      "length": 186.0,
+      "width": 27.0,
+      "draft": 11.3
+    },
+    {
+      "mmsi": "367141680",
+      "name": "NATIONAL GLORY",
+      "imo": "IMO8302246",
+      "callsign": "WDD4207",
+      "vessel_type_code": 70,
+      "length": 149.0,
+      "width": 22.0,
+      "draft": 9.1
+    },
+    {
+      "mmsi": "303520000",
+      "name": "SULPHUR ENTERPRISE",
+      "imo": "IMO9077044",
+      "callsign": "KAKB",
+      "vessel_type_code": 80,
+      "length": 159.0,
+      "width": 27.0,
+      "draft": 10.1
+    },
+    {
+      "mmsi": "368035660",
+      "name": "BAYOU COMMANDER",
+      "imo": "IMO0520332",
+      "callsign": "WDF7295",
+      "vessel_type_code": 31,
+      "length": 21.0,
+      "width": 8.0,
+      "draft": 2.6
+    },
+    {
+      "mmsi": "636015952",
+      "name": "VENETIKO",
+      "imo": "IMO9260914",
+      "callsign": "D5DR5",
+      "vessel_type_code": 70,
+      "length": 279.0,
+      "width": 40.0,
+      "draft": 14.0
+    },
+    {
+      "mmsi": "367670970",
+      "name": "ISLAND MIST",
+      "imo": "IMO8867911",
+      "callsign": "WDH9725",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "366997760",
+      "name": "JOANNE MARIE",
+      "imo": "IMO8635758",
+      "callsign": "WDC2790",
+      "vessel_type_code": 31,
+      "length": 19.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "241574000",
+      "name": "MINERVA KARTERIA",
+      "imo": "IMO9787170",
+      "callsign": "SVCR9",
+      "vessel_type_code": 80,
+      "length": 250.0,
+      "width": 44.0,
+      "draft": 14.6
+    },
+    {
+      "mmsi": "366857940",
+      "name": "JESSICA ELIZABETH",
+      "imo": "IMO8974415",
+      "callsign": "WDA8774",
+      "vessel_type_code": 60,
+      "length": 48.0,
+      "width": 9.0,
+      "draft": 2.5
+    },
+    {
+      "mmsi": "367496740",
+      "name": "SEGA",
+      "imo": "IMO7830492",
+      "callsign": "WDF8616",
+      "vessel_type_code": 31,
+      "length": 19.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "636091690",
+      "name": "POLYNESIA",
+      "imo": "IMO9477347",
+      "callsign": "A8RO9",
+      "vessel_type_code": 70,
+      "length": 161.0,
+      "width": 25.0,
+      "draft": 9.5
+    },
+    {
+      "mmsi": "636017367",
+      "name": "SBI ROCK",
+      "imo": "IMO9710581",
+      "callsign": "D5KO4",
+      "vessel_type_code": 70,
+      "length": 228.0
+    },
+    {
+      "mmsi": "366934770",
+      "name": "NOAH'S ARK",
+      "imo": "IMO8938954",
+      "callsign": "WDH9179",
+      "vessel_type_code": 30,
+      "length": 22.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "499929694",
+      "name": "TANERLIQ",
+      "imo": "IMO9178445",
+      "callsign": "WDF2025",
+      "vessel_type_code": 52,
+      "length": 45.0,
+      "width": 14.0,
+      "draft": 7.0
+    },
+    {
+      "mmsi": "367723150",
+      "name": "SEABOLD",
+      "imo": "IMO7114068",
+      "callsign": "WDI6878",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 8.0,
+      "draft": 3.8
+    },
+    {
+      "mmsi": "255805987",
+      "name": "WIDUKIND",
+      "imo": "IMO9252735",
+      "callsign": "CQIK7",
+      "vessel_type_code": 70,
+      "length": 220.0,
+      "width": 32.0,
+      "draft": 12.2
+    },
+    {
+      "mmsi": "367179790",
+      "name": "LADY EVE",
+      "imo": "IMO8658011",
+      "callsign": "WDD6945",
+      "vessel_type_code": 60,
+      "length": 43.0,
+      "width": 9.0,
+      "draft": 2.7
+    },
+    {
+      "mmsi": "311000368",
+      "name": "CSL SPIRIT",
+      "imo": "IMO9138111",
+      "callsign": "C6BU6",
+      "vessel_type_code": 70,
+      "length": 225.0,
+      "width": 32.0,
+      "draft": 14.4
+    },
+    {
+      "mmsi": "366935380",
+      "name": "CATHERINE",
+      "imo": "IMO8635502",
+      "callsign": "WCW3931",
+      "vessel_type_code": 31,
+      "length": 21.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367712580",
+      "name": "DARLANE B",
+      "imo": "IMO8635887",
+      "callsign": "WDI5847",
+      "vessel_type_code": 31,
+      "length": 20.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "368024790",
+      "name": "ARTCO MAIDEN",
+      "imo": "IMO1283448",
+      "callsign": "WDJ9311",
+      "vessel_type_code": 31,
+      "length": 18.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "370361000",
+      "name": "HAGEN",
+      "imo": "IMO9516868",
+      "callsign": "3ESM8",
+      "vessel_type_code": 70,
+      "length": 147.0,
+      "width": 23.0,
+      "draft": 8.2
+    },
+    {
+      "mmsi": "338056000",
+      "name": "NRC LIBERTY",
+      "imo": "IMO8978708",
+      "callsign": "WDB4340",
+      "vessel_type_code": 90,
+      "length": 33.0,
+      "width": 7.0,
+      "draft": 2.7
+    },
+    {
+      "mmsi": "367439810",
+      "name": "SANDRA J BANTA",
+      "imo": "IMO8975378",
+      "callsign": "WDF3432",
+      "vessel_type_code": 31,
+      "length": 18.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367687040",
+      "name": "TENNER C",
+      "imo": "IMO7046120",
+      "callsign": "WDI3314",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 8.0,
+      "draft": 3.6
+    },
+    {
+      "mmsi": "367460660",
+      "name": "LILLI ANN",
+      "imo": "IMO9020924",
+      "callsign": "WDF5217",
+      "vessel_type_code": 30,
+      "length": 43.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "367059950",
+      "name": "EL PUMA GRANDE",
+      "imo": "IMO7200180",
+      "callsign": "WDC6699",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "232002990",
+      "name": "MAJESTIC PRINCESS",
+      "imo": "IMO9614141",
+      "callsign": "MABI4",
+      "vessel_type_code": 60,
+      "length": 330.0,
+      "width": 38.0,
+      "draft": 8.5
+    },
+    {
+      "mmsi": "367456760",
+      "name": "CHOCTAW",
+      "imo": "IMO8851285",
+      "callsign": "WDF4875",
+      "vessel_type_code": 31,
+      "length": 24.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "367456830",
+      "name": "INTEGRITY",
+      "imo": "IMO8981418",
+      "callsign": "WDF4881",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "636020399",
+      "name": "KALAMOTI TRADER",
+      "imo": "IMO9701279",
+      "callsign": "D5ZA7",
+      "vessel_type_code": 71,
+      "length": 185.0,
+      "width": 30.0,
+      "draft": 8.6
+    },
+    {
+      "mmsi": "369564000",
+      "name": "APOLLO",
+      "imo": "IMO9703289",
+      "callsign": "WDG8962",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 12.0,
+      "draft": 5.2
+    },
+    {
+      "mmsi": "257401000",
+      "name": "BOW FORTUNE",
+      "imo": "IMO9168635",
+      "callsign": "LAJQ5",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 10.7
+    },
+    {
+      "mmsi": "366991790",
+      "name": "MARY PARKER",
+      "imo": "IMO8836431",
+      "callsign": "WDC2357",
+      "vessel_type_code": 31,
+      "length": 39.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "368045710",
+      "name": "LUTHER",
+      "imo": "IMO7427477",
+      "callsign": "WDK3484",
+      "vessel_type_code": 31,
+      "length": 35.0,
+      "width": 10.0,
+      "draft": 3.3
+    },
+    {
+      "mmsi": "565516000",
+      "name": "KAZAK",
+      "imo": "IMO9739549",
+      "callsign": "9V2928",
+      "vessel_type_code": 80,
+      "length": 119.0,
+      "width": 20.0,
+      "draft": 7.3
+    },
+    {
+      "mmsi": "366938440",
+      "name": "JEAN TURECAMO",
+      "imo": "IMO7501077",
+      "callsign": "WDB7213",
+      "vessel_type_code": 31,
+      "length": 32.0,
+      "width": 9.0,
+      "draft": 4.2
+    },
+    {
+      "mmsi": "367032830",
+      "name": "DULARGE",
+      "imo": "IMO8767575",
+      "callsign": "WCS8769",
+      "vessel_type_code": 90,
+      "length": 30.0,
+      "width": 14.0
+    },
+    {
+      "mmsi": "368134130",
+      "name": "SHERRY L",
+      "imo": "IMO8989528",
+      "callsign": "WDL4717",
+      "vessel_type_code": 52,
+      "length": 24.0,
+      "width": 10.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "368076750",
+      "name": "GLACIER BAY",
+      "imo": "IMO7917795",
+      "callsign": "WDK6658",
+      "vessel_type_code": 30,
+      "length": 47.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "367602530",
+      "name": "JANET M MCALLISTER",
+      "imo": "IMO9254408",
+      "callsign": "WDH2921",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 10.0,
+      "draft": 3.7
+    },
+    {
+      "mmsi": "311061800",
+      "name": "ELEKTRA",
+      "imo": "IMO9538153",
+      "callsign": "C6ZP2",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 13.0
+    },
+    {
+      "mmsi": "310384000",
+      "name": "ISLAND PRINCESS",
+      "imo": "IMO9230402",
+      "callsign": "ZCDG4",
+      "vessel_type_code": 60,
+      "length": 294.0,
+      "width": 32.0,
+      "draft": 8.0
+    },
+    {
+      "mmsi": "538004742",
+      "name": "BRAVANTE V",
+      "imo": "IMO9645619",
+      "callsign": "V7YV5",
+      "vessel_type_code": 90,
+      "length": 86.0,
+      "width": 18.0,
+      "draft": 5.9
+    },
+    {
+      "mmsi": "367338310",
+      "name": "DREDGE 32",
+      "imo": "IMO8756978",
+      "callsign": "WTC3235",
+      "vessel_type_code": 90,
+      "length": 60.0,
+      "width": 14.0
+    },
+    {
+      "mmsi": "367501920",
+      "name": "KIMBERLY JANE",
+      "imo": "IMO7222152",
+      "callsign": "WDF9115",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "367516470",
+      "name": "OREGON ESCORT",
+      "imo": "IMO9153329",
+      "callsign": "WDG2521",
+      "vessel_type_code": 31,
+      "length": 33.0,
+      "width": 12.0,
+      "draft": 4.4
+    },
+    {
+      "mmsi": "367640910",
+      "name": "MASON G",
+      "imo": "IMO9773076",
+      "callsign": "WDH6713",
+      "vessel_type_code": 60,
+      "length": 48.0,
+      "width": 9.0,
+      "draft": 2.5
+    },
+    {
+      "mmsi": "258733000",
+      "name": "MARI JONE",
+      "imo": "IMO9725316",
+      "callsign": "LAWB7",
+      "vessel_type_code": 80,
+      "length": 186.0
+    },
+    {
+      "mmsi": "367653620",
+      "name": "PAYTON GRACE MORAN",
+      "imo": "IMO9778337",
+      "callsign": "WDH7992",
+      "vessel_type_code": 31,
+      "length": 28.0
+    },
+    {
+      "mmsi": "375314000",
+      "name": "KIMON A",
+      "imo": "IMO8115320",
+      "callsign": "J8B3351",
+      "vessel_type_code": 70,
+      "length": 164.0,
+      "width": 22.0,
+      "draft": 9.8
+    },
+    {
+      "mmsi": "367473530",
+      "name": "ISLAND TIDE",
+      "imo": "IMO8992479",
+      "callsign": "WDF6369",
+      "vessel_type_code": 31,
+      "length": 16.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "636021440",
+      "name": "SEABOARD PRIDE",
+      "imo": "IMO9294513",
+      "callsign": "5LDY2",
+      "vessel_type_code": 70,
+      "length": 210.0,
+      "width": 30.0,
+      "draft": 10.6
+    },
+    {
+      "mmsi": "538003242",
+      "name": "VLAZAKIS I",
+      "imo": "IMO9546124",
+      "callsign": "V7PJ6",
+      "vessel_type_code": 70,
+      "length": 190.0,
+      "width": 32.0,
+      "draft": 12.8
+    },
+    {
+      "mmsi": "368027230",
+      "name": "WSF SUQUAMISH",
+      "imo": "IMO9801782",
+      "callsign": "WDJ9559",
+      "vessel_type_code": 60,
+      "length": 111.0,
+      "width": 26.0,
+      "draft": 5.0
+    },
+    {
+      "mmsi": "310515000",
+      "name": "STENA PERFORMANCE",
+      "imo": "IMO9299159",
+      "callsign": "ZCDR5",
+      "vessel_type_code": 80,
+      "length": 182.0,
+      "width": 40.0,
+      "draft": 13.0
+    },
+    {
+      "mmsi": "316028504",
+      "name": "SMIT SABA",
+      "imo": "IMO9476379",
+      "callsign": "CFN6721",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 10.0,
+      "draft": 4.8
+    },
+    {
+      "mmsi": "368097560",
+      "name": "DEAF SMITH",
+      "imo": "IMO1222394",
+      "callsign": "WDK8804",
+      "vessel_type_code": 57,
+      "length": 115.0,
+      "width": 34.0,
+      "draft": 2.5
+    },
+    {
+      "mmsi": "245206000",
+      "name": "EURODAM",
+      "imo": "IMO9378448",
+      "callsign": "PHOS",
+      "vessel_type_code": 60,
+      "length": 285.0,
+      "width": 32.0,
+      "draft": 8.0
+    },
+    {
+      "mmsi": "366812830",
+      "name": "JANE ANN BLESSEY",
+      "imo": "IMO8635576",
+      "callsign": "WDA4762",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "538006177",
+      "name": "BERYL",
+      "imo": "IMO9681168",
+      "callsign": "V7KN4",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 13.3
+    },
+    {
+      "mmsi": "367416060",
+      "name": "HARVEY RAIN",
+      "imo": "IMO9536210",
+      "callsign": "WDG5515",
+      "vessel_type_code": 90,
+      "length": 64.0,
+      "width": 17.0,
+      "draft": 4.7
+    },
+    {
+      "mmsi": "352898739",
+      "name": "COSTA VI",
+      "imo": "IMO9944728",
+      "callsign": "HOA7992",
+      "vessel_type_code": 70,
+      "length": 55.0,
+      "width": 12.0,
+      "draft": 2.0
+    },
+    {
+      "mmsi": "232508000",
+      "name": "PAZ",
+      "imo": "IMO8978332",
+      "callsign": "MXLP9",
+      "vessel_type_code": 36,
+      "length": 43.0,
+      "width": 8.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "367688580",
+      "name": "MATTHEW",
+      "imo": "IMO8635461",
+      "callsign": "WDI3464",
+      "vessel_type_code": 31,
+      "length": 20.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367745820",
+      "name": "COOPER MORAN",
+      "imo": "IMO9812547",
+      "callsign": "WDI9156",
+      "vessel_type_code": 31,
+      "length": 28.0
+    },
+    {
+      "mmsi": "367148660",
+      "name": "MANUOKEKAI",
+      "imo": "IMO7722061",
+      "callsign": "WTF6032",
+      "vessel_type_code": 31,
+      "length": 38.0,
+      "width": 10.0,
+      "draft": 4.2
+    },
+    {
+      "mmsi": "563064100",
+      "name": "STI MYTHIC",
+      "imo": "IMO9833553",
+      "callsign": "9V3138",
+      "vessel_type_code": 82,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 11.7
+    },
+    {
+      "mmsi": "538006631",
+      "name": "SEA MARATHON",
+      "imo": "IMO9611943",
+      "callsign": "V7PH3",
+      "vessel_type_code": 70,
+      "length": 69.0
+    },
+    {
+      "mmsi": "209862000",
+      "name": "WARNOW WHALE",
+      "imo": "IMO9395032",
+      "callsign": "5BXD3",
+      "vessel_type_code": 70,
+      "length": 166.0,
+      "width": 25.0,
+      "draft": 9.5
+    },
+    {
+      "mmsi": "366765940",
+      "name": "SEA CLIPPER",
+      "imo": "IMO7520633",
+      "callsign": "WCZ2553",
+      "vessel_type_code": 30,
+      "length": 25.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "368163250",
+      "name": "SCARLET ROSE FURLONG",
+      "imo": "IMO1243638",
+      "callsign": "WDL7763",
+      "vessel_type_code": 57,
+      "length": 357.0,
+      "width": 33.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "566306000",
+      "name": "MTM HOUSTON",
+      "imo": "IMO9505924",
+      "callsign": "9V9704",
+      "vessel_type_code": 80,
+      "length": 144.0,
+      "width": 24.0,
+      "draft": 9.6
+    },
+    {
+      "mmsi": "369098000",
+      "name": "HANNAH",
+      "imo": "IMO7932343",
+      "callsign": "WDI7828",
+      "vessel_type_code": 31,
+      "length": 23.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "367479990",
+      "name": "WSF KENNEWICK",
+      "imo": "IMO9618331",
+      "callsign": "WDF6991",
+      "vessel_type_code": 60,
+      "length": 83.0,
+      "width": 19.0,
+      "draft": 3.2
+    },
+    {
+      "mmsi": "367094660",
+      "name": "MS JOY",
+      "imo": "IMO8964240",
+      "callsign": "WCY2036",
+      "vessel_type_code": 60,
+      "length": 42.0,
+      "width": 9.0,
+      "draft": 2.2
+    },
+    {
+      "mmsi": "368209880",
+      "name": "MORGAN",
+      "imo": "IMO9915739",
+      "callsign": "WDM4799",
+      "vessel_type_code": 52,
+      "length": 30.0,
+      "width": 12.0,
+      "draft": 6.0
+    },
+    {
+      "mmsi": "352001169",
+      "name": "SIRIOS CEMENT III",
+      "imo": "IMO9373606",
+      "callsign": "3E3435",
+      "vessel_type_code": 79,
+      "length": 145.0,
+      "width": 25.0,
+      "draft": 9.1
+    },
+    {
+      "mmsi": "636019035",
+      "name": "MEDI TIRRENO",
+      "imo": "IMO9699165",
+      "callsign": "D5SQ5",
+      "vessel_type_code": 70,
+      "length": 200.0,
+      "width": 32.0,
+      "draft": 10.8
+    },
+    {
+      "mmsi": "367160000",
+      "name": "CAPT BUD BISSO",
+      "imo": "IMO9034834",
+      "callsign": "WCW4130",
+      "vessel_type_code": 31,
+      "length": 33.0,
+      "width": 10.0,
+      "draft": 5.6
+    },
+    {
+      "mmsi": "367082000",
+      "name": "DUTY",
+      "imo": "IMO9427299",
+      "callsign": "WDD5291",
+      "vessel_type_code": 31,
+      "length": 31.0,
+      "width": 9.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "367591250",
+      "name": "PATRIOT",
+      "imo": "IMO9712046",
+      "callsign": "WDG9802",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 12.0,
+      "draft": 3.6
+    },
+    {
+      "mmsi": "538005632",
+      "name": "PROVIDENCE",
+      "imo": "IMO9350599",
+      "callsign": "V7FO9",
+      "vessel_type_code": 80,
+      "length": 226.0,
+      "width": 36.0,
+      "draft": 11.8
+    },
+    {
+      "mmsi": "353260000",
+      "name": "ATLANTIC TRAMP",
+      "imo": "IMO9659921",
+      "callsign": "3FMY2",
+      "vessel_type_code": 70,
+      "length": 169.0,
+      "width": 27.0,
+      "draft": 9.8
+    },
+    {
+      "mmsi": "538006612",
+      "name": "CHEM TIGER",
+      "imo": "IMO9287297",
+      "callsign": "V7LW3",
+      "vessel_type_code": 80,
+      "length": 145.0,
+      "width": 23.0,
+      "draft": 9.9
+    },
+    {
+      "mmsi": "367759000",
+      "name": "MAERSK MONTANA",
+      "imo": "IMO9305312",
+      "callsign": "WCDP",
+      "vessel_type_code": 70,
+      "length": 292.0,
+      "width": 32.0,
+      "draft": 13.5
+    },
+    {
+      "mmsi": "219289000",
+      "name": "NORD GUARDIAN",
+      "imo": "IMO9448712",
+      "callsign": "OZCI2",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 12.6
+    },
+    {
+      "mmsi": "366961280",
+      "name": "RITA",
+      "imo": "IMO7237470",
+      "callsign": "WDH5470",
+      "vessel_type_code": 31,
+      "length": 24.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367090680",
+      "name": "NOON WEDNESDAY",
+      "imo": "IMO7528855",
+      "callsign": "WDC8641",
+      "vessel_type_code": 31,
+      "length": 58.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "366693850",
+      "name": "BROWARD",
+      "imo": "IMO9123568",
+      "callsign": "WCU2633",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 12.0,
+      "draft": 4.4
+    },
+    {
+      "mmsi": "477397200",
+      "name": "SPRING GLORY",
+      "imo": "IMO9603491",
+      "callsign": "VRJA2",
+      "vessel_type_code": 70,
+      "length": 229.0,
+      "width": 38.0,
+      "draft": 14.9
+    },
+    {
+      "mmsi": "563001900",
+      "name": "STRATEGIC SAVANNAH",
+      "imo": "IMO9686338",
+      "callsign": "9V5259",
+      "vessel_type_code": 70,
+      "length": 179.0,
+      "width": 30.0,
+      "draft": 10.2
+    },
+    {
+      "mmsi": "538009142",
+      "name": "OCEAN PRINCESS",
+      "imo": "IMO9268291",
+      "callsign": "V7A4373",
+      "vessel_type_code": 80,
+      "length": 113.0,
+      "width": 18.0,
+      "draft": 6.3
+    },
+    {
+      "mmsi": "366047000",
+      "name": "AMERICAN TRIUMPH",
+      "imo": "IMO7738412",
+      "callsign": "KTHZ",
+      "vessel_type_code": 30,
+      "length": 87.0,
+      "width": 16.0,
+      "draft": 3.7
+    },
+    {
+      "mmsi": "366986160",
+      "name": "Q O DUNN",
+      "imo": "IMO7308023",
+      "callsign": "WX9279",
+      "vessel_type_code": 30,
+      "length": 49.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "367624350",
+      "name": "STINGRAY",
+      "imo": "IMO7942764",
+      "callsign": "WDH5083",
+      "vessel_type_code": 90,
+      "length": 21.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "366264360",
+      "name": "WESTERN DAWN",
+      "imo": "IMO7515925",
+      "callsign": "WDJ5630",
+      "vessel_type_code": 30,
+      "length": 24.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367332840",
+      "name": "KARLA F",
+      "imo": "IMO9555694",
+      "callsign": "WDE3008",
+      "vessel_type_code": 90,
+      "length": 50.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "368225790",
+      "name": "MARY PATRICIA",
+      "imo": "IMO1048576",
+      "callsign": "WDM6500",
+      "vessel_type_code": 57,
+      "length": 20.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "368081960",
+      "name": "ORIENT EXPRESS",
+      "imo": "IMO1221379",
+      "callsign": "WDK7181",
+      "vessel_type_code": 37,
+      "length": 28.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "368196410",
+      "name": "C-CONSTRUCTOR",
+      "imo": "IMO9763746",
+      "callsign": "WDM3339",
+      "vessel_type_code": 29,
+      "length": 97.0,
+      "width": 40.0,
+      "draft": 6.0
+    },
+    {
+      "mmsi": "353327000",
+      "name": "GRAPETREE BAY",
+      "imo": "IMO8133968",
+      "callsign": "HO8940",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 8.0,
+      "draft": 3.4
+    },
+    {
+      "mmsi": "366698000",
+      "name": "CAPE DECISION",
+      "imo": "IMO7310911",
+      "callsign": "WMGD",
+      "vessel_type_code": 70,
+      "length": 207.0,
+      "width": 32.0,
+      "draft": 6.8
+    },
+    {
+      "mmsi": "366995010",
+      "name": "BETH M MCALLISTER",
+      "imo": "IMO8980919",
+      "callsign": "WCZ8598",
+      "vessel_type_code": 31,
+      "length": 33.0,
+      "width": 9.0,
+      "draft": 4.3
+    },
+    {
+      "mmsi": "367424420",
+      "name": "HADEN II",
+      "imo": "IMO9215335",
+      "callsign": "WDF2064",
+      "vessel_type_code": 31,
+      "length": 28.0,
+      "width": 10.0,
+      "draft": 5.0
+    },
+    {
+      "mmsi": "538007899",
+      "name": "CS CELESTE",
+      "imo": "IMO9670418",
+      "callsign": "V7QI3",
+      "vessel_type_code": 79,
+      "length": 177.0,
+      "width": 30.0,
+      "draft": 9.0
+    },
+    {
+      "mmsi": "338158000",
+      "name": "WEST VIRGINIA",
+      "imo": "IMO9704805",
+      "callsign": "KSKW",
+      "vessel_type_code": 80,
+      "length": 183.0
+    },
+    {
+      "mmsi": "367525770",
+      "name": "TUGIDAK",
+      "imo": "IMO7309302",
+      "callsign": "WDG3411",
+      "vessel_type_code": 30,
+      "length": 25.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367582190",
+      "name": "LYLA ANGELLE",
+      "imo": "IMO8973318",
+      "callsign": "WDG8896",
+      "vessel_type_code": 60,
+      "length": 41.0,
+      "width": 8.0,
+      "draft": 2.7
+    },
+    {
+      "mmsi": "367507520",
+      "name": "SIGNET CONSTELLATION",
+      "imo": "IMO9593139",
+      "callsign": "WDF9663",
+      "vessel_type_code": 31,
+      "length": 27.0,
+      "width": 12.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "367767480",
+      "name": "HOLT T",
+      "imo": "IMO8978203",
+      "callsign": "WDJ3382",
+      "vessel_type_code": 60,
+      "length": 29.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "636017828",
+      "name": "STOLT KIRI",
+      "imo": "IMO9266231",
+      "callsign": "D5MW8",
+      "vessel_type_code": 80,
+      "length": 145.0,
+      "width": 24.0,
+      "draft": 9.6
+    },
+    {
+      "mmsi": "241770000",
+      "name": "ATLANTIC",
+      "imo": "IMO9912139",
+      "callsign": "SVDL8",
+      "vessel_type_code": 80,
+      "length": 274.0,
+      "width": 48.0,
+      "draft": 9.5
+    },
+    {
+      "mmsi": "316003527",
+      "name": "BELINA",
+      "imo": "IMO5039678",
+      "callsign": "CY3195",
+      "vessel_type_code": 30,
+      "length": 23.0,
+      "width": 7.0,
+      "draft": 2.9
+    },
+    {
+      "mmsi": "367456950",
+      "name": "SPIRIT",
+      "imo": "IMO8981406",
+      "callsign": "WDF4892",
+      "vessel_type_code": 31,
+      "length": 22.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "311000857",
+      "name": "RIVER PEARL",
+      "imo": "IMO9363663",
+      "callsign": "C6EC6",
+      "vessel_type_code": 70,
+      "length": 188.0,
+      "width": 32.0,
+      "draft": 6.4
+    },
+    {
+      "mmsi": "367079560",
+      "name": "MS DEE",
+      "imo": "IMO8973497",
+      "callsign": "WDC7960",
+      "vessel_type_code": 60,
+      "length": 35.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "538003882",
+      "name": "DUBAI ANGEL",
+      "imo": "IMO9422524",
+      "callsign": "V7TT6",
+      "vessel_type_code": 80,
+      "length": 250.0,
+      "width": 44.0,
+      "draft": 15.0
+    },
+    {
+      "mmsi": "367138490",
+      "name": "ANNA M",
+      "imo": "IMO9406403",
+      "callsign": "WDD3952",
+      "vessel_type_code": 60,
+      "length": 44.0,
+      "width": 8.0,
+      "draft": 2.4
+    },
+    {
+      "mmsi": "367668810",
+      "name": "PENNY ECKSTEIN",
+      "imo": "IMO8992314",
+      "callsign": "WDH9508",
+      "vessel_type_code": 31,
+      "length": 39.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "368230000",
+      "name": "ODYSSEA GOLD",
+      "imo": "IMO9558555",
+      "callsign": "WDE8097",
+      "vessel_type_code": 90,
+      "length": 57.0,
+      "width": 14.0,
+      "draft": 4.1
+    },
+    {
+      "mmsi": "367325130",
+      "name": "WESLEY A",
+      "imo": "IMO9097628",
+      "callsign": "WDE2433",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 12.0
+    },
+    {
+      "mmsi": "241190000",
+      "name": "MINERVA ZEN",
+      "imo": "IMO9410909",
+      "callsign": "SVBN3",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 13.5
+    },
+    {
+      "mmsi": "368181020",
+      "name": "LARRY BOY",
+      "imo": "IMO0000111",
+      "callsign": "WDL9658",
+      "vessel_type_code": 32,
+      "length": 22.0,
+      "width": 10.0,
+      "draft": 2.5
+    },
+    {
+      "mmsi": "319226200",
+      "name": "BACCHUS",
+      "imo": "IMO9548809",
+      "callsign": "ZGQD3",
+      "vessel_type_code": 37,
+      "length": 50.0,
+      "width": 10.0,
+      "draft": 2.6
+    },
+    {
+      "mmsi": "316005667",
+      "name": "ROYAL CANADIAN",
+      "imo": "IMO6810184",
+      "callsign": "CY8898",
+      "vessel_type_code": 30,
+      "length": 30.0,
+      "width": 8.0,
+      "draft": 3.4
+    },
+    {
+      "mmsi": "249579000",
+      "name": "DAVIDE B",
+      "imo": "IMO9721750",
+      "callsign": "9HA4297",
+      "vessel_type_code": 80,
+      "length": 155.0
+    },
+    {
+      "mmsi": "368220940",
+      "name": "SAMANTHA TRUEHEART",
+      "imo": "IMO1281050",
+      "callsign": "WDM5964",
+      "vessel_type_code": 57,
+      "length": 207.0,
+      "width": 18.0,
+      "draft": 3.1
+    },
+    {
+      "mmsi": "366866930",
+      "name": "TUG RESPONSE",
+      "imo": "IMO9258806",
+      "callsign": "WDA9597",
+      "vessel_type_code": 52,
+      "length": 40.0,
+      "width": 14.0,
+      "draft": 6.1
+    },
+    {
+      "mmsi": "477706100",
+      "name": "PAC ALCOR",
+      "imo": "IMO9913640",
+      "callsign": "VRTZ5",
+      "vessel_type_code": 70,
+      "length": 199.0,
+      "width": 32.0,
+      "draft": 9.5
+    },
+    {
+      "mmsi": "311000813",
+      "name": "AFRICAN GANNET",
+      "imo": "IMO9749233",
+      "callsign": "C6DX9",
+      "vessel_type_code": 70,
+      "length": 180.0,
+      "width": 30.0,
+      "draft": 6.7
+    },
+    {
+      "mmsi": "367088210",
+      "name": "RACHEL BURTON",
+      "imo": "IMO7308061",
+      "callsign": "WX9277",
+      "vessel_type_code": 30,
+      "length": 49.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "366828620",
+      "name": "VICKI M MCALLISTER",
+      "imo": "IMO9257826",
+      "callsign": "WDA6093",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 11.0,
+      "draft": 3.7
+    },
+    {
+      "mmsi": "367062120",
+      "name": "OCEAN NAVIGATOR",
+      "imo": "IMO8700711",
+      "callsign": "WSC2552",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 8.0
+    },
+    {
+      "mmsi": "311001095",
+      "name": "CARNIVAL SPIRIT",
+      "imo": "IMO9188647",
+      "callsign": "C6FF5",
+      "vessel_type_code": 69,
+      "length": 293.0,
+      "width": 40.0,
+      "draft": 8.5
+    },
+    {
+      "mmsi": "367649320",
+      "name": "WSF SAMISH",
+      "imo": "IMO9720251",
+      "callsign": "WDH7552",
+      "vessel_type_code": 60,
+      "length": 110.0,
+      "width": 25.0,
+      "draft": 5.0
+    },
+    {
+      "mmsi": "367156260",
+      "name": "WARREN THOMAS",
+      "imo": "IMO9399454",
+      "callsign": "WDJ6269",
+      "vessel_type_code": 90,
+      "length": 50.0,
+      "width": 10.0,
+      "draft": 3.6
+    },
+    {
+      "mmsi": "563092400",
+      "name": "STI MAVERICK",
+      "imo": "IMO9833589",
+      "callsign": "9V2705",
+      "vessel_type_code": 89,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 11.0
+    },
+    {
+      "mmsi": "316014750",
+      "name": "VIKING ALLIANCE",
+      "imo": "IMO9137454",
+      "callsign": "VAS2018",
+      "vessel_type_code": 30,
+      "length": 41.0,
+      "width": 11.0,
+      "draft": 6.0
+    },
+    {
+      "mmsi": "368036960",
+      "name": "GALE R RHODES",
+      "imo": "IMO8199788",
+      "callsign": "WDK2590",
+      "vessel_type_code": 0,
+      "length": 20.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "366779440",
+      "name": "ATTENTIVE",
+      "imo": "IMO9214393",
+      "callsign": "WCZ7337",
+      "vessel_type_code": 31,
+      "length": 42.0,
+      "width": 12.0,
+      "draft": 4.9
+    },
+    {
+      "mmsi": "477390400",
+      "name": "SEASPAN AMAZON",
+      "imo": "IMO9630391",
+      "callsign": "VRNF8",
+      "vessel_type_code": 70,
+      "length": 336.0,
+      "width": 48.0,
+      "draft": 15.2
+    },
+    {
+      "mmsi": "367167020",
+      "name": "EUGENIE",
+      "imo": "IMO9091260",
+      "callsign": "WDF2441",
+      "vessel_type_code": 31,
+      "length": 29.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "219027839",
+      "name": "TORM TIMOTHY",
+      "imo": "IMO9726487",
+      "callsign": "OZTX2",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 10.7
+    },
+    {
+      "mmsi": "366811570",
+      "name": "NATALIE H",
+      "imo": "IMO7200245",
+      "callsign": "WDA4637",
+      "vessel_type_code": 31,
+      "length": 18.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367584390",
+      "name": "JB BLOOMER",
+      "imo": "IMO8987448",
+      "callsign": "WDG9108",
+      "vessel_type_code": 31,
+      "length": 18.0,
+      "width": 6.0
+    },
+    {
+      "mmsi": "367532830",
+      "name": "CAROL MCMANUS",
+      "imo": "IMO8836651",
+      "callsign": "WDG4087",
+      "vessel_type_code": 31,
+      "length": 49.0,
+      "width": 15.0
+    },
+    {
+      "mmsi": "368135490",
+      "name": "SEA INNOVATOR I",
+      "imo": "IMO8973356",
+      "callsign": "WDL4854",
+      "vessel_type_code": 0,
+      "length": 41.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "366950140",
+      "name": "SHELLFISH",
+      "imo": "IMO7308774",
+      "callsign": "WDI4328",
+      "vessel_type_code": 30,
+      "length": 25.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "367007030",
+      "name": "CAPT BILLY SLATTEN",
+      "imo": "IMO8964733",
+      "callsign": "WDC3380",
+      "vessel_type_code": 31,
+      "length": 30.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "316042022",
+      "name": "SEASPAN RAPTOR",
+      "imo": "IMO9766994",
+      "callsign": ".",
+      "vessel_type_code": 52,
+      "length": 24.0,
+      "width": 11.0,
+      "draft": 5.8
+    },
+    {
+      "mmsi": "366998020",
+      "name": "ST ANDREW",
+      "imo": "IMO8635916",
+      "callsign": "WDC2812",
+      "vessel_type_code": 31,
+      "length": 19.0,
+      "width": 7.0
+    },
+    {
+      "mmsi": "366914770",
+      "name": "CANDY MACHINE",
+      "imo": "IMO8993069",
+      "callsign": "WDB5898",
+      "vessel_type_code": 60,
+      "length": 44.0,
+      "width": 8.0,
+      "draft": 1.9
+    },
+    {
+      "mmsi": "367005360",
+      "name": "CREOLE LADY",
+      "imo": "IMO7216799",
+      "callsign": "WDC3293",
+      "vessel_type_code": 31,
+      "length": 25.0,
+      "width": 9.0
+    },
+    {
+      "mmsi": "368022610",
+      "name": "VERMILION",
+      "imo": "IMO0579571",
+      "callsign": "WDJ9088",
+      "vessel_type_code": 30,
+      "length": 40.0,
+      "width": 10.0,
+      "draft": 3.0
+    },
+    {
+      "mmsi": "563043900",
+      "name": "PINZA",
+      "imo": "IMO9790232",
+      "callsign": "9V3706",
+      "vessel_type_code": 80,
+      "length": 230.0,
+      "width": 32.0,
+      "draft": 8.1
+    },
+    {
+      "mmsi": "367119160",
+      "name": "HOKULANI",
+      "imo": "IMO7417422",
+      "callsign": "WDI9073",
+      "vessel_type_code": 31,
+      "length": 34.0,
+      "width": 10.0,
+      "draft": 4.9
+    },
+    {
+      "mmsi": "367353110",
+      "name": "PELICAN STATE",
+      "imo": "IMO9408102",
+      "callsign": "WDE4433",
+      "vessel_type_code": 80,
+      "length": 183.0,
+      "width": 32.0,
+      "draft": 12.8
+    },
+    {
+      "mmsi": "377911000",
+      "name": "TROPIC PALM",
+      "imo": "IMO7625964",
+      "callsign": "J8PB",
+      "vessel_type_code": 70,
+      "length": 100.0,
+      "width": 21.0,
+      "draft": 4.7
+    },
+    {
+      "mmsi": "370413000",
+      "name": "GLOBAL ARC",
+      "imo": "IMO9644043",
+      "callsign": "3FNJ6",
+      "vessel_type_code": 70,
+      "length": 176.0,
+      "width": 28.0,
+      "draft": 9.8
+    },
+    {
+      "mmsi": "356087000",
+      "name": "PRETTY JACK",
+      "imo": "IMO9502829",
+      "callsign": "3FJX3",
+      "vessel_type_code": 70,
+      "length": 179.0,
+      "width": 28.0,
+      "draft": 10.8
+    },
+    {
+      "mmsi": "319661000",
+      "name": "KOGO",
+      "imo": "IMO1008504",
+      "callsign": "ZCOP3",
+      "vessel_type_code": 37,
+      "length": 71.0,
+      "width": 14.0,
+      "draft": 4.0
+    },
+    {
+      "mmsi": "366980180",
+      "name": "OCEAN TITAN",
+      "imo": "IMO8987931",
+      "callsign": "WDB9647",
+      "vessel_type_code": 31,
+      "length": 36.0,
+      "width": 10.0
+    },
+    {
+      "mmsi": "368174420",
+      "name": "ELISSA",
+      "imo": "IMO101041355",
+      "callsign": "WDL8944",
+      "vessel_type_code": 57,
+      "length": 149.0,
+      "width": 33.0,
+      "draft": 3.5
+    }
+  ]
+}

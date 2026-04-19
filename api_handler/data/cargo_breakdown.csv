@@ -1,0 +1,1493 @@
+month,cargo_type_primary,cargo_type_secondary,cargo_throughput
+1995-01,General Cargo,Containerised,12405.51
+1995-01,General Cargo,Conventional,1160.21
+1995-01,Bulk Cargo,Oil,10530.74
+1995-01,Bulk Cargo,Non-Oil Bulk,774.62
+1995-02,General Cargo,Containerised,11260.47
+1995-02,General Cargo,Conventional,1014.65
+1995-02,Bulk Cargo,Oil,10065.75
+1995-02,Bulk Cargo,Non-Oil Bulk,613.98
+1995-03,General Cargo,Containerised,12957.58
+1995-03,General Cargo,Conventional,1218.86
+1995-03,Bulk Cargo,Oil,10517.28
+1995-03,Bulk Cargo,Non-Oil Bulk,700.33
+1995-04,General Cargo,Containerised,12832.52
+1995-04,General Cargo,Conventional,1308.72
+1995-04,Bulk Cargo,Oil,10233.79
+1995-04,Bulk Cargo,Non-Oil Bulk,701.64
+1995-05,General Cargo,Containerised,12975.28
+1995-05,General Cargo,Conventional,1399.94
+1995-05,Bulk Cargo,Oil,10652.91
+1995-05,Bulk Cargo,Non-Oil Bulk,796.16
+1995-06,General Cargo,Containerised,12819.59
+1995-06,General Cargo,Conventional,1311.69
+1995-06,Bulk Cargo,Oil,10368.99
+1995-06,Bulk Cargo,Non-Oil Bulk,817.98
+1995-07,General Cargo,Containerised,13186.95
+1995-07,General Cargo,Conventional,1335.06
+1995-07,Bulk Cargo,Oil,10685.42
+1995-07,Bulk Cargo,Non-Oil Bulk,768.47
+1995-08,General Cargo,Containerised,13518.81
+1995-08,General Cargo,Conventional,1374.14
+1995-08,Bulk Cargo,Oil,11342.41
+1995-08,Bulk Cargo,Non-Oil Bulk,990.87
+1995-09,General Cargo,Containerised,12616.77
+1995-09,General Cargo,Conventional,1305.27
+1995-09,Bulk Cargo,Oil,10388.43
+1995-09,Bulk Cargo,Non-Oil Bulk,843.49
+1995-10,General Cargo,Containerised,13527.34
+1995-10,General Cargo,Conventional,1329.86
+1995-10,Bulk Cargo,Oil,10436.71
+1995-10,Bulk Cargo,Non-Oil Bulk,817.14
+1995-11,General Cargo,Containerised,12737.88
+1995-11,General Cargo,Conventional,1218.05
+1995-11,Bulk Cargo,Oil,10587.92
+1995-11,Bulk Cargo,Non-Oil Bulk,699.98
+1995-12,General Cargo,Containerised,13661.41
+1995-12,General Cargo,Conventional,1268.33
+1995-12,Bulk Cargo,Oil,10564.63
+1995-12,Bulk Cargo,Non-Oil Bulk,839.45
+1996-01,General Cargo,Containerised,13121.24
+1996-01,General Cargo,Conventional,1183.14
+1996-01,Bulk Cargo,Oil,10682.36
+1996-01,Bulk Cargo,Non-Oil Bulk,821.64
+1996-02,General Cargo,Containerised,11883.3
+1996-02,General Cargo,Conventional,996.23
+1996-02,Bulk Cargo,Oil,10166.59
+1996-02,Bulk Cargo,Non-Oil Bulk,693.48
+1996-03,General Cargo,Containerised,13127.25
+1996-03,General Cargo,Conventional,1240.96
+1996-03,Bulk Cargo,Oil,11269.96
+1996-03,Bulk Cargo,Non-Oil Bulk,807.96
+1996-04,General Cargo,Containerised,13249.9
+1996-04,General Cargo,Conventional,1251.29
+1996-04,Bulk Cargo,Oil,11663.27
+1996-04,Bulk Cargo,Non-Oil Bulk,781.24
+1996-05,General Cargo,Containerised,13176.76
+1996-05,General Cargo,Conventional,1193.59
+1996-05,Bulk Cargo,Oil,11254.39
+1996-05,Bulk Cargo,Non-Oil Bulk,677.55
+1996-06,General Cargo,Containerised,13227.34
+1996-06,General Cargo,Conventional,1290.42
+1996-06,Bulk Cargo,Oil,11005.78
+1996-06,Bulk Cargo,Non-Oil Bulk,833.06
+1996-07,General Cargo,Containerised,14110.04
+1996-07,General Cargo,Conventional,1289.09
+1996-07,Bulk Cargo,Oil,11023.5
+1996-07,Bulk Cargo,Non-Oil Bulk,834.52
+1996-08,General Cargo,Containerised,13691.31
+1996-08,General Cargo,Conventional,1225.72
+1996-08,Bulk Cargo,Oil,10338.8
+1996-08,Bulk Cargo,Non-Oil Bulk,779.46
+1996-09,General Cargo,Containerised,13520.41
+1996-09,General Cargo,Conventional,1165.09
+1996-09,Bulk Cargo,Oil,11146.28
+1996-09,Bulk Cargo,Non-Oil Bulk,818.91
+1996-10,General Cargo,Containerised,13941.39
+1996-10,General Cargo,Conventional,1326.69
+1996-10,Bulk Cargo,Oil,10072.17
+1996-10,Bulk Cargo,Non-Oil Bulk,707.9
+1996-11,General Cargo,Containerised,13402.84
+1996-11,General Cargo,Conventional,1313.92
+1996-11,Bulk Cargo,Oil,10417.33
+1996-11,Bulk Cargo,Non-Oil Bulk,693.02
+1996-12,General Cargo,Containerised,13826.97
+1996-12,General Cargo,Conventional,1328.35
+1996-12,Bulk Cargo,Oil,10837.29
+1996-12,Bulk Cargo,Non-Oil Bulk,754.34
+1997-01,General Cargo,Containerised,13428.91
+1997-01,General Cargo,Conventional,1305.74
+1997-01,Bulk Cargo,Oil,10010.92
+1997-01,Bulk Cargo,Non-Oil Bulk,1005.03
+1997-02,General Cargo,Containerised,11616.06
+1997-02,General Cargo,Conventional,1149.87
+1997-02,Bulk Cargo,Oil,9830.14
+1997-02,Bulk Cargo,Non-Oil Bulk,707.56
+1997-03,General Cargo,Containerised,14563.3
+1997-03,General Cargo,Conventional,1283.73
+1997-03,Bulk Cargo,Oil,11127.74
+1997-03,Bulk Cargo,Non-Oil Bulk,1004.36
+1997-04,General Cargo,Containerised,14160.03
+1997-04,General Cargo,Conventional,1329.78
+1997-04,Bulk Cargo,Oil,11826.79
+1997-04,Bulk Cargo,Non-Oil Bulk,1074.5
+1997-05,General Cargo,Containerised,14673.7
+1997-05,General Cargo,Conventional,1247.75
+1997-05,Bulk Cargo,Oil,13520.94
+1997-05,Bulk Cargo,Non-Oil Bulk,940.46
+1997-06,General Cargo,Containerised,14548.92
+1997-06,General Cargo,Conventional,1184.74
+1997-06,Bulk Cargo,Oil,11414.6
+1997-06,Bulk Cargo,Non-Oil Bulk,1071.91
+1997-07,General Cargo,Containerised,14791.22
+1997-07,General Cargo,Conventional,1388.6
+1997-07,Bulk Cargo,Oil,11143.45
+1997-07,Bulk Cargo,Non-Oil Bulk,1076.85
+1997-08,General Cargo,Containerised,14677.74
+1997-08,General Cargo,Conventional,1289.62
+1997-08,Bulk Cargo,Oil,9770.51
+1997-08,Bulk Cargo,Non-Oil Bulk,1018.82
+1997-09,General Cargo,Containerised,14480.62
+1997-09,General Cargo,Conventional,1334.97
+1997-09,Bulk Cargo,Oil,10830.51
+1997-09,Bulk Cargo,Non-Oil Bulk,1051.05
+1997-10,General Cargo,Containerised,14993.57
+1997-10,General Cargo,Conventional,1316.51
+1997-10,Bulk Cargo,Oil,10365.09
+1997-10,Bulk Cargo,Non-Oil Bulk,1237.53
+1997-11,General Cargo,Containerised,13995.83
+1997-11,General Cargo,Conventional,1326.16
+1997-11,Bulk Cargo,Oil,9467.02
+1997-11,Bulk Cargo,Non-Oil Bulk,1038.47
+1997-12,General Cargo,Containerised,14210.25
+1997-12,General Cargo,Conventional,1261.12
+1997-12,Bulk Cargo,Oil,10478.91
+1997-12,Bulk Cargo,Non-Oil Bulk,934.79
+1998-01,General Cargo,Containerised,12430.74
+1998-01,General Cargo,Conventional,1104.17
+1998-01,Bulk Cargo,Oil,10334.4
+1998-01,Bulk Cargo,Non-Oil Bulk,1059.35
+1998-02,General Cargo,Containerised,10941.26
+1998-02,General Cargo,Conventional,1054.13
+1998-02,Bulk Cargo,Oil,9400.5
+1998-02,Bulk Cargo,Non-Oil Bulk,962.32
+1998-03,General Cargo,Containerised,13662.42
+1998-03,General Cargo,Conventional,1238.06
+1998-03,Bulk Cargo,Oil,11548.67
+1998-03,Bulk Cargo,Non-Oil Bulk,1236.29
+1998-04,General Cargo,Containerised,12638.05
+1998-04,General Cargo,Conventional,1083.95
+1998-04,Bulk Cargo,Oil,10966.64
+1998-04,Bulk Cargo,Non-Oil Bulk,885.38
+1998-05,General Cargo,Containerised,13454.57
+1998-05,General Cargo,Conventional,1112.87
+1998-05,Bulk Cargo,Oil,11125.36
+1998-05,Bulk Cargo,Non-Oil Bulk,954.02
+1998-06,General Cargo,Containerised,13660.24
+1998-06,General Cargo,Conventional,1075.62
+1998-06,Bulk Cargo,Oil,10565.43
+1998-06,Bulk Cargo,Non-Oil Bulk,966.88
+1998-07,General Cargo,Containerised,13505.34
+1998-07,General Cargo,Conventional,1064.76
+1998-07,Bulk Cargo,Oil,10654.8
+1998-07,Bulk Cargo,Non-Oil Bulk,1156.14
+1998-08,General Cargo,Containerised,14013.76
+1998-08,General Cargo,Conventional,1017.92
+1998-08,Bulk Cargo,Oil,10420.64
+1998-08,Bulk Cargo,Non-Oil Bulk,999.96
+1998-09,General Cargo,Containerised,13906.62
+1998-09,General Cargo,Conventional,960.39
+1998-09,Bulk Cargo,Oil,9465.89
+1998-09,Bulk Cargo,Non-Oil Bulk,973.32
+1998-10,General Cargo,Containerised,13802.09
+1998-10,General Cargo,Conventional,1030.07
+1998-10,Bulk Cargo,Oil,9952.06
+1998-10,Bulk Cargo,Non-Oil Bulk,1025.99
+1998-11,General Cargo,Containerised,14045.33
+1998-11,General Cargo,Conventional,967.94
+1998-11,Bulk Cargo,Oil,10716.18
+1998-11,Bulk Cargo,Non-Oil Bulk,897.64
+1998-12,General Cargo,Containerised,14257.46
+1998-12,General Cargo,Conventional,940.55
+1998-12,Bulk Cargo,Oil,12017.47
+1998-12,Bulk Cargo,Non-Oil Bulk,1068.48
+1999-01,General Cargo,Containerised,13453.66
+1999-01,General Cargo,Conventional,794.9
+1999-01,Bulk Cargo,Oil,11652.63
+1999-01,Bulk Cargo,Non-Oil Bulk,1146.42
+1999-02,General Cargo,Containerised,12531.53
+1999-02,General Cargo,Conventional,816.17
+1999-02,Bulk Cargo,Oil,9718.8
+1999-02,Bulk Cargo,Non-Oil Bulk,891.4
+1999-03,General Cargo,Containerised,14486.67
+1999-03,General Cargo,Conventional,961.38
+1999-03,Bulk Cargo,Oil,12230.63
+1999-03,Bulk Cargo,Non-Oil Bulk,1128.42
+1999-04,General Cargo,Containerised,14076.9
+1999-04,General Cargo,Conventional,878.57
+1999-04,Bulk Cargo,Oil,12467.02
+1999-04,Bulk Cargo,Non-Oil Bulk,1115.04
+1999-05,General Cargo,Containerised,15071.62
+1999-05,General Cargo,Conventional,897.25
+1999-05,Bulk Cargo,Oil,11046.92
+1999-05,Bulk Cargo,Non-Oil Bulk,972.93
+1999-06,General Cargo,Containerised,14606.65
+1999-06,General Cargo,Conventional,911.44
+1999-06,Bulk Cargo,Oil,9388.54
+1999-06,Bulk Cargo,Non-Oil Bulk,931.6
+1999-07,General Cargo,Containerised,15196.74
+1999-07,General Cargo,Conventional,1023.24
+1999-07,Bulk Cargo,Oil,9325.6
+1999-07,Bulk Cargo,Non-Oil Bulk,1163.39
+1999-08,General Cargo,Containerised,15619.26
+1999-08,General Cargo,Conventional,1092.48
+1999-08,Bulk Cargo,Oil,8084.3
+1999-08,Bulk Cargo,Non-Oil Bulk,1086.04
+1999-09,General Cargo,Containerised,14955.98
+1999-09,General Cargo,Conventional,1045.99
+1999-09,Bulk Cargo,Oil,10631.49
+1999-09,Bulk Cargo,Non-Oil Bulk,1153.1
+1999-10,General Cargo,Containerised,15393.39
+1999-10,General Cargo,Conventional,1132.08
+1999-10,Bulk Cargo,Oil,9775.95
+1999-10,Bulk Cargo,Non-Oil Bulk,1215.93
+1999-11,General Cargo,Containerised,15065.37
+1999-11,General Cargo,Conventional,1241.79
+1999-11,Bulk Cargo,Oil,9511.23
+1999-11,Bulk Cargo,Non-Oil Bulk,1110.49
+1999-12,General Cargo,Containerised,16110.87
+1999-12,General Cargo,Conventional,1189.5
+1999-12,Bulk Cargo,Oil,10552.61
+1999-12,Bulk Cargo,Non-Oil Bulk,1048.34
+2000-01,General Cargo,Containerised,14448.12
+2000-01,General Cargo,Conventional,930.51
+2000-01,Bulk Cargo,Oil,9419.32
+2000-01,Bulk Cargo,Non-Oil Bulk,1038
+2000-02,General Cargo,Containerised,15024.43
+2000-02,General Cargo,Conventional,993.61
+2000-02,Bulk Cargo,Oil,9288.1
+2000-02,Bulk Cargo,Non-Oil Bulk,734.58
+2000-03,General Cargo,Containerised,16602.07
+2000-03,General Cargo,Conventional,1186.71
+2000-03,Bulk Cargo,Oil,7702.85
+2000-03,Bulk Cargo,Non-Oil Bulk,1211.6
+2000-04,General Cargo,Containerised,15984.35
+2000-04,General Cargo,Conventional,1122.86
+2000-04,Bulk Cargo,Oil,9993.6
+2000-04,Bulk Cargo,Non-Oil Bulk,893.56
+2000-05,General Cargo,Containerised,16034.4
+2000-05,General Cargo,Conventional,1118.96
+2000-05,Bulk Cargo,Oil,10137.2
+2000-05,Bulk Cargo,Non-Oil Bulk,1154.41
+2000-06,General Cargo,Containerised,15666.52
+2000-06,General Cargo,Conventional,1168.64
+2000-06,Bulk Cargo,Oil,9650.71
+2000-06,Bulk Cargo,Non-Oil Bulk,935.4
+2000-07,General Cargo,Containerised,16037.9
+2000-07,General Cargo,Conventional,1151.7
+2000-07,Bulk Cargo,Oil,9112.03
+2000-07,Bulk Cargo,Non-Oil Bulk,1181.36
+2000-08,General Cargo,Containerised,16122.75
+2000-08,General Cargo,Conventional,1191.91
+2000-08,Bulk Cargo,Oil,8137.66
+2000-08,Bulk Cargo,Non-Oil Bulk,1181.96
+2000-09,General Cargo,Containerised,15044.36
+2000-09,General Cargo,Conventional,1176.59
+2000-09,Bulk Cargo,Oil,9348.22
+2000-09,Bulk Cargo,Non-Oil Bulk,1193.67
+2000-10,General Cargo,Containerised,15784.28
+2000-10,General Cargo,Conventional,1323.96
+2000-10,Bulk Cargo,Oil,9933.95
+2000-10,Bulk Cargo,Non-Oil Bulk,1212.32
+2000-11,General Cargo,Containerised,14882.98
+2000-11,General Cargo,Conventional,1145.16
+2000-11,Bulk Cargo,Oil,9869.67
+2000-11,Bulk Cargo,Non-Oil Bulk,1071.97
+2000-12,General Cargo,Containerised,14224.8
+2000-12,General Cargo,Conventional,1209.22
+2000-12,Bulk Cargo,Oil,10736.04
+2000-12,Bulk Cargo,Non-Oil Bulk,876.11
+2001-01,General Cargo,Containerised,12931.21
+2001-01,General Cargo,Conventional,980.89
+2001-01,Bulk Cargo,Oil,9020.3
+2001-01,Bulk Cargo,Non-Oil Bulk,1050.07
+2001-02,General Cargo,Containerised,12657.42
+2001-02,General Cargo,Conventional,1167.51
+2001-02,Bulk Cargo,Oil,8391.41
+2001-02,Bulk Cargo,Non-Oil Bulk,1000.61
+2001-03,General Cargo,Containerised,14861.45
+2001-03,General Cargo,Conventional,1455.96
+2001-03,Bulk Cargo,Oil,8880.94
+2001-03,Bulk Cargo,Non-Oil Bulk,1085.59
+2001-04,General Cargo,Containerised,14071.23
+2001-04,General Cargo,Conventional,1358.74
+2001-04,Bulk Cargo,Oil,9141.9
+2001-04,Bulk Cargo,Non-Oil Bulk,1131.76
+2001-05,General Cargo,Containerised,14014.46
+2001-05,General Cargo,Conventional,1394.34
+2001-05,Bulk Cargo,Oil,8620.34
+2001-05,Bulk Cargo,Non-Oil Bulk,1079.61
+2001-06,General Cargo,Containerised,14606.95
+2001-06,General Cargo,Conventional,1197.31
+2001-06,Bulk Cargo,Oil,9480.68
+2001-06,Bulk Cargo,Non-Oil Bulk,1447.44
+2001-07,General Cargo,Containerised,15293.08
+2001-07,General Cargo,Conventional,1155.22
+2001-07,Bulk Cargo,Oil,10345.63
+2001-07,Bulk Cargo,Non-Oil Bulk,1022.96
+2001-08,General Cargo,Containerised,14881.86
+2001-08,General Cargo,Conventional,1180.69
+2001-08,Bulk Cargo,Oil,11660.64
+2001-08,Bulk Cargo,Non-Oil Bulk,951.91
+2001-09,General Cargo,Containerised,14426.14
+2001-09,General Cargo,Conventional,1105.54
+2001-09,Bulk Cargo,Oil,9933.9
+2001-09,Bulk Cargo,Non-Oil Bulk,908.24
+2001-10,General Cargo,Containerised,14983.4
+2001-10,General Cargo,Conventional,1309.04
+2001-10,Bulk Cargo,Oil,8567.07
+2001-10,Bulk Cargo,Non-Oil Bulk,1169.66
+2001-11,General Cargo,Containerised,14293.03
+2001-11,General Cargo,Conventional,1204.31
+2001-11,Bulk Cargo,Oil,9772.09
+2001-11,Bulk Cargo,Non-Oil Bulk,1446.22
+2001-12,General Cargo,Containerised,14188.38
+2001-12,General Cargo,Conventional,1357.51
+2001-12,Bulk Cargo,Oil,9944.16
+2001-12,Bulk Cargo,Non-Oil Bulk,1358.17
+2002-01,General Cargo,Containerised,14585.22
+2002-01,General Cargo,Conventional,1036.37
+2002-01,Bulk Cargo,Oil,11439.89
+2002-01,Bulk Cargo,Non-Oil Bulk,1306.61
+2002-02,General Cargo,Containerised,13572.48
+2002-02,General Cargo,Conventional,1226.46
+2002-02,Bulk Cargo,Oil,8847.5
+2002-02,Bulk Cargo,Non-Oil Bulk,1009.55
+2002-03,General Cargo,Containerised,15899.36
+2002-03,General Cargo,Conventional,1287.41
+2002-03,Bulk Cargo,Oil,10187.41
+2002-03,Bulk Cargo,Non-Oil Bulk,1102.19
+2002-04,General Cargo,Containerised,15703.15
+2002-04,General Cargo,Conventional,1259.72
+2002-04,Bulk Cargo,Oil,10840.78
+2002-04,Bulk Cargo,Non-Oil Bulk,1417.65
+2002-05,General Cargo,Containerised,16060.24
+2002-05,General Cargo,Conventional,1312.26
+2002-05,Bulk Cargo,Oil,8829.99
+2002-05,Bulk Cargo,Non-Oil Bulk,1123.68
+2002-06,General Cargo,Containerised,15670.62
+2002-06,General Cargo,Conventional,1229.98
+2002-06,Bulk Cargo,Oil,10380.63
+2002-06,Bulk Cargo,Non-Oil Bulk,1347.44
+2002-07,General Cargo,Containerised,16465.61
+2002-07,General Cargo,Conventional,1296.72
+2002-07,Bulk Cargo,Oil,10748.16
+2002-07,Bulk Cargo,Non-Oil Bulk,1205.84
+2002-08,General Cargo,Containerised,15971.25
+2002-08,General Cargo,Conventional,1203.23
+2002-08,Bulk Cargo,Oil,9970.85
+2002-08,Bulk Cargo,Non-Oil Bulk,1349.19
+2002-09,General Cargo,Containerised,15473.93
+2002-09,General Cargo,Conventional,1057.05
+2002-09,Bulk Cargo,Oil,8902.87
+2002-09,Bulk Cargo,Non-Oil Bulk,1231.84
+2002-10,General Cargo,Containerised,15142.31
+2002-10,General Cargo,Conventional,1187.43
+2002-10,Bulk Cargo,Oil,10144.26
+2002-10,Bulk Cargo,Non-Oil Bulk,1879.87
+2002-11,General Cargo,Containerised,14586.21
+2002-11,General Cargo,Conventional,1271.03
+2002-11,Bulk Cargo,Oil,8919.55
+2002-11,Bulk Cargo,Non-Oil Bulk,1511.69
+2002-12,General Cargo,Containerised,14824.58
+2002-12,General Cargo,Conventional,1197.95
+2002-12,Bulk Cargo,Oil,11455.38
+2002-12,Bulk Cargo,Non-Oil Bulk,1482.52
+2003-01,General Cargo,Containerised,14448.33
+2003-01,General Cargo,Conventional,1163.96
+2003-01,Bulk Cargo,Oil,12036.64
+2003-01,Bulk Cargo,Non-Oil Bulk,1348.86
+2003-02,General Cargo,Containerised,13747.07
+2003-02,General Cargo,Conventional,1046.68
+2003-02,Bulk Cargo,Oil,9897.54
+2003-02,Bulk Cargo,Non-Oil Bulk,1308.14
+2003-03,General Cargo,Containerised,16607.57
+2003-03,General Cargo,Conventional,1073.27
+2003-03,Bulk Cargo,Oil,9353.08
+2003-03,Bulk Cargo,Non-Oil Bulk,1149.67
+2003-04,General Cargo,Containerised,15253.72
+2003-04,General Cargo,Conventional,1133.8
+2003-04,Bulk Cargo,Oil,10125.57
+2003-04,Bulk Cargo,Non-Oil Bulk,1290.62
+2003-05,General Cargo,Containerised,15748.4
+2003-05,General Cargo,Conventional,1140.77
+2003-05,Bulk Cargo,Oil,11242.33
+2003-05,Bulk Cargo,Non-Oil Bulk,1640.46
+2003-06,General Cargo,Containerised,16338.51
+2003-06,General Cargo,Conventional,1382.36
+2003-06,Bulk Cargo,Oil,10074.61
+2003-06,Bulk Cargo,Non-Oil Bulk,1245.94
+2003-07,General Cargo,Containerised,16726.27
+2003-07,General Cargo,Conventional,1189.43
+2003-07,Bulk Cargo,Oil,9882.24
+2003-07,Bulk Cargo,Non-Oil Bulk,1617.99
+2003-08,General Cargo,Containerised,16499.88
+2003-08,General Cargo,Conventional,1327.34
+2003-08,Bulk Cargo,Oil,9339.68
+2003-08,Bulk Cargo,Non-Oil Bulk,1576.27
+2003-09,General Cargo,Containerised,15982.46
+2003-09,General Cargo,Conventional,1226.74
+2003-09,Bulk Cargo,Oil,9972.35
+2003-09,Bulk Cargo,Non-Oil Bulk,1506.77
+2003-10,General Cargo,Containerised,16907.99
+2003-10,General Cargo,Conventional,1349.39
+2003-10,Bulk Cargo,Oil,10989.2
+2003-10,Bulk Cargo,Non-Oil Bulk,1581.08
+2003-11,General Cargo,Containerised,16268.77
+2003-11,General Cargo,Conventional,1389.57
+2003-11,Bulk Cargo,Oil,10327.58
+2003-11,Bulk Cargo,Non-Oil Bulk,1698.29
+2003-12,General Cargo,Containerised,17158.67
+2003-12,General Cargo,Conventional,1336.59
+2003-12,Bulk Cargo,Oil,10133.84
+2003-12,Bulk Cargo,Non-Oil Bulk,1907.86
+2004-01,General Cargo,Containerised,16744.52
+2004-01,General Cargo,Conventional,1200.79
+2004-01,Bulk Cargo,Oil,10854.76
+2004-01,Bulk Cargo,Non-Oil Bulk,1585.54
+2004-02,General Cargo,Containerised,15555.66
+2004-02,General Cargo,Conventional,1120.71
+2004-02,Bulk Cargo,Oil,8585.76
+2004-02,Bulk Cargo,Non-Oil Bulk,1778.68
+2004-03,General Cargo,Containerised,18574.52
+2004-03,General Cargo,Conventional,1406.17
+2004-03,Bulk Cargo,Oil,11156.11
+2004-03,Bulk Cargo,Non-Oil Bulk,2202.55
+2004-04,General Cargo,Containerised,18251.33
+2004-04,General Cargo,Conventional,1427
+2004-04,Bulk Cargo,Oil,10850.28
+2004-04,Bulk Cargo,Non-Oil Bulk,2235.27
+2004-05,General Cargo,Containerised,18887.58
+2004-05,General Cargo,Conventional,1326.31
+2004-05,Bulk Cargo,Oil,10316.58
+2004-05,Bulk Cargo,Non-Oil Bulk,1782.87
+2004-06,General Cargo,Containerised,19592.77
+2004-06,General Cargo,Conventional,1456.85
+2004-06,Bulk Cargo,Oil,10770.58
+2004-06,Bulk Cargo,Non-Oil Bulk,1720.33
+2004-07,General Cargo,Containerised,19813.52
+2004-07,General Cargo,Conventional,1552.98
+2004-07,Bulk Cargo,Oil,11047.73
+2004-07,Bulk Cargo,Non-Oil Bulk,2049.26
+2004-08,General Cargo,Containerised,19625.11
+2004-08,General Cargo,Conventional,1516.57
+2004-08,Bulk Cargo,Oil,10569.14
+2004-08,Bulk Cargo,Non-Oil Bulk,2177.85
+2004-09,General Cargo,Containerised,19045.66
+2004-09,General Cargo,Conventional,1404.33
+2004-09,Bulk Cargo,Oil,11097.91
+2004-09,Bulk Cargo,Non-Oil Bulk,1851.97
+2004-10,General Cargo,Containerised,19268.85
+2004-10,General Cargo,Conventional,1499.21
+2004-10,Bulk Cargo,Oil,10683.46
+2004-10,Bulk Cargo,Non-Oil Bulk,1783.04
+2004-11,General Cargo,Containerised,18274.52
+2004-11,General Cargo,Conventional,1669.52
+2004-11,Bulk Cargo,Oil,11279.78
+2004-11,Bulk Cargo,Non-Oil Bulk,1487.14
+2004-12,General Cargo,Containerised,19869.28
+2004-12,General Cargo,Conventional,1797.73
+2004-12,Bulk Cargo,Oil,12116.09
+2004-12,Bulk Cargo,Non-Oil Bulk,2553.4
+2005-01,General Cargo,Containerised,19190.56
+2005-01,General Cargo,Conventional,1450.56
+2005-01,Bulk Cargo,Oil,13603.29
+2005-01,Bulk Cargo,Non-Oil Bulk,2312.49
+2005-02,General Cargo,Containerised,17242.32
+2005-02,General Cargo,Conventional,1338.1
+2005-02,Bulk Cargo,Oil,9680.66
+2005-02,Bulk Cargo,Non-Oil Bulk,1653.1
+2005-03,General Cargo,Containerised,21220.27
+2005-03,General Cargo,Conventional,1688.03
+2005-03,Bulk Cargo,Oil,12364.19
+2005-03,Bulk Cargo,Non-Oil Bulk,1819.71
+2005-04,General Cargo,Containerised,19868.79
+2005-04,General Cargo,Conventional,1738.15
+2005-04,Bulk Cargo,Oil,10999.76
+2005-04,Bulk Cargo,Non-Oil Bulk,1596.02
+2005-05,General Cargo,Containerised,21012.31
+2005-05,General Cargo,Conventional,1525.83
+2005-05,Bulk Cargo,Oil,12637.26
+2005-05,Bulk Cargo,Non-Oil Bulk,1579.67
+2005-06,General Cargo,Containerised,21067.24
+2005-06,General Cargo,Conventional,1668.61
+2005-06,Bulk Cargo,Oil,11615.31
+2005-06,Bulk Cargo,Non-Oil Bulk,2262.55
+2005-07,General Cargo,Containerised,20778.65
+2005-07,General Cargo,Conventional,1823.85
+2005-07,Bulk Cargo,Oil,11719.48
+2005-07,Bulk Cargo,Non-Oil Bulk,2295.93
+2005-08,General Cargo,Containerised,21094.6
+2005-08,General Cargo,Conventional,1795.08
+2005-08,Bulk Cargo,Oil,11368.06
+2005-08,Bulk Cargo,Non-Oil Bulk,1699.03
+2005-09,General Cargo,Containerised,19818.61
+2005-09,General Cargo,Conventional,1822.08
+2005-09,Bulk Cargo,Oil,9621.07
+2005-09,Bulk Cargo,Non-Oil Bulk,1774.81
+2005-10,General Cargo,Containerised,20868.29
+2005-10,General Cargo,Conventional,1723.99
+2005-10,Bulk Cargo,Oil,11507.36
+2005-10,Bulk Cargo,Non-Oil Bulk,1822.88
+2005-11,General Cargo,Containerised,19488.32
+2005-11,General Cargo,Conventional,1803.64
+2005-11,Bulk Cargo,Oil,11007.5
+2005-11,Bulk Cargo,Non-Oil Bulk,1630.46
+2005-12,General Cargo,Containerised,20323.03
+2005-12,General Cargo,Conventional,1914.23
+2005-12,Bulk Cargo,Oil,11702.26
+2005-12,Bulk Cargo,Non-Oil Bulk,2729.65
+2006-01,General Cargo,Containerised,20570.36
+2006-01,General Cargo,Conventional,1663.11
+2006-01,Bulk Cargo,Oil,10869.53
+2006-01,Bulk Cargo,Non-Oil Bulk,1958.85
+2006-02,General Cargo,Containerised,18259.66
+2006-02,General Cargo,Conventional,1525.11
+2006-02,Bulk Cargo,Oil,10976.32
+2006-02,Bulk Cargo,Non-Oil Bulk,1722.66
+2006-03,General Cargo,Containerised,21695.9
+2006-03,General Cargo,Conventional,2033.94
+2006-03,Bulk Cargo,Oil,12772.75
+2006-03,Bulk Cargo,Non-Oil Bulk,1434.65
+2006-04,General Cargo,Containerised,21034.88
+2006-04,General Cargo,Conventional,2151.37
+2006-04,Bulk Cargo,Oil,12081.98
+2006-04,Bulk Cargo,Non-Oil Bulk,1038.31
+2006-05,General Cargo,Containerised,21911.19
+2006-05,General Cargo,Conventional,1825.47
+2006-05,Bulk Cargo,Oil,13974.65
+2006-05,Bulk Cargo,Non-Oil Bulk,1145.61
+2006-06,General Cargo,Containerised,21261.03
+2006-06,General Cargo,Conventional,1955.27
+2006-06,Bulk Cargo,Oil,13559.77
+2006-06,Bulk Cargo,Non-Oil Bulk,1048.77
+2006-07,General Cargo,Containerised,21978.1
+2006-07,General Cargo,Conventional,1802.42
+2006-07,Bulk Cargo,Oil,14019.25
+2006-07,Bulk Cargo,Non-Oil Bulk,1243.3
+2006-08,General Cargo,Containerised,23315.63
+2006-08,General Cargo,Conventional,1888.74
+2006-08,Bulk Cargo,Oil,13622.97
+2006-08,Bulk Cargo,Non-Oil Bulk,930.89
+2006-09,General Cargo,Containerised,21976.89
+2006-09,General Cargo,Conventional,1882.23
+2006-09,Bulk Cargo,Oil,13445.32
+2006-09,Bulk Cargo,Non-Oil Bulk,938.36
+2006-10,General Cargo,Containerised,21857.41
+2006-10,General Cargo,Conventional,2138.28
+2006-10,Bulk Cargo,Oil,12405.88
+2006-10,Bulk Cargo,Non-Oil Bulk,810.11
+2006-11,General Cargo,Containerised,21997.25
+2006-11,General Cargo,Conventional,1852.04
+2006-11,Bulk Cargo,Oil,12421.86
+2006-11,Bulk Cargo,Non-Oil Bulk,840.2
+2006-12,General Cargo,Containerised,22694.68
+2006-12,General Cargo,Conventional,2122.34
+2006-12,Bulk Cargo,Oil,12879.2
+2006-12,Bulk Cargo,Non-Oil Bulk,969.47
+2007-01,General Cargo,Containerised,22331.58
+2007-01,General Cargo,Conventional,1719.71
+2007-01,Bulk Cargo,Oil,13454.04
+2007-01,Bulk Cargo,Non-Oil Bulk,889.49
+2007-02,General Cargo,Containerised,21553.78
+2007-02,General Cargo,Conventional,1871.08
+2007-02,Bulk Cargo,Oil,11017.4
+2007-02,Bulk Cargo,Non-Oil Bulk,846.18
+2007-03,General Cargo,Containerised,24011.6
+2007-03,General Cargo,Conventional,2203.27
+2007-03,Bulk Cargo,Oil,15215.02
+2007-03,Bulk Cargo,Non-Oil Bulk,975.28
+2007-04,General Cargo,Containerised,23708.71
+2007-04,General Cargo,Conventional,1945.94
+2007-04,Bulk Cargo,Oil,13751.36
+2007-04,Bulk Cargo,Non-Oil Bulk,988.61
+2007-05,General Cargo,Containerised,24433.39
+2007-05,General Cargo,Conventional,2192.05
+2007-05,Bulk Cargo,Oil,12269.58
+2007-05,Bulk Cargo,Non-Oil Bulk,858.23
+2007-06,General Cargo,Containerised,23869.96
+2007-06,General Cargo,Conventional,2108.4
+2007-06,Bulk Cargo,Oil,13607.88
+2007-06,Bulk Cargo,Non-Oil Bulk,1086.28
+2007-07,General Cargo,Containerised,25375.19
+2007-07,General Cargo,Conventional,2352.84
+2007-07,Bulk Cargo,Oil,12826.38
+2007-07,Bulk Cargo,Non-Oil Bulk,872.49
+2007-08,General Cargo,Containerised,25201.51
+2007-08,General Cargo,Conventional,2200.78
+2007-08,Bulk Cargo,Oil,11906.58
+2007-08,Bulk Cargo,Non-Oil Bulk,922.79
+2007-09,General Cargo,Containerised,23856.32
+2007-09,General Cargo,Conventional,1986.6
+2007-09,Bulk Cargo,Oil,13435.49
+2007-09,Bulk Cargo,Non-Oil Bulk,912.85
+2007-10,General Cargo,Containerised,24457.68
+2007-10,General Cargo,Conventional,2397.99
+2007-10,Bulk Cargo,Oil,13967.09
+2007-10,Bulk Cargo,Non-Oil Bulk,1093.61
+2007-11,General Cargo,Containerised,24359.35
+2007-11,General Cargo,Conventional,2346.44
+2007-11,Bulk Cargo,Oil,12357.31
+2007-11,Bulk Cargo,Non-Oil Bulk,808.2
+2007-12,General Cargo,Containerised,25935.11
+2007-12,General Cargo,Conventional,2498.09
+2007-12,Bulk Cargo,Oil,13574.18
+2007-12,Bulk Cargo,Non-Oil Bulk,1062.38
+2008-01,General Cargo,Containerised,25984.48
+2008-01,General Cargo,Conventional,2196.73
+2008-01,Bulk Cargo,Oil,15330.46
+2008-01,Bulk Cargo,Non-Oil Bulk,802.44
+2008-02,General Cargo,Containerised,24240.55
+2008-02,General Cargo,Conventional,2146.78
+2008-02,Bulk Cargo,Oil,13149.43
+2008-02,Bulk Cargo,Non-Oil Bulk,851.97
+2008-03,General Cargo,Containerised,27329.27
+2008-03,General Cargo,Conventional,2444.2
+2008-03,Bulk Cargo,Oil,16171.04
+2008-03,Bulk Cargo,Non-Oil Bulk,855.68
+2008-04,General Cargo,Containerised,26910.36
+2008-04,General Cargo,Conventional,2466.57
+2008-04,Bulk Cargo,Oil,16256.73
+2008-04,Bulk Cargo,Non-Oil Bulk,971.14
+2008-05,General Cargo,Containerised,28327.56
+2008-05,General Cargo,Conventional,2377.35
+2008-05,Bulk Cargo,Oil,14259.95
+2008-05,Bulk Cargo,Non-Oil Bulk,928.88
+2008-06,General Cargo,Containerised,26763.76
+2008-06,General Cargo,Conventional,2510.46
+2008-06,Bulk Cargo,Oil,13733.9
+2008-06,Bulk Cargo,Non-Oil Bulk,1124.34
+2008-07,General Cargo,Containerised,28222.62
+2008-07,General Cargo,Conventional,2518.41
+2008-07,Bulk Cargo,Oil,14604.13
+2008-07,Bulk Cargo,Non-Oil Bulk,1072.26
+2008-08,General Cargo,Containerised,27283.56
+2008-08,General Cargo,Conventional,2418.82
+2008-08,Bulk Cargo,Oil,11837.15
+2008-08,Bulk Cargo,Non-Oil Bulk,849.23
+2008-09,General Cargo,Containerised,25928.99
+2008-09,General Cargo,Conventional,2181.08
+2008-09,Bulk Cargo,Oil,12849.73
+2008-09,Bulk Cargo,Non-Oil Bulk,972.78
+2008-10,General Cargo,Containerised,24886.27
+2008-10,General Cargo,Conventional,2338.18
+2008-10,Bulk Cargo,Oil,12447.49
+2008-10,Bulk Cargo,Non-Oil Bulk,1214.34
+2008-11,General Cargo,Containerised,22061.59
+2008-11,General Cargo,Conventional,2284.53
+2008-11,Bulk Cargo,Oil,14749.36
+2008-11,Bulk Cargo,Non-Oil Bulk,1047.06
+2008-12,General Cargo,Containerised,20550.69
+2008-12,General Cargo,Conventional,2051.76
+2008-12,Bulk Cargo,Oil,11929.55
+2008-12,Bulk Cargo,Non-Oil Bulk,981.67
+2009-01,General Cargo,Containerised,18810.46
+2009-01,General Cargo,Conventional,1439.55
+2009-01,Bulk Cargo,Oil,17573.48
+2009-01,Bulk Cargo,Non-Oil Bulk,943.7
+2009-02,General Cargo,Containerised,17762.34
+2009-02,General Cargo,Conventional,1563.9
+2009-02,Bulk Cargo,Oil,15097.6
+2009-02,Bulk Cargo,Non-Oil Bulk,825.8
+2009-03,General Cargo,Containerised,22182
+2009-03,General Cargo,Conventional,1547.66
+2009-03,Bulk Cargo,Oil,14369.89
+2009-03,Bulk Cargo,Non-Oil Bulk,1179.52
+2009-04,General Cargo,Containerised,21481.59
+2009-04,General Cargo,Conventional,1144.35
+2009-04,Bulk Cargo,Oil,15470.17
+2009-04,Bulk Cargo,Non-Oil Bulk,2111.39
+2009-05,General Cargo,Containerised,21817.22
+2009-05,General Cargo,Conventional,976.86
+2009-05,Bulk Cargo,Oil,15027.67
+2009-05,Bulk Cargo,Non-Oil Bulk,2153.08
+2009-06,General Cargo,Containerised,21607.24
+2009-06,General Cargo,Conventional,1131.57
+2009-06,Bulk Cargo,Oil,14287.41
+2009-06,Bulk Cargo,Non-Oil Bulk,1001.08
+2009-07,General Cargo,Containerised,23460.46
+2009-07,General Cargo,Conventional,1486.5
+2009-07,Bulk Cargo,Oil,13688.55
+2009-07,Bulk Cargo,Non-Oil Bulk,1175.12
+2009-08,General Cargo,Containerised,23568.41
+2009-08,General Cargo,Conventional,1370.77
+2009-08,Bulk Cargo,Oil,14495.39
+2009-08,Bulk Cargo,Non-Oil Bulk,1026.82
+2009-09,General Cargo,Containerised,21857.34
+2009-09,General Cargo,Conventional,1644.13
+2009-09,Bulk Cargo,Oil,13205.04
+2009-09,Bulk Cargo,Non-Oil Bulk,1127.94
+2009-10,General Cargo,Containerised,23735.18
+2009-10,General Cargo,Conventional,1663.14
+2009-10,Bulk Cargo,Oil,14893.84
+2009-10,Bulk Cargo,Non-Oil Bulk,1086.29
+2009-11,General Cargo,Containerised,23286.42
+2009-11,General Cargo,Conventional,1722.88
+2009-11,Bulk Cargo,Oil,14144.87
+2009-11,Bulk Cargo,Non-Oil Bulk,1025.77
+2009-12,General Cargo,Containerised,23328.15
+2009-12,General Cargo,Conventional,1760.75
+2009-12,Bulk Cargo,Oil,15069.76
+2009-12,Bulk Cargo,Non-Oil Bulk,971.17
+2010-01,General Cargo,Containerised,23678.73
+2010-01,General Cargo,Conventional,1659.2
+2010-01,Bulk Cargo,Oil,15908.37
+2010-01,Bulk Cargo,Non-Oil Bulk,1149.38
+2010-02,General Cargo,Containerised,22095.06
+2010-02,General Cargo,Conventional,1772.57
+2010-02,Bulk Cargo,Oil,13420.71
+2010-02,Bulk Cargo,Non-Oil Bulk,675.04
+2010-03,General Cargo,Containerised,24955.29
+2010-03,General Cargo,Conventional,2007.21
+2010-03,Bulk Cargo,Oil,15463.43
+2010-03,Bulk Cargo,Non-Oil Bulk,1399.58
+2010-04,General Cargo,Containerised,24246.56
+2010-04,General Cargo,Conventional,1930.01
+2010-04,Bulk Cargo,Oil,15869.85
+2010-04,Bulk Cargo,Non-Oil Bulk,998.74
+2010-05,General Cargo,Containerised,25234.52
+2010-05,General Cargo,Conventional,1956.35
+2010-05,Bulk Cargo,Oil,13084.09
+2010-05,Bulk Cargo,Non-Oil Bulk,913.48
+2010-06,General Cargo,Containerised,24520.79
+2010-06,General Cargo,Conventional,2041.75
+2010-06,Bulk Cargo,Oil,14640.69
+2010-06,Bulk Cargo,Non-Oil Bulk,1361.31
+2010-07,General Cargo,Containerised,25601.5
+2010-07,General Cargo,Conventional,2216.58
+2010-07,Bulk Cargo,Oil,14213.07
+2010-07,Bulk Cargo,Non-Oil Bulk,1004.15
+2010-08,General Cargo,Containerised,24466.03
+2010-08,General Cargo,Conventional,2191.26
+2010-08,Bulk Cargo,Oil,14834.12
+2010-08,Bulk Cargo,Non-Oil Bulk,1166.37
+2010-09,General Cargo,Containerised,22265.43
+2010-09,General Cargo,Conventional,1858.12
+2010-09,Bulk Cargo,Oil,14112.48
+2010-09,Bulk Cargo,Non-Oil Bulk,811.94
+2010-10,General Cargo,Containerised,24082.24
+2010-10,General Cargo,Conventional,2202.12
+2010-10,Bulk Cargo,Oil,14359.87
+2010-10,Bulk Cargo,Non-Oil Bulk,1099.22
+2010-11,General Cargo,Containerised,24476.78
+2010-11,General Cargo,Conventional,1889.71
+2010-11,Bulk Cargo,Oil,14836.7
+2010-11,Bulk Cargo,Non-Oil Bulk,915.95
+2010-12,General Cargo,Containerised,24070.54
+2010-12,General Cargo,Conventional,2264.83
+2010-12,Bulk Cargo,Oil,16326.86
+2010-12,Bulk Cargo,Non-Oil Bulk,1093.51
+2011-01,General Cargo,Containerised,24754.06
+2011-01,General Cargo,Conventional,2691.63
+2011-01,Bulk Cargo,Oil,14722.14
+2011-01,Bulk Cargo,Non-Oil Bulk,1072.96
+2011-02,General Cargo,Containerised,21770.1
+2011-02,General Cargo,Conventional,1874.58
+2011-02,Bulk Cargo,Oil,14230.47
+2011-02,Bulk Cargo,Non-Oil Bulk,1238.69
+2011-03,General Cargo,Containerised,26661.69
+2011-03,General Cargo,Conventional,2072.54
+2011-03,Bulk Cargo,Oil,15057.18
+2011-03,Bulk Cargo,Non-Oil Bulk,1157.5
+2011-04,General Cargo,Containerised,25757.61
+2011-04,General Cargo,Conventional,2177.8
+2011-04,Bulk Cargo,Oil,20703.34
+2011-04,Bulk Cargo,Non-Oil Bulk,946.27
+2011-05,General Cargo,Containerised,26741.56
+2011-05,General Cargo,Conventional,1832.74
+2011-05,Bulk Cargo,Oil,15231.8
+2011-05,Bulk Cargo,Non-Oil Bulk,1169.02
+2011-06,General Cargo,Containerised,25944.46
+2011-06,General Cargo,Conventional,2457.21
+2011-06,Bulk Cargo,Oil,16319.7
+2011-06,Bulk Cargo,Non-Oil Bulk,943.75
+2011-07,General Cargo,Containerised,27022.83
+2011-07,General Cargo,Conventional,2343.93
+2011-07,Bulk Cargo,Oil,15011.46
+2011-07,Bulk Cargo,Non-Oil Bulk,960.22
+2011-08,General Cargo,Containerised,26686.96
+2011-08,General Cargo,Conventional,2287.9
+2011-08,Bulk Cargo,Oil,16475.9
+2011-08,Bulk Cargo,Non-Oil Bulk,829.2
+2011-09,General Cargo,Containerised,24585.61
+2011-09,General Cargo,Conventional,2042.76
+2011-09,Bulk Cargo,Oil,14644.04
+2011-09,Bulk Cargo,Non-Oil Bulk,1036.16
+2011-10,General Cargo,Containerised,27078.58
+2011-10,General Cargo,Conventional,2310.88
+2011-10,Bulk Cargo,Oil,13921.92
+2011-10,Bulk Cargo,Non-Oil Bulk,843.84
+2011-11,General Cargo,Containerised,25429.91
+2011-11,General Cargo,Conventional,2015.59
+2011-11,Bulk Cargo,Oil,14832.22
+2011-11,Bulk Cargo,Non-Oil Bulk,760.81
+2011-12,General Cargo,Containerised,26946.52
+2011-12,General Cargo,Conventional,2023.07
+2011-12,Bulk Cargo,Oil,12693.14
+2011-12,Bulk Cargo,Non-Oil Bulk,863.33
+2012-01,General Cargo,Containerised,25598.09
+2012-01,General Cargo,Conventional,2148.93
+2012-01,Bulk Cargo,Oil,15342.72
+2012-01,Bulk Cargo,Non-Oil Bulk,1765.94
+2012-02,General Cargo,Containerised,24522.92
+2012-02,General Cargo,Conventional,2308.37
+2012-02,Bulk Cargo,Oil,13246.76
+2012-02,Bulk Cargo,Non-Oil Bulk,885.39
+2012-03,General Cargo,Containerised,27759.38
+2012-03,General Cargo,Conventional,2677.46
+2012-03,Bulk Cargo,Oil,15362.3
+2012-03,Bulk Cargo,Non-Oil Bulk,2824.59
+2012-04,General Cargo,Containerised,27274.9
+2012-04,General Cargo,Conventional,2637.16
+2012-04,Bulk Cargo,Oil,13380.21
+2012-04,Bulk Cargo,Non-Oil Bulk,926.93
+2012-05,General Cargo,Containerised,28678.98
+2012-05,General Cargo,Conventional,2188.16
+2012-05,Bulk Cargo,Oil,14856.52
+2012-05,Bulk Cargo,Non-Oil Bulk,1010.87
+2012-06,General Cargo,Containerised,28020.64
+2012-06,General Cargo,Conventional,2802.96
+2012-06,Bulk Cargo,Oil,14496.41
+2012-06,Bulk Cargo,Non-Oil Bulk,923.65
+2012-07,General Cargo,Containerised,27660.62
+2012-07,General Cargo,Conventional,2476.05
+2012-07,Bulk Cargo,Oil,12449.93
+2012-07,Bulk Cargo,Non-Oil Bulk,1234.42
+2012-08,General Cargo,Containerised,26486.03
+2012-08,General Cargo,Conventional,2475.31
+2012-08,Bulk Cargo,Oil,14249.99
+2012-08,Bulk Cargo,Non-Oil Bulk,1080.41
+2012-09,General Cargo,Containerised,26808.83
+2012-09,General Cargo,Conventional,2827.61
+2012-09,Bulk Cargo,Oil,14054.46
+2012-09,Bulk Cargo,Non-Oil Bulk,1101.71
+2012-10,General Cargo,Containerised,27255.03
+2012-10,General Cargo,Conventional,2502.07
+2012-10,Bulk Cargo,Oil,14108.16
+2012-10,Bulk Cargo,Non-Oil Bulk,1128.13
+2012-11,General Cargo,Containerised,26902.32
+2012-11,General Cargo,Conventional,2316.92
+2012-11,Bulk Cargo,Oil,14772.73
+2012-11,Bulk Cargo,Non-Oil Bulk,972.06
+2012-12,General Cargo,Containerised,26746.3
+2012-12,General Cargo,Conventional,2466.62
+2012-12,Bulk Cargo,Oil,13351.28
+2012-12,Bulk Cargo,Non-Oil Bulk,944.88
+2013-01,General Cargo,Containerised,24847.02
+2013-01,General Cargo,Conventional,2256.65
+2013-01,Bulk Cargo,Oil,15300.76
+2013-01,Bulk Cargo,Non-Oil Bulk,1004.11
+2013-02,General Cargo,Containerised,22299.36
+2013-02,General Cargo,Conventional,2556.02
+2013-02,Bulk Cargo,Oil,12528.11
+2013-02,Bulk Cargo,Non-Oil Bulk,928.55
+2013-03,General Cargo,Containerised,28291.48
+2013-03,General Cargo,Conventional,2498.06
+2013-03,Bulk Cargo,Oil,11787.92
+2013-03,Bulk Cargo,Non-Oil Bulk,1202.43
+2013-04,General Cargo,Containerised,27413.98
+2013-04,General Cargo,Conventional,2939.79
+2013-04,Bulk Cargo,Oil,14797.87
+2013-04,Bulk Cargo,Non-Oil Bulk,1275.31
+2013-05,General Cargo,Containerised,29660.6
+2013-05,General Cargo,Conventional,3013.44
+2013-05,Bulk Cargo,Oil,17035.31
+2013-05,Bulk Cargo,Non-Oil Bulk,1290.57
+2013-06,General Cargo,Containerised,28265.7
+2013-06,General Cargo,Conventional,2692.6
+2013-06,Bulk Cargo,Oil,14801.6
+2013-06,Bulk Cargo,Non-Oil Bulk,1186.28
+2013-07,General Cargo,Containerised,30268.7
+2013-07,General Cargo,Conventional,2910.28
+2013-07,Bulk Cargo,Oil,15128.87
+2013-07,Bulk Cargo,Non-Oil Bulk,1392.73
+2013-08,General Cargo,Containerised,28764.48
+2013-08,General Cargo,Conventional,2629.55
+2013-08,Bulk Cargo,Oil,15937.59
+2013-08,Bulk Cargo,Non-Oil Bulk,1433.69
+2013-09,General Cargo,Containerised,27822.1
+2013-09,General Cargo,Conventional,2636.68
+2013-09,Bulk Cargo,Oil,14489.99
+2013-09,Bulk Cargo,Non-Oil Bulk,1349.53
+2013-10,General Cargo,Containerised,28607.57
+2013-10,General Cargo,Conventional,2881.17
+2013-10,Bulk Cargo,Oil,17295.95
+2013-10,Bulk Cargo,Non-Oil Bulk,1483.83
+2013-11,General Cargo,Containerised,27840.48
+2013-11,General Cargo,Conventional,2593.74
+2013-11,Bulk Cargo,Oil,16480.39
+2013-11,Bulk Cargo,Non-Oil Bulk,1001.71
+2013-12,General Cargo,Containerised,28967.48
+2013-12,General Cargo,Conventional,2459.32
+2013-12,Bulk Cargo,Oil,14865.12
+2013-12,Bulk Cargo,Non-Oil Bulk,1773.3
+2014-01,General Cargo,Containerised,27827.43
+2014-01,General Cargo,Conventional,2281.66
+2014-01,Bulk Cargo,Oil,15920.08
+2014-01,Bulk Cargo,Non-Oil Bulk,1382.21
+2014-02,General Cargo,Containerised,24887.51
+2014-02,General Cargo,Conventional,2024.66
+2014-02,Bulk Cargo,Oil,14879.17
+2014-02,Bulk Cargo,Non-Oil Bulk,1127.74
+2014-03,General Cargo,Containerised,30336.82
+2014-03,General Cargo,Conventional,2804.22
+2014-03,Bulk Cargo,Oil,16884.5
+2014-03,Bulk Cargo,Non-Oil Bulk,1424.91
+2014-04,General Cargo,Containerised,29650.52
+2014-04,General Cargo,Conventional,2602.27
+2014-04,Bulk Cargo,Oil,15920.64
+2014-04,Bulk Cargo,Non-Oil Bulk,1259.3
+2014-05,General Cargo,Containerised,30712.38
+2014-05,General Cargo,Conventional,2239.88
+2014-05,Bulk Cargo,Oil,16295.63
+2014-05,Bulk Cargo,Non-Oil Bulk,1286.41
+2014-06,General Cargo,Containerised,29515.53
+2014-06,General Cargo,Conventional,2514.28
+2014-06,Bulk Cargo,Oil,14890.88
+2014-06,Bulk Cargo,Non-Oil Bulk,1228.65
+2014-07,General Cargo,Containerised,30621.71
+2014-07,General Cargo,Conventional,2875.96
+2014-07,Bulk Cargo,Oil,12766.21
+2014-07,Bulk Cargo,Non-Oil Bulk,1065.15
+2014-08,General Cargo,Containerised,29677.98
+2014-08,General Cargo,Conventional,2686.11
+2014-08,Bulk Cargo,Oil,16061.12
+2014-08,Bulk Cargo,Non-Oil Bulk,1290.98
+2014-09,General Cargo,Containerised,30044.82
+2014-09,General Cargo,Conventional,2539.4
+2014-09,Bulk Cargo,Oil,15389.47
+2014-09,Bulk Cargo,Non-Oil Bulk,1307.44
+2014-10,General Cargo,Containerised,30276.75
+2014-10,General Cargo,Conventional,2716.2
+2014-10,Bulk Cargo,Oil,14674
+2014-10,Bulk Cargo,Non-Oil Bulk,1225.92
+2014-11,General Cargo,Containerised,29421.13
+2014-11,General Cargo,Conventional,2882.59
+2014-11,Bulk Cargo,Oil,12259.61
+2014-11,Bulk Cargo,Non-Oil Bulk,1110.62
+2014-12,General Cargo,Containerised,30566.11
+2014-12,General Cargo,Conventional,2712.44
+2014-12,Bulk Cargo,Oil,15738.05
+2014-12,Bulk Cargo,Non-Oil Bulk,1461
+2015-01,General Cargo,Containerised,29111.2
+2015-01,General Cargo,Conventional,2492.24
+2015-01,Bulk Cargo,Oil,16525.51
+2015-01,Bulk Cargo,Non-Oil Bulk,1752.14
+2015-02,General Cargo,Containerised,26645.51
+2015-02,General Cargo,Conventional,2399.56
+2015-02,Bulk Cargo,Oil,15592.63
+2015-02,Bulk Cargo,Non-Oil Bulk,1383.65
+2015-03,General Cargo,Containerised,29135.91
+2015-03,General Cargo,Conventional,2892.1
+2015-03,Bulk Cargo,Oil,15963.72
+2015-03,Bulk Cargo,Non-Oil Bulk,1881.63
+2015-04,General Cargo,Containerised,28704.64
+2015-04,General Cargo,Conventional,2506.59
+2015-04,Bulk Cargo,Oil,16505.43
+2015-04,Bulk Cargo,Non-Oil Bulk,1401.26
+2015-05,General Cargo,Containerised,28604.49
+2015-05,General Cargo,Conventional,2523.97
+2015-05,Bulk Cargo,Oil,15776.67
+2015-05,Bulk Cargo,Non-Oil Bulk,1628.65
+2015-06,General Cargo,Containerised,28092.39
+2015-06,General Cargo,Conventional,2381.78
+2015-06,Bulk Cargo,Oil,16331.48
+2015-06,Bulk Cargo,Non-Oil Bulk,1442.61
+2015-07,General Cargo,Containerised,27589.47
+2015-07,General Cargo,Conventional,2459.65
+2015-07,Bulk Cargo,Oil,18531.74
+2015-07,Bulk Cargo,Non-Oil Bulk,1391.62
+2015-08,General Cargo,Containerised,27372.41
+2015-08,General Cargo,Conventional,2788.72
+2015-08,Bulk Cargo,Oil,17203.66
+2015-08,Bulk Cargo,Non-Oil Bulk,1678.09
+2015-09,General Cargo,Containerised,25982.72
+2015-09,General Cargo,Conventional,2640.81
+2015-09,Bulk Cargo,Oil,16532.69
+2015-09,Bulk Cargo,Non-Oil Bulk,1318.06
+2015-10,General Cargo,Containerised,26704.31
+2015-10,General Cargo,Conventional,2784.98
+2015-10,Bulk Cargo,Oil,16104.44
+2015-10,Bulk Cargo,Non-Oil Bulk,1638.9
+2015-11,General Cargo,Containerised,26109.07
+2015-11,General Cargo,Conventional,2167.2
+2015-11,Bulk Cargo,Oil,15722.34
+2015-11,Bulk Cargo,Non-Oil Bulk,1172.66
+2015-12,General Cargo,Containerised,27687.55
+2015-12,General Cargo,Conventional,2081.22
+2015-12,Bulk Cargo,Oil,15046.58
+2015-12,Bulk Cargo,Non-Oil Bulk,1461.12
+2016-01,General Cargo,Containerised,26917.85
+2016-01,General Cargo,Conventional,2161.63
+2016-01,Bulk Cargo,Oil,15375.19
+2016-01,Bulk Cargo,Non-Oil Bulk,1463.37
+2016-02,General Cargo,Containerised,25783.07
+2016-02,General Cargo,Conventional,2001.23
+2016-02,Bulk Cargo,Oil,17662.36
+2016-02,Bulk Cargo,Non-Oil Bulk,1272.07
+2016-03,General Cargo,Containerised,27534.8
+2016-03,General Cargo,Conventional,2374.32
+2016-03,Bulk Cargo,Oil,18002.42
+2016-03,Bulk Cargo,Non-Oil Bulk,1583.14
+2016-04,General Cargo,Containerised,27114.16
+2016-04,General Cargo,Conventional,2364.27
+2016-04,Bulk Cargo,Oil,20542.66
+2016-04,Bulk Cargo,Non-Oil Bulk,1279.84
+2016-05,General Cargo,Containerised,28397.78
+2016-05,General Cargo,Conventional,2230.37
+2016-05,Bulk Cargo,Oil,20736.65
+2016-05,Bulk Cargo,Non-Oil Bulk,1362.78
+2016-06,General Cargo,Containerised,27674.19
+2016-06,General Cargo,Conventional,2096.9
+2016-06,Bulk Cargo,Oil,17876.45
+2016-06,Bulk Cargo,Non-Oil Bulk,1371.75
+2016-07,General Cargo,Containerised,26832.93
+2016-07,General Cargo,Conventional,2031.27
+2016-07,Bulk Cargo,Oil,18009.29
+2016-07,Bulk Cargo,Non-Oil Bulk,1236.79
+2016-08,General Cargo,Containerised,28225.42
+2016-08,General Cargo,Conventional,1968.94
+2016-08,Bulk Cargo,Oil,17030.62
+2016-08,Bulk Cargo,Non-Oil Bulk,2400.15
+2016-09,General Cargo,Containerised,27304.58
+2016-09,General Cargo,Conventional,1921.85
+2016-09,Bulk Cargo,Oil,17017.88
+2016-09,Bulk Cargo,Non-Oil Bulk,1631.49
+2016-10,General Cargo,Containerised,26609.5
+2016-10,General Cargo,Conventional,1996.55
+2016-10,Bulk Cargo,Oil,19625.89
+2016-10,Bulk Cargo,Non-Oil Bulk,1537.24
+2016-11,General Cargo,Containerised,27050.82
+2016-11,General Cargo,Conventional,2153.67
+2016-11,Bulk Cargo,Oil,19452.89
+2016-11,Bulk Cargo,Non-Oil Bulk,1444.05
+2016-12,General Cargo,Containerised,28750.54
+2016-12,General Cargo,Conventional,1746.75
+2016-12,Bulk Cargo,Oil,20081.1
+2016-12,Bulk Cargo,Non-Oil Bulk,2057.22
+2017-01,General Cargo,Containerised,27103.57
+2017-01,General Cargo,Conventional,1728.61
+2017-01,Bulk Cargo,Oil,20633.15
+2017-01,Bulk Cargo,Non-Oil Bulk,1579.43
+2017-02,General Cargo,Containerised,25109.7
+2017-02,General Cargo,Conventional,2076.62
+2017-02,Bulk Cargo,Oil,19853.76
+2017-02,Bulk Cargo,Non-Oil Bulk,1330.01
+2017-03,General Cargo,Containerised,29294.04
+2017-03,General Cargo,Conventional,2582.75
+2017-03,Bulk Cargo,Oil,19702.92
+2017-03,Bulk Cargo,Non-Oil Bulk,1488.54
+2017-04,General Cargo,Containerised,28739.63
+2017-04,General Cargo,Conventional,3874.56
+2017-04,Bulk Cargo,Oil,18617.63
+2017-04,Bulk Cargo,Non-Oil Bulk,1705.14
+2017-05,General Cargo,Containerised,31401.77
+2017-05,General Cargo,Conventional,2053.17
+2017-05,Bulk Cargo,Oil,18882.13
+2017-05,Bulk Cargo,Non-Oil Bulk,1583.05
+2017-06,General Cargo,Containerised,29587.22
+2017-06,General Cargo,Conventional,1838.68
+2017-06,Bulk Cargo,Oil,17891.93
+2017-06,Bulk Cargo,Non-Oil Bulk,1661.62
+2017-07,General Cargo,Containerised,29786.44
+2017-07,General Cargo,Conventional,1914.07
+2017-07,Bulk Cargo,Oil,16874.01
+2017-07,Bulk Cargo,Non-Oil Bulk,1541.02
+2017-08,General Cargo,Containerised,29834.35
+2017-08,General Cargo,Conventional,2599.22
+2017-08,Bulk Cargo,Oil,18932.9
+2017-08,Bulk Cargo,Non-Oil Bulk,1597.02
+2017-09,General Cargo,Containerised,28774.63
+2017-09,General Cargo,Conventional,2228.34
+2017-09,Bulk Cargo,Oil,20589.84
+2017-09,Bulk Cargo,Non-Oil Bulk,1240.36
+2017-10,General Cargo,Containerised,29161.78
+2017-10,General Cargo,Conventional,2108.43
+2017-10,Bulk Cargo,Oil,21178.8
+2017-10,Bulk Cargo,Non-Oil Bulk,1428.09
+2017-11,General Cargo,Containerised,29941.74
+2017-11,General Cargo,Conventional,1977.72
+2017-11,Bulk Cargo,Oil,19673.52
+2017-11,Bulk Cargo,Non-Oil Bulk,1527.25
+2017-12,General Cargo,Containerised,30366.54
+2017-12,General Cargo,Conventional,1962.15
+2017-12,Bulk Cargo,Oil,20208.16
+2017-12,Bulk Cargo,Non-Oil Bulk,1922.06
+2018-01,General Cargo,Containerised,30207.82
+2018-01,General Cargo,Conventional,1876.64
+2018-01,Bulk Cargo,Oil,19668.19
+2018-01,Bulk Cargo,Non-Oil Bulk,1433.9
+2018-02,General Cargo,Containerised,27967.37
+2018-02,General Cargo,Conventional,1667.93
+2018-02,Bulk Cargo,Oil,17962.27
+2018-02,Bulk Cargo,Non-Oil Bulk,1386.51
+2018-03,General Cargo,Containerised,31635.4
+2018-03,General Cargo,Conventional,2536.94
+2018-03,Bulk Cargo,Oil,18204.09
+2018-03,Bulk Cargo,Non-Oil Bulk,1400.15
+2018-04,General Cargo,Containerised,29994.29
+2018-04,General Cargo,Conventional,2140.17
+2018-04,Bulk Cargo,Oil,18366.06
+2018-04,Bulk Cargo,Non-Oil Bulk,1469.41
+2018-05,General Cargo,Containerised,32383.47
+2018-05,General Cargo,Conventional,1961.85
+2018-05,Bulk Cargo,Oil,17643.3
+2018-05,Bulk Cargo,Non-Oil Bulk,1383.48
+2018-06,General Cargo,Containerised,30841.84
+2018-06,General Cargo,Conventional,2049.9
+2018-06,Bulk Cargo,Oil,17565.49
+2018-06,Bulk Cargo,Non-Oil Bulk,1310.85
+2018-07,General Cargo,Containerised,31526.16
+2018-07,General Cargo,Conventional,2319.89
+2018-07,Bulk Cargo,Oil,16746.54
+2018-07,Bulk Cargo,Non-Oil Bulk,1676.19
+2018-08,General Cargo,Containerised,31528.41
+2018-08,General Cargo,Conventional,1745.05
+2018-08,Bulk Cargo,Oil,20093.68
+2018-08,Bulk Cargo,Non-Oil Bulk,1471.08
+2018-09,General Cargo,Containerised,29678.75
+2018-09,General Cargo,Conventional,2001.12
+2018-09,Bulk Cargo,Oil,17270.54
+2018-09,Bulk Cargo,Non-Oil Bulk,1399.4
+2018-10,General Cargo,Containerised,30563.39
+2018-10,General Cargo,Conventional,1930.14
+2018-10,Bulk Cargo,Oil,19777.4
+2018-10,Bulk Cargo,Non-Oil Bulk,1276.11
+2018-11,General Cargo,Containerised,29934.15
+2018-11,General Cargo,Conventional,1950.5
+2018-11,Bulk Cargo,Oil,18719.8
+2018-11,Bulk Cargo,Non-Oil Bulk,1180.82
+2018-12,General Cargo,Containerised,31160.83
+2018-12,General Cargo,Conventional,2143.2
+2018-12,Bulk Cargo,Oil,19508.08
+2018-12,Bulk Cargo,Non-Oil Bulk,1466.72
+2019-01,General Cargo,Containerised,29217.36
+2019-01,General Cargo,Conventional,2114.05
+2019-01,Bulk Cargo,Oil,19047.53
+2019-01,Bulk Cargo,Non-Oil Bulk,1551.08
+2019-02,General Cargo,Containerised,26627.71
+2019-02,General Cargo,Conventional,1872.52
+2019-02,Bulk Cargo,Oil,18280.13
+2019-02,Bulk Cargo,Non-Oil Bulk,1181.77
+2019-03,General Cargo,Containerised,32068.57
+2019-03,General Cargo,Conventional,2238.18
+2019-03,Bulk Cargo,Oil,16108.42
+2019-03,Bulk Cargo,Non-Oil Bulk,1604.52
+2019-04,General Cargo,Containerised,30346.44
+2019-04,General Cargo,Conventional,1883.21
+2019-04,Bulk Cargo,Oil,20831.09
+2019-04,Bulk Cargo,Non-Oil Bulk,1268.37
+2019-05,General Cargo,Containerised,30960.58
+2019-05,General Cargo,Conventional,1919.57
+2019-05,Bulk Cargo,Oil,21614.19
+2019-05,Bulk Cargo,Non-Oil Bulk,1354.19
+2019-06,General Cargo,Containerised,29452
+2019-06,General Cargo,Conventional,1826.46
+2019-06,Bulk Cargo,Oil,20479.97
+2019-06,Bulk Cargo,Non-Oil Bulk,1582.59
+2019-07,General Cargo,Containerised,31765.52
+2019-07,General Cargo,Conventional,2123.9
+2019-07,Bulk Cargo,Oil,16825.09
+2019-07,Bulk Cargo,Non-Oil Bulk,1410.09
+2019-08,General Cargo,Containerised,30887.05
+2019-08,General Cargo,Conventional,2057.46
+2019-08,Bulk Cargo,Oil,16506.65
+2019-08,Bulk Cargo,Non-Oil Bulk,1615.24
+2019-09,General Cargo,Containerised,29759.55
+2019-09,General Cargo,Conventional,1988.72
+2019-09,Bulk Cargo,Oil,16538.51
+2019-09,Bulk Cargo,Non-Oil Bulk,1498.4
+2019-10,General Cargo,Containerised,30886.49
+2019-10,General Cargo,Conventional,2085.83
+2019-10,Bulk Cargo,Oil,18094.83
+2019-10,Bulk Cargo,Non-Oil Bulk,1490.56
+2019-11,General Cargo,Containerised,31769.84
+2019-11,General Cargo,Conventional,2058.36
+2019-11,Bulk Cargo,Oil,17012.26
+2019-11,Bulk Cargo,Non-Oil Bulk,1538.34
+2019-12,General Cargo,Containerised,31493.01
+2019-12,General Cargo,Conventional,2033.25
+2019-12,Bulk Cargo,Oil,18106.03
+2019-12,Bulk Cargo,Non-Oil Bulk,1545.65
+2020-01,General Cargo,Containerised,30136.6
+2020-01,General Cargo,Conventional,2016.32
+2020-01,Bulk Cargo,Oil,17243.56
+2020-01,Bulk Cargo,Non-Oil Bulk,1648.25
+2020-02,General Cargo,Containerised,27859.03
+2020-02,General Cargo,Conventional,1989.16
+2020-02,Bulk Cargo,Oil,16285.84
+2020-02,Bulk Cargo,Non-Oil Bulk,1627.05
+2020-03,General Cargo,Containerised,32539.88
+2020-03,General Cargo,Conventional,2036.84
+2020-03,Bulk Cargo,Oil,17106.95
+2020-03,Bulk Cargo,Non-Oil Bulk,1660.82
+2020-04,General Cargo,Containerised,28695.09
+2020-04,General Cargo,Conventional,1645.21
+2020-04,Bulk Cargo,Oil,15589.3
+2020-04,Bulk Cargo,Non-Oil Bulk,1681.45
+2020-05,General Cargo,Containerised,26698.69
+2020-05,General Cargo,Conventional,1039.23
+2020-05,Bulk Cargo,Oil,15504.24
+2020-05,Bulk Cargo,Non-Oil Bulk,1378.38
+2020-06,General Cargo,Containerised,28064.75
+2020-06,General Cargo,Conventional,1196.51
+2020-06,Bulk Cargo,Oil,17321.46
+2020-06,Bulk Cargo,Non-Oil Bulk,1580.98
+2020-07,General Cargo,Containerised,29065.25
+2020-07,General Cargo,Conventional,1327.99
+2020-07,Bulk Cargo,Oil,16994.06
+2020-07,Bulk Cargo,Non-Oil Bulk,1364.84
+2020-08,General Cargo,Containerised,30798.69
+2020-08,General Cargo,Conventional,1366.84
+2020-08,Bulk Cargo,Oil,16410.31
+2020-08,Bulk Cargo,Non-Oil Bulk,1872.27
+2020-09,General Cargo,Containerised,30539.46
+2020-09,General Cargo,Conventional,1191.87
+2020-09,Bulk Cargo,Oil,15845.5
+2020-09,Bulk Cargo,Non-Oil Bulk,1620.42
+2020-10,General Cargo,Containerised,31231.84
+2020-10,General Cargo,Conventional,1438.93
+2020-10,Bulk Cargo,Oil,15303.76
+2020-10,Bulk Cargo,Non-Oil Bulk,2084.01
+2020-11,General Cargo,Containerised,30811.8
+2020-11,General Cargo,Conventional,1384.01
+2020-11,Bulk Cargo,Oil,16039.44
+2020-11,Bulk Cargo,Non-Oil Bulk,1524.87
+2020-12,General Cargo,Containerised,31537.67
+2020-12,General Cargo,Conventional,1758.63
+2020-12,Bulk Cargo,Oil,14684.22
+2020-12,Bulk Cargo,Non-Oil Bulk,1995.98
+2021-01,General Cargo,Containerised,30694.23
+2021-01,General Cargo,Conventional,1719.06
+2021-01,Bulk Cargo,Oil,16391.85
+2021-01,Bulk Cargo,Non-Oil Bulk,2236.85
+2021-02,General Cargo,Containerised,28390.06
+2021-02,General Cargo,Conventional,1827.23
+2021-02,Bulk Cargo,Oil,14980.81
+2021-02,Bulk Cargo,Non-Oil Bulk,2247.14
+2021-03,General Cargo,Containerised,31877.25
+2021-03,General Cargo,Conventional,1848.07
+2021-03,Bulk Cargo,Oil,17101.74
+2021-03,Bulk Cargo,Non-Oil Bulk,1856.3
+2021-04,General Cargo,Containerised,29780.72
+2021-04,General Cargo,Conventional,2155.72
+2021-04,Bulk Cargo,Oil,16361.1
+2021-04,Bulk Cargo,Non-Oil Bulk,1963.77
+2021-05,General Cargo,Containerised,31291.9
+2021-05,General Cargo,Conventional,1983.06
+2021-05,Bulk Cargo,Oil,15937.16
+2021-05,Bulk Cargo,Non-Oil Bulk,2172.97
+2021-06,General Cargo,Containerised,30081.21
+2021-06,General Cargo,Conventional,1717.26
+2021-06,Bulk Cargo,Oil,15284.91
+2021-06,Bulk Cargo,Non-Oil Bulk,1685.39
+2021-07,General Cargo,Containerised,30469.62
+2021-07,General Cargo,Conventional,1887.48
+2021-07,Bulk Cargo,Oil,16091.3
+2021-07,Bulk Cargo,Non-Oil Bulk,1998.5
+2021-08,General Cargo,Containerised,30394.51
+2021-08,General Cargo,Conventional,1674.8
+2021-08,Bulk Cargo,Oil,15965.43
+2021-08,Bulk Cargo,Non-Oil Bulk,1738.62
+2021-09,General Cargo,Containerised,29367.17
+2021-09,General Cargo,Conventional,1529.14
+2021-09,Bulk Cargo,Oil,15619.39
+2021-09,Bulk Cargo,Non-Oil Bulk,1747.83
+2021-10,General Cargo,Containerised,29357.44
+2021-10,General Cargo,Conventional,1614.36
+2021-10,Bulk Cargo,Oil,16409.5
+2021-10,Bulk Cargo,Non-Oil Bulk,1383.07
+2021-11,General Cargo,Containerised,30571.82
+2021-11,General Cargo,Conventional,1764.39
+2021-11,Bulk Cargo,Oil,17777.1
+2021-11,Bulk Cargo,Non-Oil Bulk,2012.98
+2021-12,General Cargo,Containerised,31475.82
+2021-12,General Cargo,Conventional,1844.83
+2021-12,Bulk Cargo,Oil,13684.44
+2021-12,Bulk Cargo,Non-Oil Bulk,1677.4
+2022-01,General Cargo,Containerised,30480.08
+2022-01,General Cargo,Conventional,1821.9
+2022-01,Bulk Cargo,Oil,18046.82
+2022-01,Bulk Cargo,Non-Oil Bulk,1747.2
+2022-02,General Cargo,Containerised,27540.13
+2022-02,General Cargo,Conventional,1971.47
+2022-02,Bulk Cargo,Oil,14215.03
+2022-02,Bulk Cargo,Non-Oil Bulk,1478.34
+2022-03,General Cargo,Containerised,29776.52
+2022-03,General Cargo,Conventional,1961.88
+2022-03,Bulk Cargo,Oil,15133.1
+2022-03,Bulk Cargo,Non-Oil Bulk,1788.61
+2022-04,General Cargo,Containerised,28852.83
+2022-04,General Cargo,Conventional,1867.37
+2022-04,Bulk Cargo,Oil,14994.1
+2022-04,Bulk Cargo,Non-Oil Bulk,1417.84
+2022-05,General Cargo,Containerised,28702.4
+2022-05,General Cargo,Conventional,2079.36
+2022-05,Bulk Cargo,Oil,14760.1
+2022-05,Bulk Cargo,Non-Oil Bulk,1741.23
+2022-06,General Cargo,Containerised,28967.27
+2022-06,General Cargo,Conventional,1952.13
+2022-06,Bulk Cargo,Oil,15933.28
+2022-06,Bulk Cargo,Non-Oil Bulk,1426.06
+2022-07,General Cargo,Containerised,30225.85
+2022-07,General Cargo,Conventional,2279
+2022-07,Bulk Cargo,Oil,16522.52
+2022-07,Bulk Cargo,Non-Oil Bulk,1899.96
+2022-08,General Cargo,Containerised,28890.83
+2022-08,General Cargo,Conventional,2234.76
+2022-08,Bulk Cargo,Oil,16550.61
+2022-08,Bulk Cargo,Non-Oil Bulk,1524.32
+2022-09,General Cargo,Containerised,26667.15
+2022-09,General Cargo,Conventional,2208.72
+2022-09,Bulk Cargo,Oil,15915.8
+2022-09,Bulk Cargo,Non-Oil Bulk,1807.57
+2022-10,General Cargo,Containerised,26924.19
+2022-10,General Cargo,Conventional,2413.99
+2022-10,Bulk Cargo,Oil,15917.49
+2022-10,Bulk Cargo,Non-Oil Bulk,1799.07
+2022-11,General Cargo,Containerised,26980.18
+2022-11,General Cargo,Conventional,2091.68
+2022-11,Bulk Cargo,Oil,16122.94
+2022-11,Bulk Cargo,Non-Oil Bulk,1532.01
+2022-12,General Cargo,Containerised,28051.04
+2022-12,General Cargo,Conventional,2164.1
+2022-12,Bulk Cargo,Oil,16244.2
+2022-12,Bulk Cargo,Non-Oil Bulk,2597.69
+2023-01,General Cargo,Containerised,26912.6
+2023-01,General Cargo,Conventional,2279.76
+2023-01,Bulk Cargo,Oil,16384.55
+2023-01,Bulk Cargo,Non-Oil Bulk,2235.49
+2023-02,General Cargo,Containerised,25153.12
+2023-02,General Cargo,Conventional,1966.01
+2023-02,Bulk Cargo,Oil,17008.42
+2023-02,Bulk Cargo,Non-Oil Bulk,1465.36
+2023-03,General Cargo,Containerised,30723.03
+2023-03,General Cargo,Conventional,2408.86
+2023-03,Bulk Cargo,Oil,15358.68
+2023-03,Bulk Cargo,Non-Oil Bulk,2032.28
+2023-04,General Cargo,Containerised,29702.26
+2023-04,General Cargo,Conventional,2416.82
+2023-04,Bulk Cargo,Oil,15821.44
+2023-04,Bulk Cargo,Non-Oil Bulk,1581.31
+2023-05,General Cargo,Containerised,29928.63
+2023-05,General Cargo,Conventional,2119.65
+2023-05,Bulk Cargo,Oil,14205.23
+2023-05,Bulk Cargo,Non-Oil Bulk,1932.09
+2023-06,General Cargo,Containerised,29050.06
+2023-06,General Cargo,Conventional,2064.65
+2023-06,Bulk Cargo,Oil,16406.6
+2023-06,Bulk Cargo,Non-Oil Bulk,1893.22
+2023-07,General Cargo,Containerised,30836.68
+2023-07,General Cargo,Conventional,2154.95
+2023-07,Bulk Cargo,Oil,16861.7
+2023-07,Bulk Cargo,Non-Oil Bulk,1703.01
+2023-08,General Cargo,Containerised,29936.23
+2023-08,General Cargo,Conventional,2223.4
+2023-08,Bulk Cargo,Oil,16366.02
+2023-08,Bulk Cargo,Non-Oil Bulk,1539.29
+2023-09,General Cargo,Containerised,29188.5
+2023-09,General Cargo,Conventional,2009.24
+2023-09,Bulk Cargo,Oil,14797.21
+2023-09,Bulk Cargo,Non-Oil Bulk,1810.8
+2023-10,General Cargo,Containerised,29177.91
+2023-10,General Cargo,Conventional,2040.53
+2023-10,Bulk Cargo,Oil,17420.35
+2023-10,Bulk Cargo,Non-Oil Bulk,2051.24
+2023-11,General Cargo,Containerised,30180.1
+2023-11,General Cargo,Conventional,2210.74
+2023-11,Bulk Cargo,Oil,15754.55
+2023-11,Bulk Cargo,Non-Oil Bulk,2154.98
+2023-12,General Cargo,Containerised,30648.97
+2023-12,General Cargo,Conventional,2123.94
+2023-12,Bulk Cargo,Oil,15605.78
+2023-12,Bulk Cargo,Non-Oil Bulk,2162.71
+2024-01,General Cargo,Containerised,29191.57
+2024-01,General Cargo,Conventional,1896.11
+2024-01,Bulk Cargo,Oil,18247.31
+2024-01,Bulk Cargo,Non-Oil Bulk,2054.46
+2024-02,General Cargo,Containerised,28465.61
+2024-02,General Cargo,Conventional,2548.75
+2024-02,Bulk Cargo,Oil,16802
+2024-02,Bulk Cargo,Non-Oil Bulk,2172.28
+2024-03,General Cargo,Containerised,31609.63
+2024-03,General Cargo,Conventional,1937.72
+2024-03,Bulk Cargo,Oil,18088.45
+2024-03,Bulk Cargo,Non-Oil Bulk,2045.06
+2024-04,General Cargo,Containerised,31492.02
+2024-04,General Cargo,Conventional,1883.28
+2024-04,Bulk Cargo,Oil,17542.81
+2024-04,Bulk Cargo,Non-Oil Bulk,3141.31
+2024-05,General Cargo,Containerised,33092.54
+2024-05,General Cargo,Conventional,2058.6
+2024-05,Bulk Cargo,Oil,16877.8
+2024-05,Bulk Cargo,Non-Oil Bulk,2887.81
+2024-06,General Cargo,Containerised,30962.99
+2024-06,General Cargo,Conventional,2030.61
+2024-06,Bulk Cargo,Oil,15676.09
+2024-06,Bulk Cargo,Non-Oil Bulk,2277.01
+2024-07,General Cargo,Containerised,32535.15
+2024-07,General Cargo,Conventional,2421.27
+2024-07,Bulk Cargo,Oil,14458.6
+2024-07,Bulk Cargo,Non-Oil Bulk,2784.83
+2024-08,General Cargo,Containerised,32332.64
+2024-08,General Cargo,Conventional,2469.57
+2024-08,Bulk Cargo,Oil,14694.95
+2024-08,Bulk Cargo,Non-Oil Bulk,2527.04
+2024-09,General Cargo,Containerised,29886.09
+2024-09,General Cargo,Conventional,2338.79
+2024-09,Bulk Cargo,Oil,14940.26
+2024-09,Bulk Cargo,Non-Oil Bulk,2773.11
+2024-10,General Cargo,Containerised,30840.67
+2024-10,General Cargo,Conventional,2342.87
+2024-10,Bulk Cargo,Oil,14530.22
+2024-10,Bulk Cargo,Non-Oil Bulk,2636.94
+2024-11,General Cargo,Containerised,28653.08
+2024-11,General Cargo,Conventional,2589.52
+2024-11,Bulk Cargo,Oil,16405.75
+2024-11,Bulk Cargo,Non-Oil Bulk,2418.3
+2024-12,General Cargo,Containerised,30463.03
+2024-12,General Cargo,Conventional,2586.22
+2024-12,Bulk Cargo,Oil,17050.76
+2024-12,Bulk Cargo,Non-Oil Bulk,3250.56
+2025-01,General Cargo,Containerised,29576.29
+2025-01,General Cargo,Conventional,2438.56
+2025-01,Bulk Cargo,Oil,14459.15
+2025-01,Bulk Cargo,Non-Oil Bulk,2398.62
+2025-02,General Cargo,Containerised,27432.08
+2025-02,General Cargo,Conventional,2244.24
+2025-02,Bulk Cargo,Oil,14633.91
+2025-02,Bulk Cargo,Non-Oil Bulk,2570.47
+2025-03,General Cargo,Containerised,31018.83
+2025-03,General Cargo,Conventional,2675.52
+2025-03,Bulk Cargo,Oil,15949.33
+2025-03,Bulk Cargo,Non-Oil Bulk,2717.95
+2025-04,General Cargo,Containerised,30719.02
+2025-04,General Cargo,Conventional,2264.94
+2025-04,Bulk Cargo,Oil,14229.48
+2025-04,Bulk Cargo,Non-Oil Bulk,2563.42
+2025-05,General Cargo,Containerised,31935.46
+2025-05,General Cargo,Conventional,2651.82
+2025-05,Bulk Cargo,Oil,15574.53
+2025-05,Bulk Cargo,Non-Oil Bulk,2693.71
+2025-06,General Cargo,Containerised,30156.75
+2025-06,General Cargo,Conventional,2583.02
+2025-06,Bulk Cargo,Oil,14648.71
+2025-06,Bulk Cargo,Non-Oil Bulk,2519.99
+2025-07,General Cargo,Containerised,31378.35
+2025-07,General Cargo,Conventional,2626.31
+2025-07,Bulk Cargo,Oil,18180.26
+2025-07,Bulk Cargo,Non-Oil Bulk,2277.77
+2025-08,General Cargo,Containerised,31577.18
+2025-08,General Cargo,Conventional,2654.76
+2025-08,Bulk Cargo,Oil,15388.03
+2025-08,Bulk Cargo,Non-Oil Bulk,3387.96
+2025-09,General Cargo,Containerised,30088.26
+2025-09,General Cargo,Conventional,2739.6
+2025-09,Bulk Cargo,Oil,16111.25
+2025-09,Bulk Cargo,Non-Oil Bulk,2518.65
+2025-10,General Cargo,Containerised,31161.99
+2025-10,General Cargo,Conventional,2847.24
+2025-10,Bulk Cargo,Oil,16568.66
+2025-10,Bulk Cargo,Non-Oil Bulk,2769.92
+2025-11,General Cargo,Containerised,30568.3
+2025-11,General Cargo,Conventional,2601.99
+2025-11,Bulk Cargo,Oil,14805.49
+2025-11,Bulk Cargo,Non-Oil Bulk,2587.53
+2025-12,General Cargo,Containerised,31926.8
+2025-12,General Cargo,Conventional,2875.43
+2025-12,Bulk Cargo,Oil,13291.05
+2025-12,Bulk Cargo,Non-Oil Bulk,2746.54
+2026-01,General Cargo,Containerised,31628.63
+2026-01,General Cargo,Conventional,3704.8
+2026-01,Bulk Cargo,Oil,16341.36
+2026-01,Bulk Cargo,Non-Oil Bulk,3592.13
