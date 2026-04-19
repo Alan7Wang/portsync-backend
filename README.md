@@ -66,7 +66,7 @@ The Data Simulator implements a **Parameterized Route Advancement Model**:
 
 - Vessels follow pre-defined Singapore Strait route templates (TSS lanes, port approaches, anchorages)
 - Speed and heading constraints are sampled from real **NOAA AIS statistical distributions**
-- Position updated every 30s using dead-reckoning with Gaussian heading jitter
+- Position updated every 60s using dead-reckoning with Gaussian heading jitter
 - Boundary detection resets vessels to route entry points when out-of-bounds
 
 ## Related Repositories
